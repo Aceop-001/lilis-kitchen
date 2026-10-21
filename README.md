@@ -97,7 +97,7 @@ Each entry: repository · ⭐ GitHub stars · description. Descriptions come fro
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) · ⭐ 28.9k · MLX: An array framework for Apple silicon
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) · ⭐ 7.4k · Run LLMs with MLX
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) · ⭐ 26.4k · Distribute and run LLMs with a single file.
-- [nvidia/flare-local-inference](https://github.com/nvidia/flare-local-inference) · ⭐ 393 · Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them… *(vault note)*
+- [nvidia/flare-local-inference](https://github.com/nvidia/flare-local-inference) · ⭐ 394 · Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them… *(vault note)*
 - [nvidia/tensorrt-llm](https://github.com/nvidia/tensorrt-llm) · ⭐ 14.9k · TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizat…
 - [ollama/ollama](https://github.com/ollama/ollama) · ⭐ 184.2k · Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) · ⭐ 156.4k · User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
