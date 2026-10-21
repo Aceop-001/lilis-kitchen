@@ -28,9 +28,9 @@ Discover open source. Stay curious. Build something awesome. 🚀
 
 **306 unique repositories** across **17 categories**.
 
-**Last metadata refresh:** 2026-10-21 22:06 IST
+**Last metadata refresh:** 2026-10-21 22:07 IST
 
-**Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚙️ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 🗄️ Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🛠️ Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · ⌨️ Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure
+**Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚡ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 💾 Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🧰 Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · 🐚 Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure
 
 Star counts and primary languages come from GitHub at refresh time. Descriptions come from GitHub; entries marked *(vault note)* use the vault’s own summary because GitHub has none.
 
@@ -41,17 +41,17 @@ Star counts and primary languages come from GitHub at refresh time. Descriptions
 3. [🧠 LLM inference, local AI, and model serving](#-llm-inference-local-ai-and-model-serving) (19)
 4. [📖 RAG, vector search, and knowledge management](#-rag-vector-search-and-knowledge-management) (19)
 5. [💻 AI coding assistants and developer productivity](#-ai-coding-assistants-and-developer-productivity) (14)
-6. [⚙️ Automation, workflows, and scripting](#-automation-workflows-and-scripting) (14)
+6. [⚡ Automation, workflows, and scripting](#-automation-workflows-and-scripting) (14)
 7. [🔌 APIs, MCP servers, and integrations](#-apis-mcp-servers-and-integrations) (13)
-8. [🗄️ Databases, storage, backups, and synchronization](#-databases-storage-backups-and-synchronization) (18)
+8. [💾 Databases, storage, backups, and synchronization](#-databases-storage-backups-and-synchronization) (18)
 9. [🔐 Security, privacy, and reverse engineering](#-security-privacy-and-reverse-engineering) (25)
-10. [🛠️ Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (17)
+10. [🧰 Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (17)
 11. [🌐 Web development and application frameworks](#-web-development-and-application-frameworks) (20)
 12. [🏠 Self-hosted applications and infrastructure](#-self-hosted-applications-and-infrastructure) (20)
 13. [🔍 Observability, testing, and debugging](#-observability-testing-and-debugging) (18)
 14. [📊 Data engineering and analytics](#-data-engineering-and-analytics) (17)
 15. [🎓 Research tools, documentation, and learning resources](#-research-tools-documentation-and-learning-resources) (20)
-16. [⌨️ Useful command-line tools and small utilities](#-useful-command-line-tools-and-small-utilities) (23)
+16. [🐚 Useful command-line tools and small utilities](#-useful-command-line-tools-and-small-utilities) (23)
 17. [🗽 Digital independence and long-term personal infrastructure](#-digital-independence-and-long-term-personal-infrastructure) (21)
 
 ---
@@ -731,7 +731,7 @@ Code at the speed of thought – Zed is a high-performance, multiplayer code edi
 
 ---
 
-## ⚙️ Automation, workflows, and scripting
+## ⚡ Automation, workflows, and scripting
 
 Workflow automation, task runners, and scripting tools.
 
@@ -961,7 +961,7 @@ Opensource IDE For Exploring and Testing API's (lightweight alternative to Postm
 
 ---
 
-## 🗄️ Databases, storage, backups, and synchronization
+## 💾 Databases, storage, backups, and synchronization
 
 Databases, storage engines, backup tools, and file synchronization.
 
@@ -1319,7 +1319,7 @@ An open-source user mode debugger for Windows. Optimized for reverse engineering
 
 ---
 
-## 🛠️ Programming languages, compilers, and developer tooling
+## 🧰 Programming languages, compilers, and developer tooling
 
 Programming languages, compilers, and developer tooling.
 
@@ -2257,7 +2257,7 @@ Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite
 
 ---
 
-## ⌨️ Useful command-line tools and small utilities
+## 🐚 Useful command-line tools and small utilities
 
 Handy command-line tools and small utilities.
 
