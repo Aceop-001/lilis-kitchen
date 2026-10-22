@@ -1,6 +1,6 @@
 # 🍳 Lili’s Kitchen
 
-Lili’s Kitchen is an open-source discovery and collection project managed by Aceop and powered by Grok Bot automation.
+Lili’s Kitchen is an automated open-source discovery and collection project powered by Grok Bot.
 
 > **Grok Bot discovers open-source projects. Lili’s Kitchen organizes them.**
 
