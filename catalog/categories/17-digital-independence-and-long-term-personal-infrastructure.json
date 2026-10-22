@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T14:29:13+05:30",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 22,
@@ -15,7 +15,7 @@
    "description": "Anonymous email forwarding",
    "description_source": "github",
    "language": "PHP",
-   "stars": 4915,
+   "stars": 4900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 77641,
+   "stars": 77600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
    "description_source": "github",
    "language": "Java",
-   "stars": 13367,
+   "stars": 13400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
    "description_source": "github",
    "language": "Python",
-   "stars": 4720,
+   "stars": 4700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 778,
+   "stars": 783,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "💚 End-to-end encrypted cloud for everything.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 29523,
+   "stars": 29500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The official source code repository for the calibre ebook manager",
    "description_source": "github",
    "language": "Python",
-   "stars": 26215,
+   "stars": 26200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 56831,
+   "stars": 56800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🐀 A decentralised discussion platform for communities.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 14640,
+   "stars": 14600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Your self-hosted, globally interconnected microblogging community",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50428,
+   "stars": 50400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "SUPERSEDED by https://github.com/mozilla-firefox/firefox. Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 3692,
+   "stars": 3700,
    "archived": true,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
    "description_source": "github",
    "language": "C++",
-   "stars": 15733,
+   "stars": 15700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "OsmAnd",
    "description_source": "github",
    "language": "Java",
-   "stars": 6102,
+   "stars": 6100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A private messenger for Android.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 29514,
+   "stars": 29500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 2944,
+   "stars": 3000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "The SimpleLogin back-end and web app",
    "description_source": "github",
    "language": "Python",
-   "stars": 7071,
+   "stars": 7100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 6676,
+   "stars": 6700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 14120,
+   "stars": 14100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 73749,
+   "stars": 73800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 8037,
+   "stars": 8000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "Source code for 2FAS Auth Android app",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 1542,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   }

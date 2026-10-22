@@ -43,15 +43,21 @@ python3 ~/.claude/skills/lilis-kitchen/scripts/search.py "ai agent framework" --
 ```
 
 ```text
-1. mastra-ai/mastra
+Lili's Kitchen catalog search: 'ai agent framework' (metadata refreshed 2026-10-22T15:03:39+05:30)
+Matches span categories: 🤖 AI agents and agent frameworks (2); 📖 RAG, vector search, and knowledge management (1)
+
+1. mastra-ai/mastra  (score 18.3)
    https://github.com/mastra-ai/mastra
    Mastra is the modern TypeScript framework for AI-powered applications and agents.
-   Stars: 28,997 · Language: TypeScript · Category: 🤖 AI agents and agent frameworks
+   Stars: 29,000 · Language: TypeScript · Category: 🤖 AI agents and agent frameworks
+...
 ```
+
+(Abridged: results 2 and 3 follow in the same format. Scores, star counts and the refresh time change as the catalog is updated.)
 
 **How it stays current:** the catalog is regenerated from the vault by the same daily publishing run that refreshes this README, after the vault sync succeeds, and is committed only when it changes.
 
-**Limitations:** the skill needs shell access with `python3` or a web-fetch tool (it cannot reach the internet on its own); search is keyword-based; results cover only this curated collection; star counts are a daily snapshot. The skill only recommends projects and never installs them. There is no hosted API or MCP server yet.
+**Limitations:** the skill needs shell access with `python3` or a web-fetch tool (it cannot reach the internet on its own); search is keyword-based; results cover only this curated collection; star counts are a daily snapshot, rounded like the README (e.g. 28,997 is stored as 29,000). The skill only recommends projects and never installs them. There is no hosted API or MCP server yet.
 
 ## 📚 The Vault
 

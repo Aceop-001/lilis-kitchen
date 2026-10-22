@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T14:29:13+05:30",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 13,
@@ -15,7 +15,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 33843,
+   "stars": 33800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 80675,
+   "stars": 80700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "🦍 The API and AI Gateway",
    "description_source": "github",
    "language": "Lua",
-   "stars": 44287,
+   "stars": 44300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Playwright MCP server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38495,
+   "stars": 38500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Visual testing tool for MCP servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 11123,
+   "stars": 11100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Specification and documentation for the Model Context Protocol",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 9505,
+   "stars": 9500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "The official Python SDK for Model Context Protocol servers and clients",
    "description_source": "github",
    "language": "Python",
-   "stars": 24640,
+   "stars": 24600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Model Context Protocol Servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91470,
+   "stars": 91500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 13638,
+   "stars": 13600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "The OpenAPI Specification Repository",
    "description_source": "github",
    "language": "Markdown",
-   "stars": 31270,
+   "stars": 31300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "description_source": "github",
    "language": "Python",
-   "stars": 28171,
+   "stars": 28200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 96739,
+   "stars": 96700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 47803,
+   "stars": 47800,
    "archived": false,
    "metadata_status": "live"
   }

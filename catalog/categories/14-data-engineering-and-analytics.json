@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T14:29:13+05:30",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 17,
@@ -15,7 +15,7 @@
    "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
    "description_source": "github",
    "language": "Python",
-   "stars": 22254,
+   "stars": 22300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
    "description_source": "github",
    "language": "C++",
-   "stars": 17214,
+   "stars": 17200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Apache Iceberg",
    "description_source": "github",
    "language": "Java",
-   "stars": 9358,
+   "stars": 9400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Apache Spark - A unified analytics engine for large-scale data processing",
    "description_source": "github",
    "language": "Scala",
-   "stars": 44267,
+   "stars": 44300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 75250,
+   "stars": 75200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "An orchestration platform for the development, production, and observation of data assets.",
    "description_source": "github",
    "language": "Python",
-   "stars": 16313,
+   "stars": 16300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 14061,
+   "stars": 14100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
    "description_source": "github",
    "language": "Scala",
-   "stars": 9052,
+   "stars": 9100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
    "description_source": "github",
    "language": "Python",
-   "stars": 5997,
+   "stars": 6000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 7046,
+   "stars": 7000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Always know what to expect from your data.",
    "description_source": "github",
    "language": "Python",
-   "stars": 11890,
+   "stars": 11900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Jupyter Interactive Notebook",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 13459,
+   "stars": 13500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
    "description_source": "github",
    "language": "Python",
-   "stars": 23285,
+   "stars": 23300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 49793,
+   "stars": 49800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
    "description_source": "github",
    "language": "Python",
-   "stars": 50241,
+   "stars": 50200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Extremely fast Query Engine for DataFrames, written in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 40153,
+   "stars": 40200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Streamlit — A faster way to build and share data apps.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46080,
+   "stars": 46100,
    "archived": false,
    "metadata_status": "live"
   }

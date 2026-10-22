@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T14:29:13+05:30",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 18,
@@ -15,7 +15,7 @@
    "description": "AI Observability & Evaluation",
    "description_source": "github",
    "language": "Python",
-   "stars": 11947,
+   "stars": 11900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Stack trace visualizer",
    "description_source": "github",
    "language": "Perl",
-   "stars": 19801,
+   "stars": 19800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The LLM Evaluation Framework",
    "description_source": "github",
    "language": "Python",
-   "stars": 19030,
+   "stars": 19000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Developer-first error tracking and performance monitoring",
    "description_source": "github",
    "language": "Python",
-   "stars": 45631,
+   "stars": 45600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 77421,
+   "stars": 77400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "A modern load testing tool, using Go and JavaScript",
    "description_source": "github",
    "language": "Go",
-   "stars": 32003,
+   "stars": 32000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Like Prometheus, but for logs.",
    "description_source": "github",
    "language": "Go",
-   "stars": 29049,
+   "stars": 29000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
    "description_source": "github",
    "language": "C",
-   "stars": 22716,
+   "stars": 22700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "CNCF Jaeger, a Distributed Tracing Platform",
    "description_source": "github",
    "language": "Go",
-   "stars": 23327,
+   "stars": 23300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 36169,
+   "stars": 36200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "OpenTelemetry Collector",
    "description_source": "github",
    "language": "Go",
-   "stars": 7686,
+   "stars": 7700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 66696,
+   "stars": 66700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 26258,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
    "description_source": "github",
    "language": "Python",
-   "stars": 14627,
+   "stars": 14600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Record and Replay Framework",
    "description_source": "github",
    "language": "C++",
-   "stars": 10711,
+   "stars": 10700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32423,
+   "stars": 32400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
    "description_source": "github",
    "language": "Go",
-   "stars": 17891,
+   "stars": 17900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Next generation testing framework powered by Vite.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 17269,
+   "stars": 17300,
    "archived": false,
    "metadata_status": "live"
   }

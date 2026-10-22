@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T14:29:13+05:30",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 24,
@@ -15,7 +15,7 @@
    "description": "A smarter cd command. Supports all major shells.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 40242,
+   "stars": 40200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "A monitor of resources",
    "description_source": "github",
    "language": "C++",
-   "stars": 35069,
+   "stars": 35100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "✨ Making your shell magical",
    "description_source": "github",
    "language": "Rust",
-   "stars": 32051,
+   "stars": 32100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69328,
+   "stars": 69300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A tool for glamorous shell scripts 🎀",
    "description_source": "github",
    "language": "Go",
-   "stars": 24524,
+   "stars": 24500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Yet another cross-platform graphical process/system monitor.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 14115,
+   "stars": 14100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "A modern alternative to ls",
    "description_source": "github",
    "language": "Rust",
-   "stars": 23629,
+   "stars": 23600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 65552,
+   "stars": 65600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "htop - an interactive process viewer",
    "description_source": "github",
    "language": "C",
-   "stars": 8409,
+   "stars": 8400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 581,
+   "stars": 582,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
    "description_source": "github",
    "language": "C",
-   "stars": 17704,
+   "stars": 17700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Command-line JSON processor",
    "description_source": "github",
    "language": "C",
-   "stars": 35904,
+   "stars": 35900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": ":cherry_blossom: A command-line fuzzy finder",
    "description_source": "github",
    "language": "Go",
-   "stars": 83716,
+   "stars": 83700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "ShellCheck, a static analysis tool for shell scripts",
    "description_source": "github",
    "language": "Haskell",
-   "stars": 40215,
+   "stars": 40200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
    "description_source": "github",
    "language": "Go",
-   "stars": 16165,
+   "stars": 16200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A cat(1) clone with wings.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60891,
+   "stars": 60900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "A simple, fast and user-friendly alternative to 'find'",
    "description_source": "github",
    "language": "Rust",
-   "stars": 44831,
+   "stars": 44800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A command-line benchmarking tool",
    "description_source": "github",
    "language": "Rust",
-   "stars": 29139,
+   "stars": 29100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60387,
+   "stars": 60400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "A very fast implementation of tldr in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 6613,
+   "stars": 6600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "tmux source code",
    "description_source": "github",
    "language": "C",
-   "stars": 49972,
+   "stars": 50000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "Count your code, quickly.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 15010,
+   "stars": 15000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 200249,
+   "stars": 200300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "A terminal workspace with batteries included",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35801,
+   "stars": 35800,
    "archived": false,
    "metadata_status": "live"
   }
