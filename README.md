@@ -28,7 +28,7 @@ Discover open source. Stay curious. Build something awesome. 🚀
 
 **311 unique repositories** across **17 categories**.
 
-**Last metadata refresh:** 2026-10-22 05:45 IST
+**Last metadata refresh:** 2026-10-22 08:28 IST
 
 **Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚡ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 💾 Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🧰 Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · 🐚 Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure
 
@@ -88,7 +88,7 @@ Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 
 An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-⭐ Stars: 21.9k  
+⭐ Stars: 22k  
 💻 Language: Python  
 🔗 [github.com/google/adk-python](https://github.com/google/adk-python)
 
@@ -310,7 +310,7 @@ The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in th…
 
-⭐ Stars: 141.5k  
+⭐ Stars: 141.6k  
 💻 Language: Python  
 🔗 [github.com/comfy-org/comfyui](https://github.com/comfy-org/comfyui)
 
@@ -326,7 +326,7 @@ Run frontier AI locally.
 
 LLM inference in C/C++
 
-⭐ Stars: 131.9k  
+⭐ Stars: 132k  
 💻 Language: C++  
 🔗 [github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -390,7 +390,7 @@ Distribute and run LLMs with a single file.
 
 Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them… *(vault note)*
 
-⭐ Stars: 503  
+⭐ Stars: 530  
 💻 Language: Python  
 🔗 [github.com/nvidia/flare-local-inference](https://github.com/nvidia/flare-local-inference)
 
@@ -660,7 +660,7 @@ A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.
 
-⭐ Stars: 532  
+⭐ Stars: 537  
 💻 Language: Rust  
 🔗 [github.com/dominikmartn/harp](https://github.com/dominikmartn/harp)
 
@@ -700,7 +700,7 @@ Vim-fork focused on extensibility and usability
 
 A framework for managing and maintaining multi-language pre-commit hooks.
 
-⭐ Stars: 15.6k  
+⭐ Stars: 15.7k  
 💻 Language: Python  
 🔗 [github.com/pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
 
@@ -763,7 +763,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
-⭐ Stars: 47.2k  
+⭐ Stars: 47.3k  
 💻 Language: Python  
 🔗 [github.com/apache/airflow](https://github.com/apache/airflow)
 
@@ -1009,7 +1009,7 @@ DuckDB is a high-performance analytical database system
 
 A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 
-⭐ Stars: 384  
+⭐ Stars: 388  
 💻 Language: Rust  
 🔗 [github.com/kividbio/kividb](https://github.com/kividbio/kividb)
 
@@ -1089,7 +1089,7 @@ Official Git mirror of the SQLite source tree
 
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-⭐ Stars: 113k  
+⭐ Stars: 113.1k  
 💻 Language: TypeScript  
 🔗 [github.com/supabase/supabase](https://github.com/supabase/supabase)
 
@@ -1200,7 +1200,7 @@ An open source, self-hosted implementation of the Tailscale control server
 
 Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future,…
 
-⭐ Stars: 902  
+⭐ Stars: 905  
 💻 Language: Python  
 🔗 [github.com/katrielmoses/voidaccess](https://github.com/katrielmoses/voidaccess)
 
@@ -1216,7 +1216,7 @@ KeePassXC is a cross-platform community-driven port of the Windows application �
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
-⭐ Stars: 45.8k  
+⭐ Stars: 45.9k  
 💻 Language: Python  
 🔗 [github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
@@ -1224,7 +1224,7 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 
 Ghidra is a software reverse engineering (SRE) framework
 
-⭐ Stars: 92.6k  
+⭐ Stars: 92.7k  
 💻 Language: Java  
 🔗 [github.com/nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra)
 
@@ -1248,7 +1248,7 @@ the LLM vulnerability scanner
 
 Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabiliti… *(vault note)*
 
-⭐ Stars: 375  
+⭐ Stars: 454  
 💻 Language: JavaScript  
 🔗 [github.com/openai/php2shell-checker](https://github.com/openai/php2shell-checker)
 
@@ -1264,7 +1264,7 @@ OpenBao is a software solution to manage, store, and distribute sensitive data i
 
 A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collabor…
 
-⭐ Stars: 310  
+⭐ Stars: 329  
 💻 Language: Java  
 🔗 [github.com/opentrap/opentrap](https://github.com/opentrap/opentrap)
 
@@ -1574,7 +1574,7 @@ The library for web and native user interfaces.
 
 Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and mak…
 
-⭐ Stars: 126.1k  
+⭐ Stars: 126.2k  
 💻 Language: TypeScript  
 🔗 [github.com/shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
@@ -1638,7 +1638,7 @@ Next generation frontend tooling. It's fast!
 
 Fast and simple diagrams.
 
-⭐ Stars: 354  
+⭐ Stars: 356  
 💻 Language: Rust  
 🔗 [github.com/wevm/ondine](https://github.com/wevm/ondine)
 
@@ -1717,7 +1717,7 @@ High performance self-hosted photo and video management solution.
 
 The Free Software Media System - Server Backend & API
 
-⭐ Stars: 58.3k  
+⭐ Stars: 58.4k  
 💻 Language: C#  
 🔗 [github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
@@ -1876,7 +1876,7 @@ A modern load testing tool, using Go and JavaScript
 
 Like Prometheus, but for logs.
 
-⭐ Stars: 29k  
+⭐ Stars: 29.1k  
 💻 Language: Go  
 🔗 [github.com/grafana/loki](https://github.com/grafana/loki)
 
@@ -1900,7 +1900,7 @@ CNCF Jaeger, a Distributed Tracing Platform
 
 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 
-⭐ Stars: 36.1k  
+⭐ Stars: 36.2k  
 💻 Language: TypeScript  
 🔗 [github.com/langfuse/langfuse](https://github.com/langfuse/langfuse)
 
@@ -2138,7 +2138,7 @@ An autonomous agent that conducts deep research on any data using any LLM provid
 
 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-⭐ Stars: 375k  
+⭐ Stars: 375.1k  
 💻 Language: Python  
 🔗 [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
@@ -2154,7 +2154,7 @@ Easy to maintain open source documentation websites.
 
 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
-⭐ Stars: 457.6k  
+⭐ Stars: 457.7k  
 💻 Language: TypeScript  
 🔗 [github.com/freecodecamp/freecodecamp](https://github.com/freecodecamp/freecodecamp)
 
@@ -2218,7 +2218,7 @@ A collective list of free APIs
 
 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
-⭐ Stars: 107k  
+⭐ Stars: 107.1k  
 💻 Language: Jupyter Notebook  
 🔗 [github.com/rasbt/llms-from-scratch](https://github.com/rasbt/llms-from-scratch)
 
@@ -2361,7 +2361,7 @@ htop - an interactive process viewer
 
 A tool to generate normal maps from any sprite and animated sprite sheet.
 
-⭐ Stars: 547  
+⭐ Stars: 557  
 💻 Language: Rust  
 🔗 [github.com/hugo-dz/spritefusion-sprite-normals](https://github.com/hugo-dz/spritefusion-sprite-normals)
 
@@ -2465,7 +2465,7 @@ Count your code, quickly.
 
 A feature-rich command-line audio/video downloader
 
-⭐ Stars: 200k  
+⭐ Stars: 200.1k  
 💻 Language: Python  
 🔗 [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
@@ -2520,7 +2520,7 @@ Synapse: Matrix homeserver written in Python/Twisted + Rust
 
 Ely Office: offline-first desktop apps in Rust and GPUI
 
-⭐ Stars: 714  
+⭐ Stars: 725  
 💻 Language: Rust  
 🔗 [github.com/ely-open-source/elyoffice](https://github.com/ely-open-source/elyoffice)
 
@@ -2608,7 +2608,7 @@ A private messenger for Android.
 
 A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
 
-⭐ Stars: 2.7k  
+⭐ Stars: 2.8k  
 💻 Language: Java  
 🔗 [github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
 
