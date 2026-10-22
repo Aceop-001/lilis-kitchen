@@ -24,6 +24,35 @@ Lili’s Kitchen is an ongoing project that grows with every discovery. Whether 
 
 Discover open source. Stay curious. Build something awesome. 🚀
 
+## 🧑‍🍳 Lili’s Kitchen Agent Skill
+
+The vault is also published as a machine-readable catalog ([`catalog/catalog.json`](catalog/catalog.json), plus a small [`catalog/index.json`](catalog/index.json) and per-category files in [`catalog/categories/`](catalog/categories/)) together with an installable [Agent Skill](https://agentskills.io) at [`skills/lilis-kitchen/`](skills/lilis-kitchen/SKILL.md). An agent that needs a tool, library, framework, MCP server or skill can search the collection and get back linked recommendations with description, language and stars.
+
+**Install (Claude Code, or any agent that reads Agent Skills folders):**
+
+```bash
+git clone https://github.com/Aceop-001/lilis-kitchen.git
+mkdir -p ~/.claude/skills
+cp -r lilis-kitchen/skills/lilis-kitchen ~/.claude/skills/   # personal; or .claude/skills/ inside a project
+```
+
+**Use it:** ask your agent things like “Find a browser automation tool for my coding agent”, “Is there an MCP server for GitHub?”, or “Which open-source AI agent framework should I use?”. The agent loads the skill and runs its search script. You can also run it directly (Python 3, no dependencies):
+
+```bash
+python3 ~/.claude/skills/lilis-kitchen/scripts/search.py "ai agent framework" --limit 3
+```
+
+```text
+1. mastra-ai/mastra
+   https://github.com/mastra-ai/mastra
+   Mastra is the modern TypeScript framework for AI-powered applications and agents.
+   Stars: 28,997 · Language: TypeScript · Category: 🤖 AI agents and agent frameworks
+```
+
+**How it stays current:** the catalog is regenerated from the vault by the same daily publishing run that refreshes this README, after the vault sync succeeds, and is committed only when it changes.
+
+**Limitations:** the skill needs shell access with `python3` or a web-fetch tool (it cannot reach the internet on its own); search is keyword-based; results cover only this curated collection; star counts are a daily snapshot. The skill only recommends projects and never installs them. There is no hosted API or MCP server yet.
+
 ## 📚 The Vault
 
 **311 unique repositories** across **17 categories**.
