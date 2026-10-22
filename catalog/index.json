@@ -1,0 +1,129 @@
+{
+ "schema_version": 1,
+ "project": "Lili's Kitchen",
+ "source": "https://github.com/Aceop-001/lilis-kitchen",
+ "metadata_refreshed": "2026-10-22T15:03:39+05:30",
+ "repo_count": 311,
+ "category_count": 17,
+ "categories": [
+  {
+   "id": "01-ai-agents-and-agent-frameworks",
+   "title": "🤖 AI agents and agent frameworks",
+   "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
+   "count": 16,
+   "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
+  },
+  {
+   "id": "02-agent-skills-reusable-instructions-and-tool-integrations",
+   "title": "🧩 Agent skills, reusable instructions, and tool integrations",
+   "description": "Reusable agent skills, instruction sets, and tool integrations that extend what agents can do.",
+   "count": 12,
+   "file": "catalog/categories/02-agent-skills-reusable-instructions-and-tool-integrations.json"
+  },
+  {
+   "id": "03-llm-inference-local-ai-and-model-serving",
+   "title": "🧠 LLM inference, local AI, and model serving",
+   "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
+   "count": 19,
+   "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
+  },
+  {
+   "id": "04-rag-vector-search-and-knowledge-management",
+   "title": "📖 RAG, vector search, and knowledge management",
+   "description": "Retrieval-augmented generation, vector databases, and knowledge-management systems.",
+   "count": 19,
+   "file": "catalog/categories/04-rag-vector-search-and-knowledge-management.json"
+  },
+  {
+   "id": "05-ai-coding-assistants-and-developer-productivity",
+   "title": "💻 AI coding assistants and developer productivity",
+   "description": "AI coding assistants and tools that make developers more productive.",
+   "count": 15,
+   "file": "catalog/categories/05-ai-coding-assistants-and-developer-productivity.json"
+  },
+  {
+   "id": "06-automation-workflows-and-scripting",
+   "title": "⚡ Automation, workflows, and scripting",
+   "description": "Workflow automation, task runners, and scripting tools.",
+   "count": 14,
+   "file": "catalog/categories/06-automation-workflows-and-scripting.json"
+  },
+  {
+   "id": "07-apis-mcp-servers-and-integrations",
+   "title": "🔌 APIs, MCP servers, and integrations",
+   "description": "API tooling, Model Context Protocol (MCP) servers, and service integrations.",
+   "count": 13,
+   "file": "catalog/categories/07-apis-mcp-servers-and-integrations.json"
+  },
+  {
+   "id": "08-databases-storage-backups-and-synchronization",
+   "title": "💾 Databases, storage, backups, and synchronization",
+   "description": "Databases, storage engines, backup tools, and file synchronization.",
+   "count": 18,
+   "file": "catalog/categories/08-databases-storage-backups-and-synchronization.json"
+  },
+  {
+   "id": "09-security-privacy-and-reverse-engineering",
+   "title": "🔐 Security, privacy, and reverse engineering",
+   "description": "Security, privacy, and reverse-engineering tools.",
+   "count": 27,
+   "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
+  },
+  {
+   "id": "10-programming-languages-compilers-and-developer-tooling",
+   "title": "🧰 Programming languages, compilers, and developer tooling",
+   "description": "Programming languages, compilers, and developer tooling.",
+   "count": 17,
+   "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
+  },
+  {
+   "id": "11-web-development-and-application-frameworks",
+   "title": "🌐 Web development and application frameworks",
+   "description": "Web development and application frameworks.",
+   "count": 20,
+   "file": "catalog/categories/11-web-development-and-application-frameworks.json"
+  },
+  {
+   "id": "12-self-hosted-applications-and-infrastructure",
+   "title": "🏠 Self-hosted applications and infrastructure",
+   "description": "Self-hosted applications and infrastructure you can run yourself.",
+   "count": 20,
+   "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
+  },
+  {
+   "id": "13-observability-testing-and-debugging",
+   "title": "🔍 Observability, testing, and debugging",
+   "description": "Observability, testing, and debugging tools.",
+   "count": 18,
+   "file": "catalog/categories/13-observability-testing-and-debugging.json"
+  },
+  {
+   "id": "14-data-engineering-and-analytics",
+   "title": "📊 Data engineering and analytics",
+   "description": "Data engineering, pipelines, and analytics.",
+   "count": 17,
+   "file": "catalog/categories/14-data-engineering-and-analytics.json"
+  },
+  {
+   "id": "15-research-tools-documentation-and-learning-resources",
+   "title": "🎓 Research tools, documentation, and learning resources",
+   "description": "Research tools, documentation, and learning resources.",
+   "count": 20,
+   "file": "catalog/categories/15-research-tools-documentation-and-learning-resources.json"
+  },
+  {
+   "id": "16-useful-command-line-tools-and-small-utilities",
+   "title": "🐚 Useful command-line tools and small utilities",
+   "description": "Handy command-line tools and small utilities.",
+   "count": 24,
+   "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
+  },
+  {
+   "id": "17-digital-independence-and-long-term-personal-infrastructure",
+   "title": "🗽 Digital independence and long-term personal infrastructure",
+   "description": "Projects for digital independence and long-term personal infrastructure.",
+   "count": 22,
+   "file": "catalog/categories/17-digital-independence-and-long-term-personal-infrastructure.json"
+  }
+ ]
+}
