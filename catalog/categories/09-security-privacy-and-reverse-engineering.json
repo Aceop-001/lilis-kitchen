@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:03:39+05:30",
+ "metadata_refreshed": "2026-10-22T15:10:25+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
  "repo_count": 27,
@@ -195,7 +195,7 @@
    "description": "Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabilities (CVE-2026-109618/109619).",
    "description_source": "vault_note",
    "language": "JavaScript",
-   "stars": 626,
+   "stars": 627,
    "archived": false,
    "metadata_status": "live"
   },

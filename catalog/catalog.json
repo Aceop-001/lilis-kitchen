@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:03:39+05:30",
+ "metadata_refreshed": "2026-10-22T15:10:25+05:30",
  "repo_count": 311,
  "category_count": 17,
  "repositories": [
@@ -482,7 +482,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 574,
+   "stars": 575,
    "archived": false,
    "metadata_status": "live"
   },
@@ -866,7 +866,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 564,
+   "stars": 565,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1706,7 +1706,7 @@
    "description": "Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabilities (CVE-2026-109618/109619).",
    "description_source": "vault_note",
    "language": "JavaScript",
-   "stars": 626,
+   "stars": 627,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3530,7 +3530,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 783,
+   "stars": 784,
    "archived": false,
    "metadata_status": "live"
   },
