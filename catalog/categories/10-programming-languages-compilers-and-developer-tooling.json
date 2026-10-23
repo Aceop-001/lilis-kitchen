@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 17,
+ "repo_count": 18,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -56,6 +56,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "colinhacks/reylo",
+   "url": "https://github.com/colinhacks/reylo",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 662,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "denoland/deno",
    "url": "https://github.com/denoland/deno",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -75,7 +87,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139400,
+   "stars": 139500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 122500,
+   "stars": 122600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
    "description_source": "github",
    "language": "Rust",
-   "stars": 96300,
+   "stars": 96400,
    "archived": false,
    "metadata_status": "live"
   },

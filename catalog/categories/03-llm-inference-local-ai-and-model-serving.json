@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
  "repo_count": 19,
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 141800,
+   "stars": 142000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132000,
+   "stars": 132100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 575,
+   "stars": 607,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 156400,
+   "stars": 156500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Faster Whisper transcription with CTranslate2",
    "description_source": "github",
    "language": "Python",
-   "stars": 26000,
+   "stars": 26100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 95100,
+   "stars": 95200,
    "archived": false,
    "metadata_status": "live"
   }

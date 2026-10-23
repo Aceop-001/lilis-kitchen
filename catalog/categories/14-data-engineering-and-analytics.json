@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 17,
@@ -63,7 +63,7 @@
    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 75200,
+   "stars": 75300,
    "archived": false,
    "metadata_status": "live"
   },

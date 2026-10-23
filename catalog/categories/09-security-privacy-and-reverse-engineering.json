@@ -2,11 +2,23 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 27,
+ "repo_count": 28,
  "repositories": [
+  {
+   "name": "acelogic/snapintosh",
+   "url": "https://github.com/acelogic/snapintosh",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 553,
+   "archived": false,
+   "metadata_status": "live"
+  },
   {
    "name": "aquasecurity/trivy",
    "url": "https://github.com/aquasecurity/trivy",
@@ -27,7 +39,7 @@
    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
    "description_source": "github",
    "language": "C#",
-   "stars": 20400,
+   "stars": 20500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +51,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69400,
+   "stars": 69500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 908,
+   "stars": 911,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46000,
+   "stars": 46200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 92800,
+   "stars": 93200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "the LLM vulnerability scanner",
    "description_source": "github",
    "language": "Python",
-   "stars": 9600,
+   "stars": 9700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabilities (CVE-2026-109618/109619).",
    "description_source": "vault_note",
    "language": "JavaScript",
-   "stars": 627,
+   "stars": 814,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
    "description_source": "github",
    "language": "Go",
-   "stars": 8600,
+   "stars": 8700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 344,
+   "stars": 381,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 37900,
+   "stars": 38000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +315,7 @@
    "description": "Find, verify, and analyze leaked credentials",
    "description_source": "github",
    "language": "Go",
-   "stars": 28600,
+   "stars": 28700,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 13,
@@ -15,7 +15,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 33800,
+   "stars": 33900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 96700,
+   "stars": 96800,
    "archived": false,
    "metadata_status": "live"
   },

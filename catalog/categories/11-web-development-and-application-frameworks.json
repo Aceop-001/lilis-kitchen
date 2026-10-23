@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "bigskysoftware/htmx",
@@ -27,7 +27,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 91500,
+   "stars": 91600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
    "description_source": "github",
    "language": "Python",
-   "stars": 103400,
+   "stars": 103700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 251600,
+   "stars": 251700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27400,
+   "stars": 27500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "The React Framework",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 143100,
+   "stars": 143200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Next generation frontend tooling. It's fast!",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 83400,
+   "stars": 83500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,19 @@
    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 54700,
+   "stars": 54800,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "wesbos/3d-model-anything",
+   "url": "https://github.com/wesbos/3d-model-anything",
+   "category": "🌐 Web development and application frameworks",
+   "category_id": "11-web-development-and-application-frameworks",
+   "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+   "description_source": "github",
+   "language": "Swift",
+   "stars": 477,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 362,
+   "stars": 374,
    "archived": false,
    "metadata_status": "live"
   },

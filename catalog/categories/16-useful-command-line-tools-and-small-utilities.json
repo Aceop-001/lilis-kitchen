@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-22T15:10:25+05:30",
+ "metadata_refreshed": "2026-10-23T05:46:53+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 24,
@@ -51,7 +51,7 @@
    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69300,
+   "stars": 69400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 582,
+   "stars": 605,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 200300,
+   "stars": 200500,
    "archived": false,
    "metadata_status": "live"
   },
