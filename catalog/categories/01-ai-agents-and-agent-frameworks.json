@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-23T05:46:53+05:30",
+ "metadata_refreshed": "2026-10-24T05:40:37+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
- "repo_count": 18,
+ "repo_count": 19,
  "repositories": [
   {
    "name": "agno-agi/agno",
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 118900,
+   "stars": 119000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Build resilient agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 43700,
+   "stars": 43800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,19 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91600,
+   "stars": 91700,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "openmathmodel/open-math-harness",
+   "url": "https://github.com/openmathmodel/open-math-harness",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 126,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "DSPy: The framework for programming—not prompting—language models",
    "description_source": "github",
    "language": "Python",
-   "stars": 38700,
+   "stars": 38800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 158,
+   "stars": 184,
    "archived": false,
    "metadata_status": "live"
   }

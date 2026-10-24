@@ -2,20 +2,20 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-23T05:46:53+05:30",
+ "metadata_refreshed": "2026-10-24T05:40:37+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 28,
+ "repo_count": 30,
  "repositories": [
   {
-   "name": "acelogic/snapintosh",
-   "url": "https://github.com/acelogic/snapintosh",
+   "name": "Snapintosh/Snapintosh",
+   "url": "https://github.com/Snapintosh/Snapintosh",
    "category": "🔐 Security, privacy, and reverse engineering",
    "category_id": "09-security-privacy-and-reverse-engineering",
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "description_source": "github",
    "language": "Python",
-   "stars": 553,
+   "stars": 756,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
    "description_source": "github",
    "language": "Go",
-   "stars": 38600,
+   "stars": 38700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 30200,
+   "stars": 30300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 911,
+   "stars": 915,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46200,
+   "stars": 46300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 93200,
+   "stars": 93600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabilities (CVE-2026-109618/109619).",
    "description_source": "vault_note",
    "language": "JavaScript",
-   "stars": 814,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -224,6 +224,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "openssl/openssl",
+   "url": "https://github.com/openssl/openssl",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "General purpose TLS and crypto library",
+   "description_source": "github",
+   "language": "C",
+   "stars": 31000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "opentrap/opentrap",
    "url": "https://github.com/opentrap/opentrap",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -231,7 +243,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 381,
+   "stars": 445,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
    "description_source": "github",
    "language": "Go",
-   "stars": 32200,
+   "stars": 32300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -304,6 +316,18 @@
    "description_source": "github",
    "language": "Go",
    "stars": 38000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "theorem-labs/oss-verify-proofs",
+   "url": "https://github.com/theorem-labs/oss-verify-proofs",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
+   "description_source": "github",
+   "language": "Rocq Prover",
+   "stars": 98,
    "archived": false,
    "metadata_status": "live"
   },
