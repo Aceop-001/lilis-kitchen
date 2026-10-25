@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 21,
@@ -63,7 +63,7 @@
    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
    "description_source": "github",
    "language": "Dart",
-   "stars": 180300,
+   "stars": 180400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Web framework built on Web Standards",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32600,
+   "stars": 32700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 251700,
+   "stars": 251800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 112100,
+   "stars": 112200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1100,
+   "stars": 1600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 381,
+   "stars": 395,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
- "repo_count": 320,
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "repo_count": 324,
  "category_count": 17,
  "categories": [
   {
@@ -38,7 +38,7 @@
    "id": "05-ai-coding-assistants-and-developer-productivity",
    "title": "💻 AI coding assistants and developer productivity",
    "description": "AI coding assistants and tools that make developers more productive.",
-   "count": 15,
+   "count": 16,
    "file": "catalog/categories/05-ai-coding-assistants-and-developer-productivity.json"
   },
   {
@@ -108,21 +108,21 @@
    "id": "15-research-tools-documentation-and-learning-resources",
    "title": "🎓 Research tools, documentation, and learning resources",
    "description": "Research tools, documentation, and learning resources.",
-   "count": 20,
+   "count": 21,
    "file": "catalog/categories/15-research-tools-documentation-and-learning-resources.json"
   },
   {
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 24,
+   "count": 25,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {
    "id": "17-digital-independence-and-long-term-personal-infrastructure",
    "title": "🗽 Digital independence and long-term personal infrastructure",
    "description": "Projects for digital independence and long-term personal infrastructure.",
-   "count": 22,
+   "count": 23,
    "file": "catalog/categories/17-digital-independence-and-long-term-personal-infrastructure.json"
   }
  ]

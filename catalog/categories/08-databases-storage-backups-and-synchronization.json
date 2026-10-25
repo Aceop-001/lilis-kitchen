@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 18,
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 533,
+   "stars": 561,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
    "description_source": "github",
    "language": "C",
-   "stars": 22500,
+   "stars": 22600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 113800,
+   "stars": 113900,
    "archived": false,
    "metadata_status": "live"
   },

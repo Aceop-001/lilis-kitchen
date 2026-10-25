@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
  "repo_count": 18,
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 50200,
+   "stars": 50300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1100,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "A modern runtime for JavaScript and TypeScript.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 108700,
+   "stars": 108800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 122900,
+   "stars": 123100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 77700,
+   "stars": 77800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 120700,
+   "stars": 120800,
    "archived": false,
    "metadata_status": "live"
   },

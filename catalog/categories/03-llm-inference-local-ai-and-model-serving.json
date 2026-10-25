@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
  "repo_count": 19,
@@ -15,7 +15,7 @@
    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
    "description_source": "github",
    "language": "Python",
-   "stars": 61900,
+   "stars": 62000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 142300,
+   "stars": 142600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132200,
+   "stars": 132300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
    "description_source": "github",
    "language": "Python",
-   "stars": 168000,
+   "stars": 168100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 627,
+   "stars": 645,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 184500,
+   "stars": 184700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 156600,
+   "stars": 156700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
    "description_source": "github",
    "language": "Python",
-   "stars": 37700,
+   "stars": 37800,
    "archived": false,
    "metadata_status": "live"
   },

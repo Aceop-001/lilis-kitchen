@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
- "repo_count": 24,
+ "repo_count": 25,
  "repositories": [
   {
    "name": "ajeetdsouza/zoxide",
@@ -99,7 +99,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 65600,
+   "stars": 65700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 640,
+   "stars": 658,
    "archived": false,
    "metadata_status": "live"
   },
@@ -188,6 +188,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "obsproject/obs-studio",
+   "url": "https://github.com/obsproject/obs-studio",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+   "description_source": "github",
+   "language": "C",
+   "stars": 78100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "sharkdp/bat",
    "url": "https://github.com/sharkdp/bat",
    "category": "🐚 Useful command-line tools and small utilities",
@@ -207,7 +219,7 @@
    "description": "A simple, fast and user-friendly alternative to 'find'",
    "description_source": "github",
    "language": "Rust",
-   "stars": 44800,
+   "stars": 44900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 201000,
+   "stars": 201500,
    "archived": false,
    "metadata_status": "live"
   },

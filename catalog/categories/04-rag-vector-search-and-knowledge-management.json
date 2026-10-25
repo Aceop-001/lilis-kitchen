@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 148300,
+   "stars": 148400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 45300,
+   "stars": 45400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 59600,
+   "stars": 59700,
    "archived": false,
    "metadata_status": "live"
   },

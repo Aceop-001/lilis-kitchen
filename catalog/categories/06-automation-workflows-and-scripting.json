@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "⚡ Automation, workflows, and scripting",
  "category_id": "06-automation-workflows-and-scripting",
  "repo_count": 14,
@@ -111,7 +111,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 208400,
+   "stars": 208500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Temporal service",
    "description_source": "github",
    "language": "Go",
-   "stars": 23900,
+   "stars": 24000,
    "archived": false,
    "metadata_status": "live"
   },

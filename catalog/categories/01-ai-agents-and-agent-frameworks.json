@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
  "repo_count": 19,
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 119000,
+   "stars": 119100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
    "description_source": "github",
    "language": "Python",
-   "stars": 60000,
+   "stars": 60100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 29000,
+   "stars": 29100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 67700,
+   "stars": 67800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A lightweight, powerful framework for multi-agent workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 30200,
+   "stars": 30300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 126,
+   "stars": 167,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 184,
+   "stars": 194,
    "archived": false,
    "metadata_status": "live"
   }

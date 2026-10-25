@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
- "repo_count": 15,
+ "repo_count": 16,
  "repositories": [
   {
    "name": "aider-ai/aider",
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 220600,
+   "stars": 221100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 591,
+   "stars": 602,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Vim-fork focused on extensibility and usability",
    "description_source": "github",
    "language": "Vim Script",
-   "stars": 103100,
+   "stars": 103200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -160,6 +160,18 @@
    "description_source": "github",
    "language": "Rust",
    "stars": 33900,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "tals/corgi",
+   "url": "https://github.com/tals/corgi",
+   "category": "💻 AI coding assistants and developer productivity",
+   "category_id": "05-ai-coding-assistants-and-developer-productivity",
+   "description": "Happy helper for your terminal",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 121,
    "archived": false,
    "metadata_status": "live"
   },

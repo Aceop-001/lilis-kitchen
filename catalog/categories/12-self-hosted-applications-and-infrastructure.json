@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-24T05:40:37+05:30",
+ "metadata_refreshed": "2026-10-25T05:46:45+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
  "repo_count": 21,
@@ -15,7 +15,7 @@
    "description": "Network-wide ads & trackers blocking DNS server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37600,
+   "stars": 37700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
    "description_source": "github",
    "language": "Go",
-   "stars": 78300,
+   "stars": 78400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
    "description_source": "github",
    "language": "PHP",
-   "stars": 63600,
+   "stars": 63700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 117000,
+   "stars": 117100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A fancy self-hosted monitoring tool",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 92800,
+   "stars": 92900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
    "description_source": "github",
    "language": "Python",
-   "stars": 47000,
+   "stars": 47100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 106,
+   "stars": 121,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "The Cloud Native Application Proxy",
    "description_source": "github",
    "language": "Go",
-   "stars": 65300,
+   "stars": 65400,
    "archived": false,
    "metadata_status": "live"
   }
