@@ -2,15 +2,15 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
- "repo_count": 324,
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
+ "repo_count": 328,
  "category_count": 17,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
    "title": "🤖 AI agents and agent frameworks",
    "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
-   "count": 19,
+   "count": 20,
    "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
   },
   {
@@ -38,7 +38,7 @@
    "id": "05-ai-coding-assistants-and-developer-productivity",
    "title": "💻 AI coding assistants and developer productivity",
    "description": "AI coding assistants and tools that make developers more productive.",
-   "count": 16,
+   "count": 17,
    "file": "catalog/categories/05-ai-coding-assistants-and-developer-productivity.json"
   },
   {
@@ -73,7 +73,7 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 18,
+   "count": 19,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -94,7 +94,7 @@
    "id": "13-observability-testing-and-debugging",
    "title": "🔍 Observability, testing, and debugging",
    "description": "Observability, testing, and debugging tools.",
-   "count": 18,
+   "count": 19,
    "file": "catalog/categories/13-observability-testing-and-debugging.json"
   },
   {

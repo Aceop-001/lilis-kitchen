@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 18,
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 561,
+   "stars": 624,
    "archived": false,
    "metadata_status": "live"
   },

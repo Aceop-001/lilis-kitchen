@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
  "repo_count": 30,
@@ -15,7 +15,7 @@
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "description_source": "github",
    "language": "Python",
-   "stars": 875,
+   "stars": 942,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69600,
+   "stars": 69700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
    "description_source": "github",
    "language": "Go",
-   "stars": 24000,
+   "stars": 24100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Main repo for hosting release binaries",
    "description_source": "github",
    "language": "Meson",
-   "stars": 22400,
+   "stars": 22500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 917,
+   "stars": 925,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 94000,
+   "stars": 94300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 416,
+   "stars": 504,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "UNIX-like reverse engineering framework and command-line toolset",
    "description_source": "github",
    "language": "C",
-   "stars": 25100,
+   "stars": 25200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
    "description_source": "github",
    "language": "C",
-   "stars": 17200,
+   "stars": 17300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 38000,
+   "stars": 38100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 134,
+   "stars": 147,
    "archived": false,
    "metadata_status": "live"
   },

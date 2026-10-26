@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 18,
+ "repo_count": 19,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 91100,
+   "stars": 91200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139500,
+   "stars": 139600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35300,
+   "stars": 35400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -184,6 +184,18 @@
    "description_source": "github",
    "language": "Rust",
    "stars": 120800,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "tractordev/webframe",
+   "url": "https://github.com/tractordev/webframe",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Run a web page like a program",
+   "description_source": "github",
+   "language": "Go",
+   "stars": 120,
    "archived": false,
    "metadata_status": "live"
   },

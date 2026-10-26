@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 23,
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 77700,
+   "stars": 77800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 967,
+   "stars": 993,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 970,
+   "stars": 972,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The official source code repository for the calibre ebook manager",
    "description_source": "github",
    "language": "Python",
-   "stars": 26200,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Your self-hosted, globally interconnected microblogging community",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50400,
+   "stars": 50500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -146,8 +146,8 @@
    "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
    "description": "A Windows your apps recognize.",
    "description_source": "github",
-   "language": "Go",
-   "stars": 194,
+   "language": "C++",
+   "stars": 379,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 4300,
+   "stars": 4600,
    "archived": false,
    "metadata_status": "live"
   },

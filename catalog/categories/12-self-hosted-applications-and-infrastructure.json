@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
  "repo_count": 21,
@@ -39,7 +39,7 @@
    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
    "description_source": "github",
    "language": "PHP",
-   "stars": 63700,
+   "stars": 64400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 117100,
+   "stars": 117200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The Free Software Media System - Server Backend & API",
    "description_source": "github",
    "language": "C#",
-   "stars": 58500,
+   "stars": 58600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Lightweight Kubernetes",
    "description_source": "github",
    "language": "Go",
-   "stars": 34200,
+   "stars": 34300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Production-Grade Container Scheduling and Management",
    "description_source": "github",
    "language": "Go",
-   "stars": 128600,
+   "stars": 128700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A black hole for Internet advertisements",
    "description_source": "github",
    "language": "Shell",
-   "stars": 61400,
+   "stars": 61500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 121,
+   "stars": 125,
    "archived": false,
    "metadata_status": "live"
   },

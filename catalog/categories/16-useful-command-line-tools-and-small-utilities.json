@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 25,
@@ -123,7 +123,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 658,
+   "stars": 670,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 78100,
+   "stars": 78200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A command-line benchmarking tool",
    "description_source": "github",
    "language": "Rust",
-   "stars": 29100,
+   "stars": 29200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60400,
+   "stars": 60500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 201500,
+   "stars": 202100,
    "archived": false,
    "metadata_status": "live"
   },

@@ -61,9 +61,9 @@ Matches span categories: 🤖 AI agents and agent frameworks (2); 📖 RAG, vect
 
 ## 📚 The Vault
 
-**324 unique repositories** across **17 categories**.
+**328 unique repositories** across **17 categories**.
 
-**Last metadata refresh:** 2026-10-25 05:46 IST
+**Last metadata refresh:** 2026-10-26 05:40 IST
 
 **Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚡ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 💾 Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🧰 Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · 🐚 Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure
 
@@ -71,19 +71,19 @@ Star counts and primary languages come from GitHub at refresh time. Descriptions
 
 ### 🗂️ Table of Contents
 
-1. [🤖 AI agents and agent frameworks](#-ai-agents-and-agent-frameworks) (19)
+1. [🤖 AI agents and agent frameworks](#-ai-agents-and-agent-frameworks) (20)
 2. [🧩 Agent skills, reusable instructions, and tool integrations](#-agent-skills-reusable-instructions-and-tool-integrations) (12)
 3. [🧠 LLM inference, local AI, and model serving](#-llm-inference-local-ai-and-model-serving) (19)
 4. [📖 RAG, vector search, and knowledge management](#-rag-vector-search-and-knowledge-management) (19)
-5. [💻 AI coding assistants and developer productivity](#-ai-coding-assistants-and-developer-productivity) (16)
+5. [💻 AI coding assistants and developer productivity](#-ai-coding-assistants-and-developer-productivity) (17)
 6. [⚡ Automation, workflows, and scripting](#-automation-workflows-and-scripting) (14)
 7. [🔌 APIs, MCP servers, and integrations](#-apis-mcp-servers-and-integrations) (13)
 8. [💾 Databases, storage, backups, and synchronization](#-databases-storage-backups-and-synchronization) (18)
 9. [🔐 Security, privacy, and reverse engineering](#-security-privacy-and-reverse-engineering) (30)
-10. [🧰 Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (18)
+10. [🧰 Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (19)
 11. [🌐 Web development and application frameworks](#-web-development-and-application-frameworks) (21)
 12. [🏠 Self-hosted applications and infrastructure](#-self-hosted-applications-and-infrastructure) (21)
-13. [🔍 Observability, testing, and debugging](#-observability-testing-and-debugging) (18)
+13. [🔍 Observability, testing, and debugging](#-observability-testing-and-debugging) (19)
 14. [📊 Data engineering and analytics](#-data-engineering-and-analytics) (17)
 15. [🎓 Research tools, documentation, and learning resources](#-research-tools-documentation-and-learning-resources) (21)
 16. [🐚 Useful command-line tools and small utilities](#-useful-command-line-tools-and-small-utilities) (25)
@@ -97,7 +97,7 @@ Frameworks and toolkits for building autonomous AI agents and multi-agent workfl
 
 ### 1. [agno-agi/agno](https://github.com/agno-agi/agno)
 
-Build, run, and manage agent platforms.
+The self-improving platform for agents
 
 ⭐ Stars: 42.9k  
 💻 Language: Python  
@@ -139,7 +139,7 @@ An open-source, code-first Python toolkit for building, evaluating, and deployin
 
 Build resilient agents.
 
-⭐ Stars: 43.8k  
+⭐ Stars: 43.9k  
 💻 Language: Python  
 🔗 [github.com/langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 
@@ -147,7 +147,7 @@ Build resilient agents.
 
 Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 
-⭐ Stars: 25.2k  
+⭐ Stars: 25.3k  
 💻 Language: Unknown  
 🔗 [github.com/letta-ai/letta](https://github.com/letta-ai/letta)
 
@@ -171,7 +171,7 @@ The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and
 
 A programming framework for agentic AI
 
-⭐ Stars: 61.5k  
+⭐ Stars: 61.6k  
 💻 Language: Python  
 🔗 [github.com/microsoft/autogen](https://github.com/microsoft/autogen)
 
@@ -187,7 +187,7 @@ Integrate cutting-edge LLM technology quickly and easily into your apps
 
 The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.
 
-⭐ Stars: 3.2k  
+⭐ Stars: 3.3k  
 💻 Language: Go  
 🔗 [github.com/omnara-ai/omnara](https://github.com/omnara-ai/omnara)
 
@@ -203,7 +203,7 @@ A lightweight, powerful framework for multi-agent workflows
 
 🙌 OpenHands: AI-Driven Development
 
-⭐ Stars: 91.7k  
+⭐ Stars: 91.8k  
 💻 Language: TypeScript  
 🔗 [github.com/openhands/openhands](https://github.com/openhands/openhands)
 
@@ -211,19 +211,27 @@ A lightweight, powerful framework for multi-agent workflows
 
 The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.
 
-⭐ Stars: 167  
+⭐ Stars: 185  
 💻 Language: Rust  
 🔗 [github.com/openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness)
 
-### 16. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+### 16. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+
+A Tiny biped duck robot 🦆
+
+⭐ Stars: 11.6k  
+💻 Language: Rust  
+🔗 [github.com/pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+
+### 17. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 
-⭐ Stars: 20.8k  
+⭐ Stars: 20.9k  
 💻 Language: Python  
 🔗 [github.com/pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
-### 17. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+### 18. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
 DSPy: The framework for programming—not prompting—language models
 
@@ -231,7 +239,7 @@ DSPy: The framework for programming—not prompting—language models
 💻 Language: Python  
 🔗 [github.com/stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
-### 18. [swe-agent/swe-agent](https://github.com/swe-agent/swe-agent)
+### 19. [swe-agent/swe-agent](https://github.com/swe-agent/swe-agent)
 
 SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersec…
 
@@ -239,11 +247,11 @@ SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM 
 💻 Language: Python  
 🔗 [github.com/swe-agent/swe-agent](https://github.com/swe-agent/swe-agent)
 
-### 19. [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
+### 20. [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
 
 OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
 
-⭐ Stars: 194  
+⭐ Stars: 204  
 💻 Language: Python  
 🔗 [github.com/xingjian-bai/opal](https://github.com/xingjian-bai/opal)
 
@@ -266,7 +274,7 @@ AGENTS.md — a simple, open format for guiding coding agents
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing rout…
 
-⭐ Stars: 153.3k  
+⭐ Stars: 153.4k  
 💻 Language: TypeScript  
 🔗 [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
 
@@ -274,7 +282,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 Public repository for Agent Skills
 
-⭐ Stars: 183.5k  
+⭐ Stars: 183.8k  
 💻 Language: Python  
 🔗 [github.com/anthropics/skills](https://github.com/anthropics/skills)
 
@@ -282,7 +290,7 @@ Public repository for Agent Skills
 
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-⭐ Stars: 77.8k  
+⭐ Stars: 77.9k  
 💻 Language: Python  
 🔗 [github.com/composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills)
 
@@ -290,7 +298,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-⭐ Stars: 108k  
+⭐ Stars: 108.4k  
 💻 Language: TypeScript  
 🔗 [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 
@@ -298,7 +306,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding compan…
 
-⭐ Stars: 56.4k  
+⭐ Stars: 56.5k  
 💻 Language: Python  
 🔗 [github.com/hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
@@ -306,7 +314,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 An agentic skills framework & software development methodology that works.
 
-⭐ Stars: 304.6k  
+⭐ Stars: 305k  
 💻 Language: Shell  
 🔗 [github.com/obra/superpowers](https://github.com/obra/superpowers)
 
@@ -314,7 +322,7 @@ An agentic skills framework & software development methodology that works.
 
 Lightweight coding agent that runs in your terminal
 
-⭐ Stars: 130.8k  
+⭐ Stars: 130.9k  
 💻 Language: Rust  
 🔗 [github.com/openai/codex](https://github.com/openai/codex)
 
@@ -330,7 +338,7 @@ Lightweight coding agent that runs in your terminal
 
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
-⭐ Stars: 15.5k  
+⭐ Stars: 15.6k  
 💻 Language: Unknown  
 🔗 [github.com/travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
 
@@ -346,7 +354,7 @@ A collection of 100+ specialized Claude Code subagents covering a wide range of 
 
 Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
-⭐ Stars: 41.6k  
+⭐ Stars: 41.7k  
 💻 Language: Python  
 🔗 [github.com/wshobson/agents](https://github.com/wshobson/agents)
 
@@ -369,7 +377,7 @@ The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in th…
 
-⭐ Stars: 142.6k  
+⭐ Stars: 142.9k  
 💻 Language: Python  
 🔗 [github.com/comfy-org/comfyui](https://github.com/comfy-org/comfyui)
 
@@ -385,7 +393,7 @@ Run frontier AI locally.
 
 LLM inference in C/C++
 
-⭐ Stars: 132.3k  
+⭐ Stars: 132.4k  
 💻 Language: C++  
 🔗 [github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -393,7 +401,7 @@ LLM inference in C/C++
 
 Port of OpenAI's Whisper model in C/C++
 
-⭐ Stars: 54.6k  
+⭐ Stars: 54.7k  
 💻 Language: C++  
 🔗 [github.com/ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 
@@ -409,7 +417,7 @@ Large Language Model Text Generation Inference *(archived)*
 
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models…
 
-⭐ Stars: 168.1k  
+⭐ Stars: 168.2k  
 💻 Language: Python  
 🔗 [github.com/huggingface/transformers](https://github.com/huggingface/transformers)
 
@@ -449,7 +457,7 @@ Distribute and run LLMs with a single file.
 
 Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them… *(vault note)*
 
-⭐ Stars: 645  
+⭐ Stars: 659  
 💻 Language: Python  
 🔗 [github.com/nvidia/flare-local-inference](https://github.com/nvidia/flare-local-inference)
 
@@ -465,7 +473,7 @@ TensorRT LLM provides users with an easy-to-use Python API to define Large Langu
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
-⭐ Stars: 184.7k  
+⭐ Stars: 184.8k  
 💻 Language: Go  
 🔗 [github.com/ollama/ollama](https://github.com/ollama/ollama)
 
@@ -473,7 +481,7 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-⭐ Stars: 156.7k  
+⭐ Stars: 156.8k  
 💻 Language: Python  
 🔗 [github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 
@@ -481,7 +489,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
-⭐ Stars: 37.8k  
+⭐ Stars: 38.2k  
 💻 Language: Python  
 🔗 [github.com/sgl-project/sglang](https://github.com/sgl-project/sglang)
 
@@ -497,7 +505,7 @@ Faster Whisper transcription with CTranslate2
 
 Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 
-⭐ Stars: 78.5k  
+⭐ Stars: 78.6k  
 💻 Language: Python  
 🔗 [github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)
 
@@ -505,7 +513,7 @@ Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8
 
 A high-throughput and memory-efficient inference and serving engine for LLMs
 
-⭐ Stars: 95.3k  
+⭐ Stars: 95.5k  
 💻 Language: Python  
 🔗 [github.com/vllm-project/vllm](https://github.com/vllm-project/vllm)
 
@@ -544,7 +552,7 @@ Open-source AI orchestration framework for building context-engineered, producti
 
 Get your documents ready for gen AI
 
-⭐ Stars: 69.5k  
+⭐ Stars: 69.6k  
 💻 Language: Python  
 🔗 [github.com/docling-project/docling](https://github.com/docling-project/docling)
 
@@ -568,7 +576,7 @@ A library for efficient similarity search and clustering of dense vectors.
 
 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to creat…
 
-⭐ Stars: 92.8k  
+⭐ Stars: 92.9k  
 💻 Language: Go  
 🔗 [github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
@@ -640,7 +648,7 @@ Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
 
 LlamaIndex is the document processing platform for AI
 
-⭐ Stars: 52.6k  
+⭐ Stars: 52.7k  
 💻 Language: Python  
 🔗 [github.com/run-llama/llama_index](https://github.com/run-llama/llama_index)
 
@@ -679,7 +687,7 @@ AI coding assistants and tools that make developers more productive.
 
 aider is AI pair programming in your terminal
 
-⭐ Stars: 49.7k  
+⭐ Stars: 49.8k  
 💻 Language: Python  
 🔗 [github.com/aider-ai/aider](https://github.com/aider-ai/aider)
 
@@ -687,7 +695,7 @@ aider is AI pair programming in your terminal
 
 The open source coding agent.
 
-⭐ Stars: 221.1k  
+⭐ Stars: 221.5k  
 💻 Language: TypeScript  
 🔗 [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
 
@@ -719,7 +727,7 @@ A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.
 
-⭐ Stars: 602  
+⭐ Stars: 615  
 💻 Language: Rust  
 🔗 [github.com/dominikmartn/harp](https://github.com/dominikmartn/harp)
 
@@ -739,7 +747,15 @@ simple terminal UI for git commands
 💻 Language: Go  
 🔗 [github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
-### 9. [microsoft/vscode](https://github.com/microsoft/vscode)
+### 9. [jetbrains/thinkrail](https://github.com/jetbrains/thinkrail)
+
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+
+⭐ Stars: 1.7k  
+💻 Language: TypeScript  
+🔗 [github.com/jetbrains/thinkrail](https://github.com/jetbrains/thinkrail)
+
+### 10. [microsoft/vscode](https://github.com/microsoft/vscode)
 
 Visual Studio Code
 
@@ -747,7 +763,7 @@ Visual Studio Code
 💻 Language: TypeScript  
 🔗 [github.com/microsoft/vscode](https://github.com/microsoft/vscode)
 
-### 10. [neovim/neovim](https://github.com/neovim/neovim)
+### 11. [neovim/neovim](https://github.com/neovim/neovim)
 
 Vim-fork focused on extensibility and usability
 
@@ -755,7 +771,7 @@ Vim-fork focused on extensibility and usability
 💻 Language: Vim Script  
 🔗 [github.com/neovim/neovim](https://github.com/neovim/neovim)
 
-### 11. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+### 12. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
 
 A framework for managing and maintaining multi-language pre-commit hooks.
 
@@ -763,7 +779,7 @@ A framework for managing and maintaining multi-language pre-commit hooks.
 💻 Language: Python  
 🔗 [github.com/pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
 
-### 12. [roocodeinc/roo-code](https://github.com/roocodeinc/roo-code)
+### 13. [roocodeinc/roo-code](https://github.com/roocodeinc/roo-code)
 
 Roo Code gives you a whole dev team of AI agents in your code editor. *(archived)*
 
@@ -771,7 +787,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor. *(archived
 💻 Language: TypeScript  
 🔗 [github.com/roocodeinc/roo-code](https://github.com/roocodeinc/roo-code)
 
-### 13. [tabbyml/tabby](https://github.com/tabbyml/tabby)
+### 14. [tabbyml/tabby](https://github.com/tabbyml/tabby)
 
 Self-hosted AI coding assistant
 
@@ -779,15 +795,15 @@ Self-hosted AI coding assistant
 💻 Language: Rust  
 🔗 [github.com/tabbyml/tabby](https://github.com/tabbyml/tabby)
 
-### 14. [tals/corgi](https://github.com/tals/corgi)
+### 15. [tals/corgi](https://github.com/tals/corgi)
 
 Happy helper for your terminal
 
-⭐ Stars: 121  
+⭐ Stars: 146  
 💻 Language: TypeScript  
 🔗 [github.com/tals/corgi](https://github.com/tals/corgi)
 
-### 15. [yamadashy/repomix](https://github.com/yamadashy/repomix)
+### 16. [yamadashy/repomix](https://github.com/yamadashy/repomix)
 
 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your co…
 
@@ -795,11 +811,11 @@ Happy helper for your terminal
 💻 Language: TypeScript  
 🔗 [github.com/yamadashy/repomix](https://github.com/yamadashy/repomix)
 
-### 16. [zed-industries/zed](https://github.com/zed-industries/zed)
+### 17. [zed-industries/zed](https://github.com/zed-industries/zed)
 
 Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-⭐ Stars: 92.1k  
+⭐ Stars: 92.2k  
 💻 Language: Rust  
 🔗 [github.com/zed-industries/zed](https://github.com/zed-industries/zed)
 
@@ -870,7 +886,7 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-⭐ Stars: 98.4k  
+⭐ Stars: 98.5k  
 💻 Language: TypeScript  
 🔗 [github.com/microsoft/playwright](https://github.com/microsoft/playwright)
 
@@ -878,7 +894,7 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 
 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ in…
 
-⭐ Stars: 208.5k  
+⭐ Stars: 208.6k  
 💻 Language: TypeScript  
 🔗 [github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
 
@@ -916,7 +932,7 @@ Temporal service
 
 ### 14. [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 
-Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x…
+Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect an…
 
 ⭐ Stars: 18.3k  
 💻 Language: Rust  
@@ -965,7 +981,7 @@ Playwright MCP server
 
 Visual testing tool for MCP servers
 
-⭐ Stars: 11.1k  
+⭐ Stars: 11.2k  
 💻 Language: TypeScript  
 🔗 [github.com/modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
 
@@ -989,7 +1005,7 @@ The official Python SDK for Model Context Protocol servers and clients
 
 Model Context Protocol Servers
 
-⭐ Stars: 91.5k  
+⭐ Stars: 91.6k  
 💻 Language: TypeScript  
 🔗 [github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
@@ -997,7 +1013,7 @@ Model Context Protocol Servers
 
 The official TypeScript SDK for Model Context Protocol servers and clients
 
-⭐ Stars: 13.6k  
+⭐ Stars: 13.7k  
 💻 Language: TypeScript  
 🔗 [github.com/modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 
@@ -1021,7 +1037,7 @@ The OpenAPI Specification Repository
 
 A collection of MCP servers.
 
-⭐ Stars: 96.8k  
+⭐ Stars: 96.9k  
 💻 Language: Unknown  
 🔗 [github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
@@ -1076,7 +1092,7 @@ DuckDB is a high-performance analytical database system
 
 A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 
-⭐ Stars: 561  
+⭐ Stars: 624  
 💻 Language: Rust  
 🔗 [github.com/kividbio/kividb](https://github.com/kividbio/kividb)
 
@@ -1195,7 +1211,7 @@ Security, privacy, and reverse-engineering tools.
 
 EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack *(renamed from acelogic/snapintosh)*
 
-⭐ Stars: 875  
+⭐ Stars: 942  
 💻 Language: Python  
 🔗 [github.com/Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh)
 
@@ -1219,7 +1235,7 @@ Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-⭐ Stars: 69.6k  
+⭐ Stars: 69.7k  
 💻 Language: Rust  
 🔗 [github.com/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
@@ -1227,7 +1243,7 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 
-⭐ Stars: 24k  
+⭐ Stars: 24.1k  
 💻 Language: Go  
 🔗 [github.com/filosottile/age](https://github.com/filosottile/age)
 
@@ -1235,7 +1251,7 @@ A simple, modern and secure encryption tool (and Go library) with small explicit
 
 Main repo for hosting release binaries
 
-⭐ Stars: 22.4k  
+⭐ Stars: 22.5k  
 💻 Language: Meson  
 🔗 [github.com/frida/frida](https://github.com/frida/frida)
 
@@ -1275,7 +1291,7 @@ An open source, self-hosted implementation of the Tailscale control server
 
 Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future,…
 
-⭐ Stars: 917  
+⭐ Stars: 925  
 💻 Language: Python  
 🔗 [github.com/katrielmoses/voidaccess](https://github.com/katrielmoses/voidaccess)
 
@@ -1299,7 +1315,7 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 
 Ghidra is a software reverse engineering (SRE) framework
 
-⭐ Stars: 94k  
+⭐ Stars: 94.3k  
 💻 Language: Java  
 🔗 [github.com/nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra)
 
@@ -1347,7 +1363,7 @@ General purpose TLS and crypto library
 
 A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collabor…
 
-⭐ Stars: 416  
+⭐ Stars: 504  
 💻 Language: Java  
 🔗 [github.com/opentrap/opentrap](https://github.com/opentrap/opentrap)
 
@@ -1371,7 +1387,7 @@ The Security Toolkit for LLM Interactions *(archived)*
 
 UNIX-like reverse engineering framework and command-line toolset
 
-⭐ Stars: 25.1k  
+⭐ Stars: 25.2k  
 💻 Language: C  
 🔗 [github.com/radareorg/radare2](https://github.com/radareorg/radare2)
 
@@ -1387,7 +1403,7 @@ Free and Open Source Reverse Engineering Platform powered by rizin
 
 Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
-⭐ Stars: 17.2k  
+⭐ Stars: 17.3k  
 💻 Language: C  
 🔗 [github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)
 
@@ -1395,7 +1411,7 @@ Lightweight static analysis for many languages. Find bug variants with patterns 
 
 The easiest, most secure way to use WireGuard and 2FA.
 
-⭐ Stars: 38k  
+⭐ Stars: 38.1k  
 💻 Language: Go  
 🔗 [github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 
@@ -1403,7 +1419,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them
 
-⭐ Stars: 134  
+⭐ Stars: 147  
 💻 Language: Rocq Prover  
 🔗 [github.com/theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
 
@@ -1450,7 +1466,7 @@ An extremely fast Python linter and code formatter, written in Rust.
 
 An extremely fast Python package and project manager, written in Rust.
 
-⭐ Stars: 91.1k  
+⭐ Stars: 91.2k  
 💻 Language: Rust  
 🔗 [github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 
@@ -1474,7 +1490,7 @@ A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 Import .sql files into TypeScript with full type inference and zero codegen.
 
-⭐ Stars: 1.2k  
+⭐ Stars: 1.3k  
 💻 Language: Rust  
 🔗 [github.com/colinhacks/reylo](https://github.com/colinhacks/reylo)
 
@@ -1490,7 +1506,7 @@ A modern runtime for JavaScript and TypeScript.
 
 The Go programming language
 
-⭐ Stars: 139.5k  
+⭐ Stars: 139.6k  
 💻 Language: Go  
 🔗 [github.com/golang/go](https://github.com/golang/go)
 
@@ -1498,7 +1514,7 @@ The Go programming language
 
 dev tools, env vars, task runner
 
-⭐ Stars: 35.3k  
+⭐ Stars: 35.4k  
 💻 Language: Rust  
 🔗 [github.com/jdx/mise](https://github.com/jdx/mise)
 
@@ -1558,7 +1574,15 @@ Empowering everyone to build reliable and efficient software.
 💻 Language: Rust  
 🔗 [github.com/rust-lang/rust](https://github.com/rust-lang/rust)
 
-### 16. [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+### 16. [tractordev/webframe](https://github.com/tractordev/webframe)
+
+Run a web page like a program
+
+⭐ Stars: 120  
+💻 Language: Go  
+🔗 [github.com/tractordev/webframe](https://github.com/tractordev/webframe)
+
+### 17. [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
 An incremental parsing system for programming tools
 
@@ -1566,7 +1590,7 @@ An incremental parsing system for programming tools
 💻 Language: Rust  
 🔗 [github.com/tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
-### 17. [webassembly/spec](https://github.com/webassembly/spec)
+### 18. [webassembly/spec](https://github.com/webassembly/spec)
 
 WebAssembly specification, reference interpreter, and test suite.
 
@@ -1574,7 +1598,7 @@ WebAssembly specification, reference interpreter, and test suite.
 💻 Language: WebAssembly  
 🔗 [github.com/webassembly/spec](https://github.com/webassembly/spec)
 
-### 18. [ziglang/zig](https://github.com/ziglang/zig)
+### 19. [ziglang/zig](https://github.com/ziglang/zig)
 
 Moved to Codeberg
 
@@ -1601,7 +1625,7 @@ Web development and application frameworks.
 
 The Web framework for perfectionists with deadlines.
 
-⭐ Stars: 91.6k  
+⭐ Stars: 91.7k  
 💻 Language: Python  
 🔗 [github.com/django/django](https://github.com/django/django)
 
@@ -1617,7 +1641,7 @@ The Web framework for perfectionists with deadlines.
 
 FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-⭐ Stars: 104.1k  
+⭐ Stars: 104.2k  
 💻 Language: Python  
 🔗 [github.com/fastapi/fastapi](https://github.com/fastapi/fastapi)
 
@@ -1673,7 +1697,7 @@ The library for web and native user interfaces.
 
 Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and mak…
 
-⭐ Stars: 126.4k  
+⭐ Stars: 126.5k  
 💻 Language: TypeScript  
 🔗 [github.com/shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
@@ -1681,7 +1705,7 @@ Composable, accessible components with thoughtful defaults. Build your own compo
 
 web development for the rest of us
 
-⭐ Stars: 88.4k  
+⭐ Stars: 88.5k  
 💻 Language: JavaScript  
 🔗 [github.com/sveltejs/svelte](https://github.com/sveltejs/svelte)
 
@@ -1689,7 +1713,7 @@ web development for the rest of us
 
 A utility-first CSS framework for rapid UI development.
 
-⭐ Stars: 98k  
+⭐ Stars: 98.1k  
 💻 Language: TypeScript  
 🔗 [github.com/tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
@@ -1713,7 +1737,7 @@ The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a fre
 
 The React Framework
 
-⭐ Stars: 143.2k  
+⭐ Stars: 143.3k  
 💻 Language: JavaScript  
 🔗 [github.com/vercel/next.js](https://github.com/vercel/next.js)
 
@@ -1729,7 +1753,7 @@ Next generation frontend tooling. It's fast!
 
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
-⭐ Stars: 54.8k  
+⭐ Stars: 54.9k  
 💻 Language: TypeScript  
 🔗 [github.com/vuejs/core](https://github.com/vuejs/core)
 
@@ -1737,7 +1761,7 @@ Next generation frontend tooling. It's fast!
 
 Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-⭐ Stars: 1.6k  
+⭐ Stars: 1.9k  
 💻 Language: Swift  
 🔗 [github.com/wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)
 
@@ -1745,7 +1769,7 @@ Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor
 
 Fast and simple diagrams.
 
-⭐ Stars: 395  
+⭐ Stars: 418  
 💻 Language: Rust  
 🔗 [github.com/wevm/ondine](https://github.com/wevm/ondine)
 
@@ -1753,7 +1777,7 @@ Fast and simple diagrams.
 
 The web framework for content-driven websites.
 
-⭐ Stars: 63.4k  
+⭐ Stars: 63.5k  
 💻 Language: TypeScript  
 🔗 [github.com/withastro/astro](https://github.com/withastro/astro)
 
@@ -1784,7 +1808,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stac…
 
-⭐ Stars: 63.7k  
+⭐ Stars: 64.4k  
 💻 Language: PHP  
 🔗 [github.com/coollabsio/coolify](https://github.com/coollabsio/coolify)
 
@@ -1816,7 +1840,7 @@ The authentication glue you need.
 
 High performance self-hosted photo and video management solution.
 
-⭐ Stars: 117.1k  
+⭐ Stars: 117.2k  
 💻 Language: TypeScript  
 🔗 [github.com/immich-app/immich](https://github.com/immich-app/immich)
 
@@ -1824,7 +1848,7 @@ High performance self-hosted photo and video management solution.
 
 The Free Software Media System - Server Backend & API
 
-⭐ Stars: 58.5k  
+⭐ Stars: 58.6k  
 💻 Language: C#  
 🔗 [github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
@@ -1832,7 +1856,7 @@ The Free Software Media System - Server Backend & API
 
 Lightweight Kubernetes
 
-⭐ Stars: 34.2k  
+⭐ Stars: 34.3k  
 💻 Language: Go  
 🔗 [github.com/k3s-io/k3s](https://github.com/k3s-io/k3s)
 
@@ -1848,7 +1872,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 Production-Grade Container Scheduling and Management
 
-⭐ Stars: 128.6k  
+⭐ Stars: 128.7k  
 💻 Language: Go  
 🔗 [github.com/kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
@@ -1904,7 +1928,7 @@ A community-supported supercharged document management system: scan, index and a
 
 A black hole for Internet advertisements
 
-⭐ Stars: 61.4k  
+⭐ Stars: 61.5k  
 💻 Language: Shell  
 🔗 [github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
 
@@ -1920,7 +1944,7 @@ Making Docker and Kubernetes management easy.
 
 Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, sever…
 
-⭐ Stars: 121  
+⭐ Stars: 125  
 💻 Language: Swift  
 🔗 [github.com/rolottr/bambu-bar](https://github.com/rolottr/bambu-bar)
 
@@ -2015,7 +2039,7 @@ CNCF Jaeger, a Distributed Tracing Platform
 
 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 
-⭐ Stars: 36.4k  
+⭐ Stars: 36.5k  
 💻 Language: TypeScript  
 🔗 [github.com/langfuse/langfuse](https://github.com/langfuse/langfuse)
 
@@ -2031,7 +2055,7 @@ OpenTelemetry Collector
 
 The Prometheus monitoring system and time series database.
 
-⭐ Stars: 66.7k  
+⭐ Stars: 66.8k  
 💻 Language: Go  
 🔗 [github.com/prometheus/prometheus](https://github.com/prometheus/prometheus)
 
@@ -2082,6 +2106,14 @@ Next generation testing framework powered by Vite.
 ⭐ Stars: 17.3k  
 💻 Language: TypeScript  
 🔗 [github.com/vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+
+### 19. [winnin/farol](https://github.com/winnin/farol)
+
+Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows t…
+
+⭐ Stars: 114  
+💻 Language: TypeScript  
+🔗 [github.com/winnin/farol](https://github.com/winnin/farol)
 
 
 ---
@@ -2253,7 +2285,7 @@ An autonomous agent that conducts deep research on any data using any LLM provid
 
 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-⭐ Stars: 375.5k  
+⭐ Stars: 375.6k  
 💻 Language: Python  
 🔗 [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
@@ -2285,7 +2317,7 @@ Web Extension for saving a faithful copy of a complete web page in a single HTML
 
 Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.
 
-⭐ Stars: 202  
+⭐ Stars: 220  
 💻 Language: TypeScript  
 🔗 [github.com/ivarvong/lantern](https://github.com/ivarvong/lantern)
 
@@ -2301,7 +2333,7 @@ Universal markup converter
 
 A complete computer science study plan to become a software engineer.
 
-⭐ Stars: 363.3k  
+⭐ Stars: 363.4k  
 💻 Language: Unknown  
 🔗 [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
@@ -2325,7 +2357,7 @@ Project documentation with Markdown.
 
 🎓 Path to a free self-taught education in Computer Science!
 
-⭐ Stars: 210.3k  
+⭐ Stars: 210.4k  
 💻 Language: HTML  
 🔗 [github.com/ossu/computer-science](https://github.com/ossu/computer-science)
 
@@ -2333,7 +2365,7 @@ Project documentation with Markdown.
 
 A collective list of free APIs
 
-⭐ Stars: 491.9k  
+⭐ Stars: 492.1k  
 💻 Language: Python  
 🔗 [github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
 
@@ -2341,7 +2373,7 @@ A collective list of free APIs
 
 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
-⭐ Stars: 107.2k  
+⭐ Stars: 107.3k  
 💻 Language: Jupyter Notebook  
 🔗 [github.com/rasbt/llms-from-scratch](https://github.com/rasbt/llms-from-scratch)
 
@@ -2357,7 +2389,7 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 
 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up wit…
 
-⭐ Stars: 524.2k  
+⭐ Stars: 524.7k  
 💻 Language: Unknown  
 🔗 [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
@@ -2484,7 +2516,7 @@ htop - an interactive process viewer
 
 A tool to generate normal maps from any sprite and animated sprite sheet.
 
-⭐ Stars: 658  
+⭐ Stars: 670  
 💻 Language: Rust  
 🔗 [github.com/hugo-dz/spritefusion-sprite-normals](https://github.com/hugo-dz/spritefusion-sprite-normals)
 
@@ -2532,7 +2564,7 @@ yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties pro
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
-⭐ Stars: 78.1k  
+⭐ Stars: 78.2k  
 💻 Language: C  
 🔗 [github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
@@ -2556,7 +2588,7 @@ A simple, fast and user-friendly alternative to 'find'
 
 A command-line benchmarking tool
 
-⭐ Stars: 29.1k  
+⭐ Stars: 29.2k  
 💻 Language: Rust  
 🔗 [github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
@@ -2564,7 +2596,7 @@ A command-line benchmarking tool
 
 ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
-⭐ Stars: 60.4k  
+⭐ Stars: 60.5k  
 💻 Language: Rust  
 🔗 [github.com/starship/starship](https://github.com/starship/starship)
 
@@ -2596,7 +2628,7 @@ Count your code, quickly.
 
 A feature-rich command-line audio/video downloader
 
-⭐ Stars: 201.5k  
+⭐ Stars: 202.1k  
 💻 Language: Python  
 🔗 [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
@@ -2627,7 +2659,7 @@ Anonymous email forwarding
 
 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing contr…
 
-⭐ Stars: 77.7k  
+⭐ Stars: 77.8k  
 💻 Language: Dart  
 🔗 [github.com/appflowy-io/appflowy](https://github.com/appflowy-io/appflowy)
 
@@ -2651,7 +2683,7 @@ Synapse: Matrix homeserver written in Python/Twisted + Rust
 
 Ely Office: offline-first desktop apps in Rust and GPUI
 
-⭐ Stars: 967  
+⭐ Stars: 993  
 💻 Language: Rust  
 🔗 [github.com/ely-open-source/elyoffice](https://github.com/ely-open-source/elyoffice)
 
@@ -2667,7 +2699,7 @@ Ely Office: offline-first desktop apps in Rust and GPUI
 
 Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 
-⭐ Stars: 970  
+⭐ Stars: 972  
 💻 Language: C++  
 🔗 [github.com/kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
 
@@ -2675,7 +2707,7 @@ Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 
 The official source code repository for the calibre ebook manager
 
-⭐ Stars: 26.2k  
+⭐ Stars: 26.3k  
 💻 Language: Python  
 🔗 [github.com/kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
 
@@ -2699,7 +2731,7 @@ Joplin - the privacy-focused note taking app with sync capabilities for Windows,
 
 Your self-hosted, globally interconnected microblogging community
 
-⭐ Stars: 50.4k  
+⭐ Stars: 50.5k  
 💻 Language: Ruby  
 🔗 [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
 
@@ -2707,8 +2739,8 @@ Your self-hosted, globally interconnected microblogging community
 
 A Windows your apps recognize.
 
-⭐ Stars: 194  
-💻 Language: Go  
+⭐ Stars: 379  
+💻 Language: C++  
 🔗 [github.com/mirkobrombin/raven](https://github.com/mirkobrombin/raven)
 
 ### 13. [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev)
@@ -2747,7 +2779,7 @@ A private messenger for Android.
 
 A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 
-⭐ Stars: 4.3k  
+⭐ Stars: 4.6k  
 💻 Language: Java  
 🔗 [github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
 

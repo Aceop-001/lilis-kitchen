@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 21,
@@ -27,7 +27,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 91600,
+   "stars": 91700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
    "description_source": "github",
    "language": "Python",
-   "stars": 104100,
+   "stars": 104200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 126400,
+   "stars": 126500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "web development for the rest of us",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 88400,
+   "stars": 88500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A utility-first CSS framework for rapid UI development.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98000,
+   "stars": 98100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "The React Framework",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 143200,
+   "stars": 143300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 54800,
+   "stars": 54900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1600,
+   "stars": 1900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 395,
+   "stars": 418,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "The web framework for content-driven websites.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 63400,
+   "stars": 63500,
    "archived": false,
    "metadata_status": "live"
   }

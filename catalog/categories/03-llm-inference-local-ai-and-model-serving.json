@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
  "repo_count": 19,
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 142600,
+   "stars": 142900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132300,
+   "stars": 132400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Port of OpenAI's Whisper model in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 54600,
+   "stars": 54700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
    "description_source": "github",
    "language": "Python",
-   "stars": 168100,
+   "stars": 168200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 645,
+   "stars": 659,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 184700,
+   "stars": 184800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 156700,
+   "stars": 156800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
    "description_source": "github",
    "language": "Python",
-   "stars": 37800,
+   "stars": 38200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
    "description_source": "github",
    "language": "Python",
-   "stars": 78500,
+   "stars": 78600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 95300,
+   "stars": 95500,
    "archived": false,
    "metadata_status": "live"
   }

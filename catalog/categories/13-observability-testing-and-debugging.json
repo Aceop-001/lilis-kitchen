@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
- "repo_count": 18,
+ "repo_count": 19,
  "repositories": [
   {
    "name": "arize-ai/phoenix",
@@ -123,7 +123,7 @@
    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 36400,
+   "stars": 36500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 66700,
+   "stars": 66800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -220,6 +220,18 @@
    "description_source": "github",
    "language": "TypeScript",
    "stars": 17300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "winnin/farol",
+   "url": "https://github.com/winnin/farol",
+   "category": "🔍 Observability, testing, and debugging",
+   "category_id": "13-observability-testing-and-debugging",
+   "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 114,
    "archived": false,
    "metadata_status": "live"
   }

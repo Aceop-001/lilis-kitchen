@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-25T05:46:45+05:30",
+ "metadata_refreshed": "2026-10-26T05:40:41+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 13,
@@ -63,7 +63,7 @@
    "description": "Visual testing tool for MCP servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 11100,
+   "stars": 11200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Model Context Protocol Servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91500,
+   "stars": 91600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 13600,
+   "stars": 13700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 96800,
+   "stars": 96900,
    "archived": false,
    "metadata_status": "live"
   },
