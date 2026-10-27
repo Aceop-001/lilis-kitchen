@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-26T05:40:41+05:30",
- "repo_count": 328,
+ "metadata_refreshed": "2026-10-27T05:46:49+05:30",
+ "repo_count": 332,
  "category_count": 17,
  "repositories": [
   {
@@ -11,7 +11,7 @@
    "url": "https://github.com/agno-agi/agno",
    "category": "🤖 AI agents and agent frameworks",
    "category_id": "01-ai-agents-and-agent-frameworks",
-   "description": "The self-improving platform for agents",
+   "description": "The self-improving agent platform",
    "description_source": "github",
    "language": "Python",
    "stars": 42900,
@@ -26,7 +26,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 119100,
+   "stars": 119200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -62,7 +62,7 @@
    "description": "🤗 smolagents: a barebones library for agents that think in code.",
    "description_source": "github",
    "language": "Python",
-   "stars": 30000,
+   "stars": 30100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -110,7 +110,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 67800,
+   "stars": 67900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -170,7 +170,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91800,
+   "stars": 91900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -182,7 +182,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 185,
+   "stars": 193,
    "archived": false,
    "metadata_status": "live"
   },
@@ -194,7 +194,7 @@
    "description": "A Tiny biped duck robot 🦆",
    "description_source": "github",
    "language": "Rust",
-   "stars": 11600,
+   "stars": 12400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -242,7 +242,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 204,
+   "stars": 217,
    "archived": false,
    "metadata_status": "live"
   },
@@ -266,7 +266,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 153400,
+   "stars": 153500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -278,7 +278,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 183800,
+   "stars": 184000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -290,7 +290,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 77900,
+   "stars": 78000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -302,7 +302,7 @@
    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 108400,
+   "stars": 108600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -314,7 +314,7 @@
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "description_source": "github",
    "language": "Python",
-   "stars": 56500,
+   "stars": 56600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -326,7 +326,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 305000,
+   "stars": 305600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -338,7 +338,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 130900,
+   "stars": 131000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -374,7 +374,7 @@
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "description_source": "github",
    "language": "Shell",
-   "stars": 26000,
+   "stars": 26100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -386,7 +386,7 @@
    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
    "description_source": "github",
    "language": "Python",
-   "stars": 41700,
+   "stars": 41800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -398,7 +398,7 @@
    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
    "description_source": "github",
    "language": "Python",
-   "stars": 62000,
+   "stars": 62100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -410,7 +410,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 142900,
+   "stars": 143300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -422,7 +422,7 @@
    "description": "Run frontier AI locally.",
    "description_source": "github",
    "language": "Python",
-   "stars": 48000,
+   "stars": 48100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -434,7 +434,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132400,
+   "stars": 132500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -487,6 +487,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "justaresearcher/gpu-unlock-ada",
+   "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+   "description_source": "github",
+   "language": "C",
+   "stars": 3800,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "ml-explore/mlx",
    "url": "https://github.com/ml-explore/mlx",
    "category": "🧠 LLM inference, local AI, and model serving",
@@ -530,7 +542,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 659,
+   "stars": 668,
    "archived": false,
    "metadata_status": "live"
   },
@@ -542,7 +554,7 @@
    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
    "description_source": "github",
    "language": "Python",
-   "stars": 14900,
+   "stars": 15000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -554,7 +566,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 184800,
+   "stars": 184900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -566,7 +578,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 156800,
+   "stars": 156900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -590,7 +602,7 @@
    "description": "Faster Whisper transcription with CTranslate2",
    "description_source": "github",
    "language": "Python",
-   "stars": 26100,
+   "stars": 26200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -614,7 +626,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 95500,
+   "stars": 95600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -650,7 +662,7 @@
    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
    "description_source": "github",
    "language": "Python",
-   "stars": 26800,
+   "stars": 26900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -686,7 +698,7 @@
    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
    "description_source": "github",
    "language": "Python",
-   "stars": 40300,
+   "stars": 40400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -722,7 +734,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 148400,
+   "stars": 148500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -758,7 +770,7 @@
    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
    "description_source": "github",
    "language": "Python",
-   "stars": 36400,
+   "stars": 36500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -794,7 +806,7 @@
    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35200,
+   "stars": 35300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -818,7 +830,7 @@
    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
    "description_source": "github",
    "language": "C++",
-   "stars": 27000,
+   "stars": 27100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -866,7 +878,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 221500,
+   "stars": 222000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -878,7 +890,7 @@
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 70800,
+   "stars": 70900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -914,7 +926,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 615,
+   "stars": 655,
    "archived": false,
    "metadata_status": "live"
   },
@@ -950,7 +962,7 @@
    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1700,
+   "stars": 2900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -962,7 +974,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 194300,
+   "stars": 194400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1022,7 +1034,7 @@
    "description": "Happy helper for your terminal",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 146,
+   "stars": 169,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1130,7 +1142,7 @@
    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50100,
+   "stars": 50200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1142,7 +1154,7 @@
    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98500,
+   "stars": 98600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1154,7 +1166,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 208600,
+   "stars": 208700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1226,7 +1238,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 33900,
+   "stars": 34000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1262,7 +1274,7 @@
    "description": "Playwright MCP server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38600,
+   "stars": 38700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1370,7 +1382,7 @@
    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 47800,
+   "stars": 47900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1418,7 +1430,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 42500,
+   "stars": 42600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1430,7 +1442,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 624,
+   "stars": 689,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1442,7 +1454,7 @@
    "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
    "description_source": "github",
    "language": "Go",
-   "stars": 14400,
+   "stars": 14500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1467,7 +1479,7 @@
    "description_source": "github",
    "language": "Go",
    "stars": 61600,
-   "archived": false,
+   "archived": true,
    "metadata_status": "live"
   },
   {
@@ -1490,7 +1502,7 @@
    "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
    "description_source": "github",
    "language": "Go",
-   "stars": 60500,
+   "stars": 60600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1550,7 +1562,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 113900,
+   "stars": 114000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1562,7 +1574,7 @@
    "description": "Open Source Continuous File Synchronization",
    "description_source": "github",
    "language": "Go",
-   "stars": 89700,
+   "stars": 89800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1598,7 +1610,7 @@
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "description_source": "github",
    "language": "Python",
-   "stars": 942,
+   "stars": 978,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1682,7 +1694,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 30300,
+   "stars": 30400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1699,6 +1711,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "hevnsnt/cvengine",
+   "url": "https://github.com/hevnsnt/cvengine",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 383,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "juanfont/headscale",
    "url": "https://github.com/juanfont/headscale",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -1706,7 +1730,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 45000,
+   "stars": 45100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1718,7 +1742,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 925,
+   "stars": 938,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1742,7 +1766,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46300,
+   "stars": 46400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1754,7 +1778,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 94300,
+   "stars": 94700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1826,7 +1850,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 504,
+   "stars": 591,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1852,6 +1876,18 @@
    "language": "Python",
    "stars": 3200,
    "archived": true,
+   "metadata_status": "live"
+  },
+  {
+   "name": "prototux/aare",
+   "url": "https://github.com/prototux/aare",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
+   "description_source": "github",
+   "language": "Kotlin",
+   "stars": 243,
+   "archived": false,
    "metadata_status": "live"
   },
   {
@@ -1910,7 +1946,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 147,
+   "stars": 161,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2126,7 +2162,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 120800,
+   "stars": 120900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2138,7 +2174,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 120,
+   "stars": 134,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2210,7 +2246,7 @@
    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
    "description_source": "github",
    "language": "C++",
-   "stars": 123500,
+   "stars": 123600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2294,7 +2330,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 251800,
+   "stars": 251900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2306,7 +2342,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 126500,
+   "stars": 126600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2378,7 +2414,7 @@
    "description": "Next generation frontend tooling. It's fast!",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 83500,
+   "stars": 83600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2402,7 +2438,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1900,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2414,7 +2450,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 418,
+   "stars": 426,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2462,7 +2498,7 @@
    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
    "description_source": "github",
    "language": "PHP",
-   "stars": 64400,
+   "stars": 65000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2510,7 +2546,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 117200,
+   "stars": 117300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2522,7 +2558,7 @@
    "description": "The Free Software Media System - Server Backend & API",
    "description_source": "github",
    "language": "C#",
-   "stars": 58600,
+   "stars": 58700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2570,7 +2606,7 @@
    "description": "A fancy self-hosted monitoring tool",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 92900,
+   "stars": 93000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2666,7 +2702,7 @@
    "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 125,
+   "stars": 129,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2726,7 +2762,7 @@
    "description": "Developer-first error tracking and performance monitoring",
    "description_source": "github",
    "language": "Python",
-   "stars": 45600,
+   "stars": 45700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2750,7 +2786,7 @@
    "description": "A modern load testing tool, using Go and JavaScript",
    "description_source": "github",
    "language": "Go",
-   "stars": 32000,
+   "stars": 32100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2834,7 +2870,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 26400,
+   "stars": 26500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2870,7 +2906,7 @@
    "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32400,
+   "stars": 32500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2906,7 +2942,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 114,
+   "stars": 136,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3074,7 +3110,7 @@
    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 49800,
+   "stars": 49900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3115,6 +3151,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "surendrapandar/minilytics",
+   "url": "https://github.com/surendrapandar/minilytics",
+   "category": "📊 Data engineering and analytics",
+   "category_id": "14-data-engineering-and-analytics",
+   "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 620,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "archivebox/archivebox",
    "url": "https://github.com/archivebox/archivebox",
    "category": "🎓 Research tools, documentation, and learning resources",
@@ -3146,7 +3194,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 375600,
+   "stars": 375700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3170,7 +3218,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 457900,
+   "stars": 458000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3194,7 +3242,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 220,
+   "stars": 226,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3266,7 +3314,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 492100,
+   "stars": 492400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3278,7 +3326,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 107300,
+   "stars": 107400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3302,7 +3350,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 524700,
+   "stars": 525200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3362,7 +3410,7 @@
    "description": "Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 15700,
+   "stars": 15800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3410,7 +3458,7 @@
    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69400,
+   "stars": 69500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3458,7 +3506,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 65700,
+   "stars": 65800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3482,7 +3530,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 670,
+   "stars": 681,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3506,7 +3554,7 @@
    "description": "Command-line JSON processor",
    "description_source": "github",
    "language": "C",
-   "stars": 35900,
+   "stars": 36000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3554,7 +3602,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 78200,
+   "stars": 78300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3566,7 +3614,7 @@
    "description": "A cat(1) clone with wings.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60900,
+   "stars": 61000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3650,7 +3698,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 202100,
+   "stars": 202600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3722,7 +3770,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 993,
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3746,7 +3794,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 972,
+   "stars": 973,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3806,7 +3854,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C++",
-   "stars": 379,
+   "stars": 442,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3866,7 +3914,7 @@
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 4600,
+   "stars": 4900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3914,7 +3962,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 73800,
+   "stars": 73900,
    "archived": false,
    "metadata_status": "live"
   },

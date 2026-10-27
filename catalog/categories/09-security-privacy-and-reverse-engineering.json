@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-26T05:40:41+05:30",
+ "metadata_refreshed": "2026-10-27T05:46:49+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 30,
+ "repo_count": 32,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -15,7 +15,7 @@
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "description_source": "github",
    "language": "Python",
-   "stars": 942,
+   "stars": 978,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 30300,
+   "stars": 30400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -116,6 +116,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "hevnsnt/cvengine",
+   "url": "https://github.com/hevnsnt/cvengine",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 383,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "juanfont/headscale",
    "url": "https://github.com/juanfont/headscale",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -123,7 +135,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 45000,
+   "stars": 45100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 925,
+   "stars": 938,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46300,
+   "stars": 46400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +183,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 94300,
+   "stars": 94700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 504,
+   "stars": 591,
    "archived": false,
    "metadata_status": "live"
   },
@@ -269,6 +281,18 @@
    "language": "Python",
    "stars": 3200,
    "archived": true,
+   "metadata_status": "live"
+  },
+  {
+   "name": "prototux/aare",
+   "url": "https://github.com/prototux/aare",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
+   "description_source": "github",
+   "language": "Kotlin",
+   "stars": 243,
+   "archived": false,
    "metadata_status": "live"
   },
   {
@@ -327,7 +351,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 147,
+   "stars": 161,
    "archived": false,
    "metadata_status": "live"
   },

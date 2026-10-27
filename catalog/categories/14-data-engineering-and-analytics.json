@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-26T05:40:41+05:30",
+ "metadata_refreshed": "2026-10-27T05:46:49+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
- "repo_count": 17,
+ "repo_count": 18,
  "repositories": [
   {
    "name": "airbytehq/airbyte",
@@ -171,7 +171,7 @@
    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 49800,
+   "stars": 49900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -208,6 +208,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 46100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "surendrapandar/minilytics",
+   "url": "https://github.com/surendrapandar/minilytics",
+   "category": "📊 Data engineering and analytics",
+   "category_id": "14-data-engineering-and-analytics",
+   "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 620,
    "archived": false,
    "metadata_status": "live"
   }

@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-26T05:40:41+05:30",
- "repo_count": 328,
+ "metadata_refreshed": "2026-10-27T05:46:49+05:30",
+ "repo_count": 332,
  "category_count": 17,
  "categories": [
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 19,
+   "count": 20,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -66,7 +66,7 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 30,
+   "count": 32,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
@@ -101,7 +101,7 @@
    "id": "14-data-engineering-and-analytics",
    "title": "📊 Data engineering and analytics",
    "description": "Data engineering, pipelines, and analytics.",
-   "count": 17,
+   "count": 18,
    "file": "catalog/categories/14-data-engineering-and-analytics.json"
   },
   {
