@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-27T05:46:49+05:30",
+ "metadata_refreshed": "2026-10-28T05:46:06+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
- "repo_count": 18,
+ "repo_count": 19,
  "repositories": [
   {
    "name": "airbytehq/airbyte",
@@ -140,6 +140,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "hugues31/duckpad",
+   "url": "https://github.com/hugues31/duckpad",
+   "category": "📊 Data engineering and analytics",
+   "category_id": "14-data-engineering-and-analytics",
+   "description": "The data transformation tool the open-source community deserves.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 267,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "jupyter/notebook",
    "url": "https://github.com/jupyter/notebook",
    "category": "📊 Data engineering and analytics",
@@ -207,7 +219,7 @@
    "description": "Streamlit — A faster way to build and share data apps.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46100,
+   "stars": 46200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 620,
+   "stars": 705,
    "archived": false,
    "metadata_status": "live"
   }

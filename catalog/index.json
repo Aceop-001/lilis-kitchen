@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-27T05:46:49+05:30",
- "repo_count": 332,
+ "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "repo_count": 336,
  "category_count": 17,
  "categories": [
   {
@@ -66,7 +66,7 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 32,
+   "count": 33,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
@@ -87,7 +87,7 @@
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 21,
+   "count": 22,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
@@ -101,7 +101,7 @@
    "id": "14-data-engineering-and-analytics",
    "title": "📊 Data engineering and analytics",
    "description": "Data engineering, pipelines, and analytics.",
-   "count": 18,
+   "count": 19,
    "file": "catalog/categories/14-data-engineering-and-analytics.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 25,
+   "count": 26,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {
