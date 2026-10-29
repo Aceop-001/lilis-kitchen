@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "berriai/litellm",
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 143600,
+   "stars": 143800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132600,
+   "stars": 132700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "description_source": "github",
    "language": "C",
-   "stars": 4300,
+   "stars": 4400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -152,14 +152,14 @@
    "metadata_status": "live"
   },
   {
-   "name": "NVIDIA/local-inference",
-   "url": "https://github.com/NVIDIA/local-inference",
+   "name": "NVIDIA/spark-local-inference",
+   "url": "https://github.com/NVIDIA/spark-local-inference",
    "category": "🧠 LLM inference, local AI, and model serving",
    "category_id": "03-llm-inference-local-ai-and-model-serving",
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
-   "language": "Python",
-   "stars": 684,
+   "language": "Rust",
+   "stars": 693,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 185000,
+   "stars": 185100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,19 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 157000,
+   "stars": 157100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "openbmb/minicpm-ocr",
+   "url": "https://github.com/openbmb/minicpm-ocr",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "An open-source OCR solution for fast, accurate document parsing with correctness assessment.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 236,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Faster Whisper transcription with CTranslate2",
    "description_source": "github",
    "language": "Python",
-   "stars": 26200,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
    "description_source": "github",
    "language": "Python",
-   "stars": 78600,
+   "stars": 78700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 95700,
+   "stars": 95800,
    "archived": false,
    "metadata_status": "live"
   }

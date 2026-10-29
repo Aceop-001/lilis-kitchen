@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 19,
@@ -39,7 +39,7 @@
    "description": "The LLM Evaluation Framework",
    "description_source": "github",
    "language": "Python",
-   "stars": 19100,
+   "stars": 19200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "CNCF Jaeger, a Distributed Tracing Platform",
    "description_source": "github",
    "language": "Go",
-   "stars": 23300,
+   "stars": 23400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 36600,
+   "stars": 36700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 26500,
+   "stars": 26600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
    "description_source": "github",
    "language": "Python",
-   "stars": 14600,
+   "stars": 14700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 153,
+   "stars": 159,
    "archived": false,
    "metadata_status": "live"
   }

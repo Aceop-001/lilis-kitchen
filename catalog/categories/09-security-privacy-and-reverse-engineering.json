@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 33,
+ "repo_count": 34,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -87,7 +87,7 @@
    "description": "Simple and flexible tool for managing secrets",
    "description_source": "github",
    "language": "Go",
-   "stars": 23500,
+   "stars": 23600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 30400,
+   "stars": 30500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 421,
+   "stars": 446,
    "archived": false,
    "metadata_status": "live"
   },
@@ -132,10 +132,10 @@
    "url": "https://github.com/interplains/zero-breach-toolkit",
    "category": "🔐 Security, privacy, and reverse engineering",
    "category_id": "09-security-privacy-and-reverse-engineering",
-   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections.",
+   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
    "description_source": "github",
    "language": "Python",
-   "stars": 612,
+   "stars": 2700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 945,
+   "stars": 949,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
    "description_source": "github",
    "language": "C++",
-   "stars": 29500,
+   "stars": 29600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46400,
+   "stars": 46500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 95100,
+   "stars": 95500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "the LLM vulnerability scanner",
    "description_source": "github",
    "language": "Python",
-   "stars": 9700,
+   "stars": 9800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
    "description_source": "github",
    "language": "Go",
-   "stars": 8700,
+   "stars": 8800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 593,
+   "stars": 594,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 261,
+   "stars": 272,
    "archived": false,
    "metadata_status": "live"
   },
@@ -344,6 +344,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "shagg88/cogbox",
+   "url": "https://github.com/shagg88/cogbox",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
+   "description_source": "github",
+   "language": "C++",
+   "stars": 195,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "tailscale/tailscale",
    "url": "https://github.com/tailscale/tailscale",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -363,7 +375,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 172,
+   "stars": 178,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "Find, verify, and analyze leaked credentials",
    "description_source": "github",
    "language": "Go",
-   "stars": 28700,
+   "stars": 28800,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 18,
@@ -39,7 +39,7 @@
    "description": "ClickHouse® is a real-time analytics database management system",
    "description_source": "github",
    "language": "C++",
-   "stars": 50600,
+   "stars": 50700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 42600,
+   "stars": 42700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 751,
+   "stars": 817,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
    "description_source": "github",
    "language": "C",
-   "stars": 77100,
+   "stars": 77200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Fast, secure, efficient backup program",
    "description_source": "github",
    "language": "Go",
-   "stars": 36800,
+   "stars": 36900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Official Git mirror of the SQLite source tree",
    "description_source": "github",
    "language": "C",
-   "stars": 10800,
+   "stars": 10900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 114200,
+   "stars": 114300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
    "description_source": "github",
    "language": "C",
-   "stars": 27500,
+   "stars": 27600,
    "archived": false,
    "metadata_status": "live"
   }

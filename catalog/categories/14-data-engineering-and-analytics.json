@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 19,
@@ -51,7 +51,7 @@
    "description": "Apache Spark - A unified analytics engine for large-scale data processing",
    "description_source": "github",
    "language": "Scala",
-   "stars": 44300,
+   "stars": 44400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 267,
+   "stars": 268,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
    "description_source": "github",
    "language": "Python",
-   "stars": 23300,
+   "stars": 23400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 705,
+   "stars": 760,
    "archived": false,
    "metadata_status": "live"
   }

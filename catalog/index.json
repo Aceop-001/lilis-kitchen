@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-28T05:46:06+05:30",
- "repo_count": 336,
+ "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "repo_count": 340,
  "category_count": 17,
  "categories": [
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 20,
+   "count": 21,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -38,7 +38,7 @@
    "id": "05-ai-coding-assistants-and-developer-productivity",
    "title": "💻 AI coding assistants and developer productivity",
    "description": "AI coding assistants and tools that make developers more productive.",
-   "count": 17,
+   "count": 18,
    "file": "catalog/categories/05-ai-coding-assistants-and-developer-productivity.json"
   },
   {
@@ -66,7 +66,7 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 33,
+   "count": 34,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
@@ -108,7 +108,7 @@
    "id": "15-research-tools-documentation-and-learning-resources",
    "title": "🎓 Research tools, documentation, and learning resources",
    "description": "Research tools, documentation, and learning resources.",
-   "count": 21,
+   "count": 22,
    "file": "catalog/categories/15-research-tools-documentation-and-learning-resources.json"
   },
   {
