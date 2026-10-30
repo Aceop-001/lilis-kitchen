@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 23,
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 77900,
+   "stars": 78000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 973,
+   "stars": 974,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C++",
-   "stars": 523,
+   "stars": 545,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 5200,
+   "stars": 5400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 73900,
+   "stars": 74000,
    "archived": false,
    "metadata_status": "live"
   },

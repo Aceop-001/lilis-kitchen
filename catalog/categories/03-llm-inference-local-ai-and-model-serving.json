@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
  "repo_count": 21,
@@ -15,7 +15,7 @@
    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
    "description_source": "github",
    "language": "Python",
-   "stars": 62200,
+   "stars": 62300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 143800,
+   "stars": 144000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 132700,
+   "stars": 132800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Port of OpenAI's Whisper model in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 54700,
+   "stars": 54800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "description_source": "github",
    "language": "C",
-   "stars": 4400,
+   "stars": 4500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 693,
+   "stars": 696,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 185100,
+   "stars": 185300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Python",
-   "stars": 157100,
+   "stars": 157200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -204,10 +204,10 @@
    "url": "https://github.com/openbmb/minicpm-ocr",
    "category": "🧠 LLM inference, local AI, and model serving",
    "category_id": "03-llm-inference-local-ai-and-model-serving",
-   "description": "An open-source OCR solution for fast, accurate document parsing with correctness assessment.",
+   "description": "Fast, accurate OCR with correctness assessment.",
    "description_source": "github",
-   "language": "Python",
-   "stars": 236,
+   "language": "TypeScript",
+   "stars": 515,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
    "description_source": "github",
    "language": "Python",
-   "stars": 38300,
+   "stars": 38400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
    "description_source": "github",
    "language": "Python",
-   "stars": 78700,
+   "stars": 78800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 95800,
+   "stars": 95900,
    "archived": false,
    "metadata_status": "live"
   }

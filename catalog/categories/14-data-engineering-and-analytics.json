@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 19,
@@ -63,7 +63,7 @@
    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 75300,
+   "stars": 75400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "An orchestration platform for the development, production, and observation of data assets.",
    "description_source": "github",
    "language": "Python",
-   "stars": 16300,
+   "stars": 16400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -146,7 +146,7 @@
    "category_id": "14-data-engineering-and-analytics",
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
-   "language": "TypeScript",
+   "language": "Python",
    "stars": 268,
    "archived": false,
    "metadata_status": "live"
@@ -183,7 +183,7 @@
    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 49900,
+   "stars": 50000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 760,
+   "stars": 776,
    "archived": false,
    "metadata_status": "live"
   }

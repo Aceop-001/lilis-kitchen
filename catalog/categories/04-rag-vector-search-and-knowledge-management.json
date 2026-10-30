@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -87,7 +87,7 @@
    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
    "description_source": "github",
    "language": "Go",
-   "stars": 93000,
+   "stars": 93100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 148600,
+   "stars": 148700,
    "archived": false,
    "metadata_status": "live"
   },

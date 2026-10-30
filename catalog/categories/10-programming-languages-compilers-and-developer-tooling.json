@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
  "repo_count": 19,
@@ -87,7 +87,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139500,
+   "stars": 139400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Nix Packages collection & NixOS",
    "description_source": "github",
    "language": "Nix",
-   "stars": 26600,
+   "stars": 26700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123200,
+   "stars": 123100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 77800,
+   "stars": 77700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 120900,
+   "stars": 120800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 188,
+   "stars": 213,
    "archived": false,
    "metadata_status": "live"
   },

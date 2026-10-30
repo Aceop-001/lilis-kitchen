@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-29T05:40:31+05:30",
+ "metadata_refreshed": "2026-10-30T05:44:20+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 22,
@@ -27,7 +27,7 @@
    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
    "description_source": "github",
    "language": "Python",
-   "stars": 30300,
+   "stars": 30400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 131,
+   "stars": 137,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 376000,
+   "stars": 376100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 458100,
+   "stars": 458200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 239,
+   "stars": 241,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 493000,
+   "stars": 493300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 526300,
+   "stars": 526800,
    "archived": false,
    "metadata_status": "live"
   },
