@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-30T05:44:20+05:30",
+ "metadata_refreshed": "2026-10-31T05:48:03+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -51,7 +51,7 @@
    "description": "Get your documents ready for gen AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 69800,
+   "stars": 69900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
    "description_source": "github",
    "language": "Go",
-   "stars": 93100,
+   "stars": 93200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "LlamaIndex is the document processing platform for AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 52700,
+   "stars": 52800,
    "archived": false,
    "metadata_status": "live"
   },

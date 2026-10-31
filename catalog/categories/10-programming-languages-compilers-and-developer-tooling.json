@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-30T05:44:20+05:30",
+ "metadata_refreshed": "2026-10-31T05:48:03+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 19,
+ "repo_count": 20,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 91300,
+   "stars": 91400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139400,
+   "stars": 139500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35500,
+   "stars": 35600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
    "description_source": "github",
    "language": "LLVM",
-   "stars": 41200,
+   "stars": 41300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 120800,
+   "stars": 120900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 213,
+   "stars": 222,
    "archived": false,
    "metadata_status": "live"
   },
@@ -208,6 +208,18 @@
    "description_source": "github",
    "language": "Rust",
    "stars": 27300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "vortexso4/weft",
+   "url": "https://github.com/vortexso4/weft",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
+   "description_source": "vault_note",
+   "language": "Rust",
+   "stars": 125,
    "archived": false,
    "metadata_status": "live"
   },

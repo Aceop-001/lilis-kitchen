@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-30T05:44:20+05:30",
+ "metadata_refreshed": "2026-10-31T05:48:03+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "agno-agi/agno",
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 119500,
+   "stars": 119600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
    "description_source": "github",
    "language": "Python",
-   "stars": 22000,
+   "stars": 22100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Build resilient agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 44100,
+   "stars": 44200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 92200,
+   "stars": 92300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 205,
+   "stars": 207,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A Tiny biped duck robot 🦆",
    "description_source": "github",
    "language": "Rust",
-   "stars": 13100,
+   "stars": 13200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "description_source": "github",
    "language": "Python",
-   "stars": 20900,
+   "stars": 21000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "DSPy: The framework for programming—not prompting—language models",
    "description_source": "github",
    "language": "Python",
-   "stars": 38800,
+   "stars": 38900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -236,6 +236,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "wangzan101/mika",
+   "url": "https://github.com/wangzan101/mika",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   "description_source": "github",
+   "language": "Kotlin",
+   "stars": 1300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "xingjian-bai/opal",
    "url": "https://github.com/xingjian-bai/opal",
    "category": "🤖 AI agents and agent frameworks",
@@ -243,7 +255,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 244,
+   "stars": 252,
    "archived": false,
    "metadata_status": "live"
   }

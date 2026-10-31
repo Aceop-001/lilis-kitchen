@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-30T05:44:20+05:30",
+ "metadata_refreshed": "2026-10-31T05:48:03+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 36,
+ "repo_count": 37,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -27,7 +27,7 @@
    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
    "description_source": "github",
    "language": "Go",
-   "stars": 38800,
+   "stars": 38900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 69900,
+   "stars": 70000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Main repo for hosting release binaries",
    "description_source": "github",
    "language": "Meson",
-   "stars": 22500,
+   "stars": 22600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -104,6 +104,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "gothamor/gta-vcs-recomp",
+   "url": "https://github.com/gothamor/gta-vcs-recomp",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+   "description_source": "github",
+   "language": "C++",
+   "stars": 118,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "hashicorp/vault",
    "url": "https://github.com/hashicorp/vault",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -111,7 +123,7 @@
    "description": "A tool for secrets management, encryption as a service, and privileged access management",
    "description_source": "github",
    "language": "Go",
-   "stars": 36400,
+   "stars": 36500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 482,
+   "stars": 537,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
    "description_source": "github",
    "language": "Python",
-   "stars": 3600,
+   "stars": 3900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 957,
+   "stars": 962,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 95900,
+   "stars": 96200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabilities (CVE-2026-109618/109619).",
    "description_source": "vault_note",
    "language": "JavaScript",
-   "stars": 1400,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 595,
+   "stars": 596,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
    "description_source": "github",
    "language": "Go",
-   "stars": 32400,
+   "stars": 32500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +315,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 279,
+   "stars": 285,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,7 @@
    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
    "description_source": "github",
    "language": "C",
-   "stars": 17300,
+   "stars": 17400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +363,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
    "description_source": "github",
    "language": "C++",
-   "stars": 220,
+   "stars": 238,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +375,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 38300,
+   "stars": 38400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 182,
+   "stars": 187,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +411,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 490,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -411,7 +423,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 144,
+   "stars": 197,
    "archived": false,
    "metadata_status": "live"
   },

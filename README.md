@@ -61,9 +61,9 @@ Matches span categories: 🤖 AI agents and agent frameworks (2); 📖 RAG, vect
 
 ## 📚 The Vault
 
-**344 unique repositories** across **17 categories**.
+**349 unique repositories** across **17 categories**.
 
-**Last metadata refresh:** 2026-10-30 05:44 IST
+**Last metadata refresh:** 2026-10-31 05:48 IST
 
 **Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚡ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 💾 Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🧰 Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · 🐚 Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure
 
@@ -71,7 +71,7 @@ Star counts and primary languages come from GitHub at refresh time. Descriptions
 
 ### 🗂️ Table of Contents
 
-1. [🤖 AI agents and agent frameworks](#-ai-agents-and-agent-frameworks) (20)
+1. [🤖 AI agents and agent frameworks](#-ai-agents-and-agent-frameworks) (21)
 2. [🧩 Agent skills, reusable instructions, and tool integrations](#-agent-skills-reusable-instructions-and-tool-integrations) (12)
 3. [🧠 LLM inference, local AI, and model serving](#-llm-inference-local-ai-and-model-serving) (21)
 4. [📖 RAG, vector search, and knowledge management](#-rag-vector-search-and-knowledge-management) (19)
@@ -79,14 +79,14 @@ Star counts and primary languages come from GitHub at refresh time. Descriptions
 6. [⚡ Automation, workflows, and scripting](#-automation-workflows-and-scripting) (14)
 7. [🔌 APIs, MCP servers, and integrations](#-apis-mcp-servers-and-integrations) (13)
 8. [💾 Databases, storage, backups, and synchronization](#-databases-storage-backups-and-synchronization) (18)
-9. [🔐 Security, privacy, and reverse engineering](#-security-privacy-and-reverse-engineering) (36)
-10. [🧰 Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (19)
+9. [🔐 Security, privacy, and reverse engineering](#-security-privacy-and-reverse-engineering) (37)
+10. [🧰 Programming languages, compilers, and developer tooling](#-programming-languages-compilers-and-developer-tooling) (20)
 11. [🌐 Web development and application frameworks](#-web-development-and-application-frameworks) (22)
 12. [🏠 Self-hosted applications and infrastructure](#-self-hosted-applications-and-infrastructure) (22)
 13. [🔍 Observability, testing, and debugging](#-observability-testing-and-debugging) (19)
 14. [📊 Data engineering and analytics](#-data-engineering-and-analytics) (19)
 15. [🎓 Research tools, documentation, and learning resources](#-research-tools-documentation-and-learning-resources) (22)
-16. [🐚 Useful command-line tools and small utilities](#-useful-command-line-tools-and-small-utilities) (27)
+16. [🐚 Useful command-line tools and small utilities](#-useful-command-line-tools-and-small-utilities) (29)
 17. [🗽 Digital independence and long-term personal infrastructure](#-digital-independence-and-long-term-personal-infrastructure) (23)
 
 ---
@@ -107,7 +107,7 @@ The self-driving agent platform
 
 Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 
-⭐ Stars: 119.5k  
+⭐ Stars: 119.6k  
 💻 Language: Python  
 🔗 [github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
 
@@ -123,7 +123,7 @@ Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 
 An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-⭐ Stars: 22k  
+⭐ Stars: 22.1k  
 💻 Language: Python  
 🔗 [github.com/google/adk-python](https://github.com/google/adk-python)
 
@@ -139,7 +139,7 @@ An open-source, code-first Python toolkit for building, evaluating, and deployin
 
 Build resilient agents.
 
-⭐ Stars: 44.1k  
+⭐ Stars: 44.2k  
 💻 Language: Python  
 🔗 [github.com/langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 
@@ -203,7 +203,7 @@ A lightweight, powerful framework for multi-agent workflows
 
 🙌 OpenHands: AI-Driven Development
 
-⭐ Stars: 92.2k  
+⭐ Stars: 92.3k  
 💻 Language: TypeScript  
 🔗 [github.com/openhands/openhands](https://github.com/openhands/openhands)
 
@@ -211,7 +211,7 @@ A lightweight, powerful framework for multi-agent workflows
 
 The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.
 
-⭐ Stars: 205  
+⭐ Stars: 207  
 💻 Language: Rust  
 🔗 [github.com/openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness)
 
@@ -219,7 +219,7 @@ The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday mat
 
 A Tiny biped duck robot 🦆
 
-⭐ Stars: 13.1k  
+⭐ Stars: 13.2k  
 💻 Language: Rust  
 🔗 [github.com/pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
 
@@ -227,7 +227,7 @@ A Tiny biped duck robot 🦆
 
 How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 
-⭐ Stars: 20.9k  
+⭐ Stars: 21k  
 💻 Language: Python  
 🔗 [github.com/pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
@@ -235,7 +235,7 @@ How Python does AI. Agents, realtime voice, image generation, embeddings. Every 
 
 DSPy: The framework for programming—not prompting—language models
 
-⭐ Stars: 38.8k  
+⭐ Stars: 38.9k  
 💻 Language: Python  
 🔗 [github.com/stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
@@ -247,11 +247,19 @@ SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM 
 💻 Language: Python  
 🔗 [github.com/swe-agent/swe-agent](https://github.com/swe-agent/swe-agent)
 
-### 20. [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
+### 20. [wangzan101/mika](https://github.com/wangzan101/mika)
+
+Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+⭐ Stars: 1.3k  
+💻 Language: Kotlin  
+🔗 [github.com/wangzan101/mika](https://github.com/wangzan101/mika)
+
+### 21. [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
 
 OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
 
-⭐ Stars: 244  
+⭐ Stars: 252  
 💻 Language: Python  
 🔗 [github.com/xingjian-bai/opal](https://github.com/xingjian-bai/opal)
 
@@ -274,7 +282,7 @@ AGENTS.md — a simple, open format for guiding coding agents
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing rout…
 
-⭐ Stars: 153.9k  
+⭐ Stars: 154k  
 💻 Language: TypeScript  
 🔗 [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
 
@@ -282,7 +290,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 Public repository for Agent Skills
 
-⭐ Stars: 184.8k  
+⭐ Stars: 185.3k  
 💻 Language: Python  
 🔗 [github.com/anthropics/skills](https://github.com/anthropics/skills)
 
@@ -290,7 +298,7 @@ Public repository for Agent Skills
 
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-⭐ Stars: 78.3k  
+⭐ Stars: 78.4k  
 💻 Language: Python  
 🔗 [github.com/composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills)
 
@@ -314,7 +322,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 An agentic skills framework & software development methodology that works.
 
-⭐ Stars: 308.5k  
+⭐ Stars: 309.4k  
 💻 Language: Shell  
 🔗 [github.com/obra/superpowers](https://github.com/obra/superpowers)
 
@@ -322,7 +330,7 @@ An agentic skills framework & software development methodology that works.
 
 Lightweight coding agent that runs in your terminal
 
-⭐ Stars: 131.6k  
+⭐ Stars: 131.9k  
 💻 Language: Rust  
 🔗 [github.com/openai/codex](https://github.com/openai/codex)
 
@@ -369,7 +377,7 @@ Tools for running, serving, and optimizing AI models locally or on your own infr
 
 The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails…
 
-⭐ Stars: 62.3k  
+⭐ Stars: 62.4k  
 💻 Language: Python  
 🔗 [github.com/berriai/litellm](https://github.com/berriai/litellm)
 
@@ -377,7 +385,7 @@ The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in th…
 
-⭐ Stars: 144k  
+⭐ Stars: 144.2k  
 💻 Language: Python  
 🔗 [github.com/comfy-org/comfyui](https://github.com/comfy-org/comfyui)
 
@@ -393,7 +401,7 @@ Run frontier AI locally.
 
 LLM inference in C/C++
 
-⭐ Stars: 132.8k  
+⭐ Stars: 132.9k  
 💻 Language: C++  
 🔗 [github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -417,7 +425,7 @@ Large Language Model Text Generation Inference *(archived)*
 
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models…
 
-⭐ Stars: 168.3k  
+⭐ Stars: 168.4k  
 💻 Language: Python  
 🔗 [github.com/huggingface/transformers](https://github.com/huggingface/transformers)
 
@@ -433,7 +441,7 @@ Train transformer language models with reinforcement learning.
 
 GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
-⭐ Stars: 4.5k  
+⭐ Stars: 4.6k  
 💻 Language: C  
 🔗 [github.com/justaresearcher/gpu-unlock-ada](https://github.com/justaresearcher/gpu-unlock-ada)
 
@@ -465,7 +473,7 @@ Distribute and run LLMs with a single file.
 
 Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them… *(vault note)* *(renamed from nvidia/flare-local-inference)*
 
-⭐ Stars: 696  
+⭐ Stars: 703  
 💻 Language: Rust  
 🔗 [github.com/NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference)
 
@@ -481,7 +489,7 @@ TensorRT LLM provides users with an easy-to-use Python API to define Large Langu
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
-⭐ Stars: 185.3k  
+⭐ Stars: 185.4k  
 💻 Language: Go  
 🔗 [github.com/ollama/ollama](https://github.com/ollama/ollama)
 
@@ -489,7 +497,7 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-⭐ Stars: 157.2k  
+⭐ Stars: 157.3k  
 💻 Language: Python  
 🔗 [github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 
@@ -497,7 +505,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 Fast, accurate OCR with correctness assessment.
 
-⭐ Stars: 515  
+⭐ Stars: 670  
 💻 Language: TypeScript  
 🔗 [github.com/openbmb/minicpm-ocr](https://github.com/openbmb/minicpm-ocr)
 
@@ -505,7 +513,7 @@ Fast, accurate OCR with correctness assessment.
 
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
-⭐ Stars: 38.4k  
+⭐ Stars: 38.3k  
 💻 Language: Python  
 🔗 [github.com/sgl-project/sglang](https://github.com/sgl-project/sglang)
 
@@ -568,7 +576,7 @@ Open-source AI orchestration framework for building context-engineered, producti
 
 Get your documents ready for gen AI
 
-⭐ Stars: 69.8k  
+⭐ Stars: 69.9k  
 💻 Language: Python  
 🔗 [github.com/docling-project/docling](https://github.com/docling-project/docling)
 
@@ -592,7 +600,7 @@ A library for efficient similarity search and clustering of dense vectors.
 
 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to creat…
 
-⭐ Stars: 93.1k  
+⭐ Stars: 93.2k  
 💻 Language: Go  
 🔗 [github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
@@ -664,7 +672,7 @@ Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
 
 LlamaIndex is the document processing platform for AI
 
-⭐ Stars: 52.7k  
+⭐ Stars: 52.8k  
 💻 Language: Python  
 🔗 [github.com/run-llama/llama_index](https://github.com/run-llama/llama_index)
 
@@ -711,7 +719,7 @@ aider is AI pair programming in your terminal
 
 The open source coding agent.
 
-⭐ Stars: 223.1k  
+⭐ Stars: 223.3k  
 💻 Language: TypeScript  
 🔗 [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
 
@@ -719,7 +727,7 @@ The open source coding agent.
 
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
-⭐ Stars: 71k  
+⭐ Stars: 71.1k  
 💻 Language: TypeScript  
 🔗 [github.com/cline/cline](https://github.com/cline/cline)
 
@@ -743,7 +751,7 @@ A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.
 
-⭐ Stars: 689  
+⭐ Stars: 694  
 💻 Language: Rust  
 🔗 [github.com/dominikmartn/harp](https://github.com/dominikmartn/harp)
 
@@ -767,7 +775,7 @@ simple terminal UI for git commands
 
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
-⭐ Stars: 6k  
+⭐ Stars: 6.6k  
 💻 Language: TypeScript  
 🔗 [github.com/jetbrains/thinkrail](https://github.com/jetbrains/thinkrail)
 
@@ -783,7 +791,7 @@ Visual Studio Code
 
 Vim-fork focused on extensibility and usability
 
-⭐ Stars: 103.2k  
+⭐ Stars: 103.3k  
 💻 Language: Vim Script  
 🔗 [github.com/neovim/neovim](https://github.com/neovim/neovim)
 
@@ -807,7 +815,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor. *(archived
 
 Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.
 
-⭐ Stars: 180  
+⭐ Stars: 236  
 💻 Language: TypeScript  
 🔗 [github.com/rudderlabs/devbox](https://github.com/rudderlabs/devbox)
 
@@ -823,7 +831,7 @@ Self-hosted AI coding assistant
 
 Happy helper for your terminal
 
-⭐ Stars: 186  
+⭐ Stars: 188  
 💻 Language: TypeScript  
 🔗 [github.com/tals/corgi](https://github.com/tals/corgi)
 
@@ -894,7 +902,7 @@ A fast, cross-platform build tool inspired by Make, designed for modern workflow
 
 :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-⭐ Stars: 91.8k  
+⭐ Stars: 91.9k  
 💻 Language: Python  
 🔗 [github.com/home-assistant/core](https://github.com/home-assistant/core)
 
@@ -910,7 +918,7 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-⭐ Stars: 98.8k  
+⭐ Stars: 98.9k  
 💻 Language: TypeScript  
 🔗 [github.com/microsoft/playwright](https://github.com/microsoft/playwright)
 
@@ -918,7 +926,7 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 
 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ in…
 
-⭐ Stars: 209k  
+⭐ Stars: 209.2k  
 💻 Language: TypeScript  
 🔗 [github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
 
@@ -997,7 +1005,7 @@ Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-
 
 Playwright MCP server
 
-⭐ Stars: 38.8k  
+⭐ Stars: 38.9k  
 💻 Language: TypeScript  
 🔗 [github.com/microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
 
@@ -1061,7 +1069,7 @@ The OpenAPI Specification Repository
 
 A collection of MCP servers.
 
-⭐ Stars: 97k  
+⭐ Stars: 97.1k  
 💻 Language: Unknown  
 🔗 [github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
@@ -1069,7 +1077,7 @@ A collection of MCP servers.
 
 Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-⭐ Stars: 47.9k  
+⭐ Stars: 48k  
 💻 Language: JavaScript  
 🔗 [github.com/usebruno/bruno](https://github.com/usebruno/bruno)
 
@@ -1116,7 +1124,7 @@ DuckDB is a high-performance analytical database system
 
 A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 
-⭐ Stars: 866  
+⭐ Stars: 916  
 💻 Language: Rust  
 🔗 [github.com/kividbio/kividb](https://github.com/kividbio/kividb)
 
@@ -1156,7 +1164,7 @@ Mirror of the official PostgreSQL GIT repository. Note that this is just a \*mir
 
 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, A…
 
-⭐ Stars: 60.6k  
+⭐ Stars: 60.7k  
 💻 Language: Go  
 🔗 [github.com/rclone/rclone](https://github.com/rclone/rclone)
 
@@ -1243,7 +1251,7 @@ EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-⭐ Stars: 38.8k  
+⭐ Stars: 38.9k  
 💻 Language: Go  
 🔗 [github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
@@ -1259,7 +1267,7 @@ Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-⭐ Stars: 69.9k  
+⭐ Stars: 70k  
 💻 Language: Rust  
 🔗 [github.com/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
@@ -1275,7 +1283,7 @@ A simple, modern and secure encryption tool (and Go library) with small explicit
 
 Main repo for hosting release binaries
 
-⭐ Stars: 22.5k  
+⭐ Stars: 22.6k  
 💻 Language: Meson  
 🔗 [github.com/frida/frida](https://github.com/frida/frida)
 
@@ -1295,31 +1303,39 @@ Find secrets with Gitleaks 🔑
 💻 Language: Go  
 🔗 [github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
-### 9. [hashicorp/vault](https://github.com/hashicorp/vault)
+### 9. [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)
+
+A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executa…
+
+⭐ Stars: 118  
+💻 Language: C++  
+🔗 [github.com/gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)
+
+### 10. [hashicorp/vault](https://github.com/hashicorp/vault)
 
 A tool for secrets management, encryption as a service, and privileged access management
 
-⭐ Stars: 36.4k  
+⭐ Stars: 36.5k  
 💻 Language: Go  
 🔗 [github.com/hashicorp/vault](https://github.com/hashicorp/vault)
 
-### 10. [hevnsnt/cvengine](https://github.com/hevnsnt/cvengine)
+### 11. [hevnsnt/cvengine](https://github.com/hevnsnt/cvengine)
 
 AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP i…
 
-⭐ Stars: 482  
+⭐ Stars: 537  
 💻 Language: Python  
 🔗 [github.com/hevnsnt/cvengine](https://github.com/hevnsnt/cvengine)
 
-### 11. [interplains/zero-breach-toolkit](https://github.com/interplains/zero-breach-toolkit)
+### 12. [interplains/zero-breach-toolkit](https://github.com/interplains/zero-breach-toolkit)
 
 Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone bac…
 
-⭐ Stars: 3.6k  
+⭐ Stars: 3.9k  
 💻 Language: Python  
 🔗 [github.com/interplains/zero-breach-toolkit](https://github.com/interplains/zero-breach-toolkit)
 
-### 12. [juanfont/headscale](https://github.com/juanfont/headscale)
+### 13. [juanfont/headscale](https://github.com/juanfont/headscale)
 
 An open source, self-hosted implementation of the Tailscale control server
 
@@ -1327,15 +1343,15 @@ An open source, self-hosted implementation of the Tailscale control server
 💻 Language: Go  
 🔗 [github.com/juanfont/headscale](https://github.com/juanfont/headscale)
 
-### 13. [katrielmoses/voidaccess](https://github.com/katrielmoses/voidaccess)
+### 14. [katrielmoses/voidaccess](https://github.com/katrielmoses/voidaccess)
 
 Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future,…
 
-⭐ Stars: 957  
+⭐ Stars: 962  
 💻 Language: Python  
 🔗 [github.com/katrielmoses/voidaccess](https://github.com/katrielmoses/voidaccess)
 
-### 14. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+### 15. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
 
 KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
@@ -1343,7 +1359,7 @@ KeePassXC is a cross-platform community-driven port of the Windows application �
 💻 Language: C++  
 🔗 [github.com/keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
 
-### 15. [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+### 16. [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
@@ -1351,15 +1367,15 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 💻 Language: Python  
 🔗 [github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
-### 16. [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra)
+### 17. [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra)
 
 Ghidra is a software reverse engineering (SRE) framework
 
-⭐ Stars: 95.9k  
+⭐ Stars: 96.2k  
 💻 Language: Java  
 🔗 [github.com/nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra)
 
-### 17. [nmap/nmap](https://github.com/nmap/nmap)
+### 18. [nmap/nmap](https://github.com/nmap/nmap)
 
 Nmap - the Network Mapper. Github mirror of official SVN repository.
 
@@ -1367,7 +1383,7 @@ Nmap - the Network Mapper. Github mirror of official SVN repository.
 💻 Language: C  
 🔗 [github.com/nmap/nmap](https://github.com/nmap/nmap)
 
-### 18. [nvidia/garak](https://github.com/nvidia/garak)
+### 19. [nvidia/garak](https://github.com/nvidia/garak)
 
 the LLM vulnerability scanner
 
@@ -1375,15 +1391,15 @@ the LLM vulnerability scanner
 💻 Language: Python  
 🔗 [github.com/nvidia/garak](https://github.com/nvidia/garak)
 
-### 19. [openai/php2shell-checker](https://github.com/openai/php2shell-checker)
+### 20. [openai/php2shell-checker](https://github.com/openai/php2shell-checker)
 
 Node script plus Codex skills that check a website or local PHP binary against the patched-version cutoff for the php2shell vulnerabiliti… *(vault note)*
 
-⭐ Stars: 1.4k  
+⭐ Stars: 1.5k  
 💻 Language: JavaScript  
 🔗 [github.com/openai/php2shell-checker](https://github.com/openai/php2shell-checker)
 
-### 20. [openbao/openbao](https://github.com/openbao/openbao)
+### 21. [openbao/openbao](https://github.com/openbao/openbao)
 
 OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
@@ -1391,7 +1407,7 @@ OpenBao is a software solution to manage, store, and distribute sensitive data i
 💻 Language: Go  
 🔗 [github.com/openbao/openbao](https://github.com/openbao/openbao)
 
-### 21. [openssl/openssl](https://github.com/openssl/openssl)
+### 22. [openssl/openssl](https://github.com/openssl/openssl)
 
 General purpose TLS and crypto library
 
@@ -1399,23 +1415,23 @@ General purpose TLS and crypto library
 💻 Language: C  
 🔗 [github.com/openssl/openssl](https://github.com/openssl/openssl)
 
-### 22. [opentrap/opentrap](https://github.com/opentrap/opentrap)
+### 23. [opentrap/opentrap](https://github.com/opentrap/opentrap)
 
 A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collabor…
 
-⭐ Stars: 595  
+⭐ Stars: 596  
 💻 Language: Java  
 🔗 [github.com/opentrap/opentrap](https://github.com/opentrap/opentrap)
 
-### 23. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+### 24. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
 
 Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabl…
 
-⭐ Stars: 32.4k  
+⭐ Stars: 32.5k  
 💻 Language: Go  
 🔗 [github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
 
-### 24. [protectai/llm-guard](https://github.com/protectai/llm-guard)
+### 25. [protectai/llm-guard](https://github.com/protectai/llm-guard)
 
 The Security Toolkit for LLM Interactions *(archived)*
 
@@ -1423,15 +1439,15 @@ The Security Toolkit for LLM Interactions *(archived)*
 💻 Language: Python  
 🔗 [github.com/protectai/llm-guard](https://github.com/protectai/llm-guard)
 
-### 25. [prototux/aare](https://github.com/prototux/aare)
+### 26. [prototux/aare](https://github.com/prototux/aare)
 
 A proof-of-concept opensource implementation of Android Auto's client side (phone side)
 
-⭐ Stars: 279  
+⭐ Stars: 285  
 💻 Language: Kotlin  
 🔗 [github.com/prototux/aare](https://github.com/prototux/aare)
 
-### 26. [radareorg/radare2](https://github.com/radareorg/radare2)
+### 27. [radareorg/radare2](https://github.com/radareorg/radare2)
 
 UNIX-like reverse engineering framework and command-line toolset
 
@@ -1439,7 +1455,7 @@ UNIX-like reverse engineering framework and command-line toolset
 💻 Language: C  
 🔗 [github.com/radareorg/radare2](https://github.com/radareorg/radare2)
 
-### 27. [rizinorg/cutter](https://github.com/rizinorg/cutter)
+### 28. [rizinorg/cutter](https://github.com/rizinorg/cutter)
 
 Free and Open Source Reverse Engineering Platform powered by rizin
 
@@ -1447,39 +1463,39 @@ Free and Open Source Reverse Engineering Platform powered by rizin
 💻 Language: C++  
 🔗 [github.com/rizinorg/cutter](https://github.com/rizinorg/cutter)
 
-### 28. [semgrep/semgrep](https://github.com/semgrep/semgrep)
+### 29. [semgrep/semgrep](https://github.com/semgrep/semgrep)
 
 Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
-⭐ Stars: 17.3k  
+⭐ Stars: 17.4k  
 💻 Language: C  
 🔗 [github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)
 
-### 29. [shagg88/cogbox](https://github.com/shagg88/cogbox)
+### 30. [shagg88/cogbox](https://github.com/shagg88/cogbox)
 
 This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.
 
-⭐ Stars: 220  
+⭐ Stars: 238  
 💻 Language: C++  
 🔗 [github.com/shagg88/cogbox](https://github.com/shagg88/cogbox)
 
-### 30. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+### 31. [tailscale/tailscale](https://github.com/tailscale/tailscale)
 
 The easiest, most secure way to use WireGuard and 2FA.
 
-⭐ Stars: 38.3k  
+⭐ Stars: 38.4k  
 💻 Language: Go  
 🔗 [github.com/tailscale/tailscale](https://github.com/tailscale/tailscale)
 
-### 31. [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
+### 32. [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
 
 Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them
 
-⭐ Stars: 182  
+⭐ Stars: 187  
 💻 Language: Rocq Prover  
 🔗 [github.com/theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
 
-### 32. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+### 33. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 Find, verify, and analyze leaked credentials
 
@@ -1487,23 +1503,23 @@ Find, verify, and analyze leaked credentials
 💻 Language: Go  
 🔗 [github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
-### 33. [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)
+### 34. [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)
 
 Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
 
-⭐ Stars: 490  
+⭐ Stars: 1.5k  
 💻 Language: C  
 🔗 [github.com/valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)
 
-### 34. [villagers654/venture](https://github.com/villagers654/venture)
+### 35. [villagers654/venture](https://github.com/villagers654/venture)
 
 A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.
 
-⭐ Stars: 144  
+⭐ Stars: 197  
 💻 Language: C++  
 🔗 [github.com/villagers654/venture](https://github.com/villagers654/venture)
 
-### 35. [wireshark/wireshark](https://github.com/wireshark/wireshark)
+### 36. [wireshark/wireshark](https://github.com/wireshark/wireshark)
 
 Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 
@@ -1511,7 +1527,7 @@ Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/w
 💻 Language: C  
 🔗 [github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
 
-### 36. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
+### 37. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
 
 An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
@@ -1538,7 +1554,7 @@ An extremely fast Python linter and code formatter, written in Rust.
 
 An extremely fast Python package and project manager, written in Rust.
 
-⭐ Stars: 91.3k  
+⭐ Stars: 91.4k  
 💻 Language: Rust  
 🔗 [github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 
@@ -1578,7 +1594,7 @@ A modern runtime for JavaScript and TypeScript.
 
 The Go programming language
 
-⭐ Stars: 139.4k  
+⭐ Stars: 139.5k  
 💻 Language: Go  
 🔗 [github.com/golang/go](https://github.com/golang/go)
 
@@ -1586,7 +1602,7 @@ The Go programming language
 
 dev tools, env vars, task runner
 
-⭐ Stars: 35.5k  
+⭐ Stars: 35.6k  
 💻 Language: Rust  
 🔗 [github.com/jdx/mise](https://github.com/jdx/mise)
 
@@ -1594,7 +1610,7 @@ dev tools, env vars, task runner
 
 The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-⭐ Stars: 41.2k  
+⭐ Stars: 41.3k  
 💻 Language: LLVM  
 🔗 [github.com/llvm/llvm-project](https://github.com/llvm/llvm-project)
 
@@ -1642,7 +1658,7 @@ The Python programming language
 
 Empowering everyone to build reliable and efficient software.
 
-⭐ Stars: 120.8k  
+⭐ Stars: 120.9k  
 💻 Language: Rust  
 🔗 [github.com/rust-lang/rust](https://github.com/rust-lang/rust)
 
@@ -1650,7 +1666,7 @@ Empowering everyone to build reliable and efficient software.
 
 Run a web page like a program
 
-⭐ Stars: 213  
+⭐ Stars: 222  
 💻 Language: Go  
 🔗 [github.com/tractordev/webframe](https://github.com/tractordev/webframe)
 
@@ -1662,7 +1678,15 @@ An incremental parsing system for programming tools
 💻 Language: Rust  
 🔗 [github.com/tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
-### 18. [webassembly/spec](https://github.com/webassembly/spec)
+### 18. [vortexso4/weft](https://github.com/vortexso4/weft)
+
+Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK. *(vault note)*
+
+⭐ Stars: 125  
+💻 Language: Rust  
+🔗 [github.com/vortexso4/weft](https://github.com/vortexso4/weft)
+
+### 19. [webassembly/spec](https://github.com/webassembly/spec)
 
 WebAssembly specification, reference interpreter, and test suite.
 
@@ -1670,7 +1694,7 @@ WebAssembly specification, reference interpreter, and test suite.
 💻 Language: WebAssembly  
 🔗 [github.com/webassembly/spec](https://github.com/webassembly/spec)
 
-### 19. [ziglang/zig](https://github.com/ziglang/zig)
+### 20. [ziglang/zig](https://github.com/ziglang/zig)
 
 Moved to Codeberg
 
@@ -1697,7 +1721,7 @@ Web development and application frameworks.
 
 The Web framework for perfectionists with deadlines.
 
-⭐ Stars: 91.4k  
+⭐ Stars: 91.5k  
 💻 Language: Python  
 🔗 [github.com/django/django](https://github.com/django/django)
 
@@ -1705,7 +1729,7 @@ The Web framework for perfectionists with deadlines.
 
 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
-⭐ Stars: 123.6k  
+⭐ Stars: 123.7k  
 💻 Language: C++  
 🔗 [github.com/electron/electron](https://github.com/electron/electron)
 
@@ -1721,7 +1745,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-⭐ Stars: 180.6k  
+⭐ Stars: 180.7k  
 💻 Language: Dart  
 🔗 [github.com/flutter/flutter](https://github.com/flutter/flutter)
 
@@ -1737,7 +1761,7 @@ The world’s fastest framework for building websites.
 
 Web framework built on Web Standards
 
-⭐ Stars: 32.7k  
+⭐ Stars: 32.8k  
 💻 Language: TypeScript  
 🔗 [github.com/honojs/hono](https://github.com/honojs/hono)
 
@@ -1745,7 +1769,7 @@ Web framework built on Web Standards
 
 Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps
 
-⭐ Stars: 307  
+⭐ Stars: 436  
 💻 Language: JavaScript  
 🔗 [github.com/humpalumps/ultra-water](https://github.com/humpalumps/ultra-water)
 
@@ -1769,7 +1793,7 @@ Ruby on Rails
 
 The library for web and native user interfaces.
 
-⭐ Stars: 251.7k  
+⭐ Stars: 251.8k  
 💻 Language: JavaScript  
 🔗 [github.com/react/react](https://github.com/react/react)
 
@@ -1777,7 +1801,7 @@ The library for web and native user interfaces.
 
 Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and mak…
 
-⭐ Stars: 126.9k  
+⭐ Stars: 127k  
 💻 Language: TypeScript  
 🔗 [github.com/shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
@@ -1841,7 +1865,7 @@ Next generation frontend tooling. It's fast!
 
 Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
 
-⭐ Stars: 2.4k  
+⭐ Stars: 2.5k  
 💻 Language: Swift  
 🔗 [github.com/wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)
 
@@ -1849,7 +1873,7 @@ Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor
 
 Fast and simple diagrams.
 
-⭐ Stars: 437  
+⭐ Stars: 439  
 💻 Language: Rust  
 🔗 [github.com/wevm/ondine](https://github.com/wevm/ondine)
 
@@ -1872,7 +1896,7 @@ Self-hosted applications and infrastructure you can run yourself.
 
 Network-wide ads & trackers blocking DNS server
 
-⭐ Stars: 37.9k  
+⭐ Stars: 38k  
 💻 Language: TypeScript  
 🔗 [github.com/adguardteam/adguardhome](https://github.com/adguardteam/adguardhome)
 
@@ -1880,7 +1904,7 @@ Network-wide ads & trackers blocking DNS server
 
 Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-⭐ Stars: 78.5k  
+⭐ Stars: 78.6k  
 💻 Language: Go  
 🔗 [github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
 
@@ -1904,7 +1928,7 @@ A docker-powered PaaS that helps you build and manage the lifecycle of applicati
 
 A free, self-hostable news aggregator…
 
-⭐ Stars: 16.4k  
+⭐ Stars: 16.5k  
 💻 Language: PHP  
 🔗 [github.com/freshrss/freshrss](https://github.com/freshrss/freshrss)
 
@@ -1920,7 +1944,7 @@ The authentication glue you need.
 
 High performance self-hosted photo and video management solution.
 
-⭐ Stars: 117.6k  
+⭐ Stars: 117.7k  
 💻 Language: TypeScript  
 🔗 [github.com/immich-app/immich](https://github.com/immich-app/immich)
 
@@ -1976,7 +2000,7 @@ Minimalist and opinionated feed reader
 
 ☁️ Nextcloud server, a safe home for all your data
 
-⭐ Stars: 37.3k  
+⭐ Stars: 37.4k  
 💻 Language: PHP  
 🔗 [github.com/nextcloud/server](https://github.com/nextcloud/server)
 
@@ -1992,7 +2016,7 @@ The official NGINX Open Source repository.
 
 Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3
 
-⭐ Stars: 191  
+⭐ Stars: 210  
 💻 Language: C  
 🔗 [github.com/ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint)
 
@@ -2008,7 +2032,7 @@ OpenTofu lets you declaratively manage your cloud infrastructure.
 
 A community-supported supercharged document management system: scan, index and archive all your documents
 
-⭐ Stars: 47.3k  
+⭐ Stars: 47.4k  
 💻 Language: Python  
 🔗 [github.com/paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
@@ -2024,7 +2048,7 @@ A black hole for Internet advertisements
 
 Making Docker and Kubernetes management easy.
 
-⭐ Stars: 38.7k  
+⭐ Stars: 38.8k  
 💻 Language: TypeScript  
 🔗 [github.com/portainer/portainer](https://github.com/portainer/portainer)
 
@@ -2032,7 +2056,7 @@ Making Docker and Kubernetes management easy.
 
 Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, sever…
 
-⭐ Stars: 146  
+⭐ Stars: 147  
 💻 Language: Swift  
 🔗 [github.com/rolottr/bambu-bar](https://github.com/rolottr/bambu-bar)
 
@@ -2127,7 +2151,7 @@ CNCF Jaeger, a Distributed Tracing Platform
 
 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 
-⭐ Stars: 36.7k  
+⭐ Stars: 36.8k  
 💻 Language: TypeScript  
 🔗 [github.com/langfuse/langfuse](https://github.com/langfuse/langfuse)
 
@@ -2143,7 +2167,7 @@ OpenTelemetry Collector
 
 The Prometheus monitoring system and time series database.
 
-⭐ Stars: 66.8k  
+⭐ Stars: 66.9k  
 💻 Language: Go  
 🔗 [github.com/prometheus/prometheus](https://github.com/prometheus/prometheus)
 
@@ -2151,7 +2175,7 @@ The Prometheus monitoring system and time series database.
 
 Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, De…
 
-⭐ Stars: 26.6k  
+⭐ Stars: 26.7k  
 💻 Language: TypeScript  
 🔗 [github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 
@@ -2183,7 +2207,7 @@ SigNoz is an open-source, OpenTelemetry-native observability platform for your t
 
 VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
-⭐ Stars: 17.9k  
+⭐ Stars: 18k  
 💻 Language: Go  
 🔗 [github.com/victoriametrics/victoriametrics](https://github.com/victoriametrics/victoriametrics)
 
@@ -2199,7 +2223,7 @@ Next generation testing framework powered by Vite.
 
 Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows t…
 
-⭐ Stars: 164  
+⭐ Stars: 169  
 💻 Language: TypeScript  
 🔗 [github.com/winnin/farol](https://github.com/winnin/farol)
 
@@ -2222,7 +2246,7 @@ Open-source data movement for ELT pipelines and AI agents — from APIs, databas
 
 Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
-⭐ Stars: 17.2k  
+⭐ Stars: 17.3k  
 💻 Language: C++  
 🔗 [github.com/apache/arrow](https://github.com/apache/arrow)
 
@@ -2302,7 +2326,7 @@ Always know what to expect from your data.
 
 The data transformation tool the open-source community deserves.
 
-⭐ Stars: 268  
+⭐ Stars: 275  
 💻 Language: Python  
 🔗 [github.com/hugues31/duckpad](https://github.com/hugues31/duckpad)
 
@@ -2358,7 +2382,7 @@ Streamlit — A faster way to build and share data apps.
 
 Opensource Revenue-first analytics for indie hackers & solo founders
 
-⭐ Stars: 776  
+⭐ Stars: 784  
 💻 Language: TypeScript  
 🔗 [github.com/surendrapandar/minilytics](https://github.com/surendrapandar/minilytics)
 
@@ -2389,7 +2413,7 @@ An autonomous agent that conducts deep research on any data using any LLM provid
 
 A Lean formalization of the Classification of Finite Simple Groups
 
-⭐ Stars: 137  
+⭐ Stars: 146  
 💻 Language: Lean  
 🔗 [github.com/axiommath/cfsg](https://github.com/axiommath/cfsg)
 
@@ -2397,7 +2421,7 @@ A Lean formalization of the Classification of Finite Simple Groups
 
 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-⭐ Stars: 376.1k  
+⭐ Stars: 376.3k  
 💻 Language: Python  
 🔗 [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
@@ -2429,7 +2453,7 @@ Web Extension for saving a faithful copy of a complete web page in a single HTML
 
 Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.
 
-⭐ Stars: 241  
+⭐ Stars: 244  
 💻 Language: TypeScript  
 🔗 [github.com/ivarvong/lantern](https://github.com/ivarvong/lantern)
 
@@ -2437,7 +2461,7 @@ Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, bro
 
 Universal markup converter
 
-⭐ Stars: 46.7k  
+⭐ Stars: 46.8k  
 💻 Language: Haskell  
 🔗 [github.com/jgm/pandoc](https://github.com/jgm/pandoc)
 
@@ -2445,7 +2469,7 @@ Universal markup converter
 
 A complete computer science study plan to become a software engineer.
 
-⭐ Stars: 363.5k  
+⭐ Stars: 363.6k  
 💻 Language: Unknown  
 🔗 [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
@@ -2453,7 +2477,7 @@ A complete computer science study plan to become a software engineer.
 
 The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-⭐ Stars: 64.2k  
+⭐ Stars: 64.3k  
 💻 Language: Python  
 🔗 [github.com/karpathy/nanogpt](https://github.com/karpathy/nanogpt)
 
@@ -2477,7 +2501,7 @@ Project documentation with Markdown.
 
 A collective list of free APIs
 
-⭐ Stars: 493.3k  
+⭐ Stars: 493.6k  
 💻 Language: Python  
 🔗 [github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
 
@@ -2485,7 +2509,7 @@ A collective list of free APIs
 
 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
-⭐ Stars: 107.5k  
+⭐ Stars: 107.6k  
 💻 Language: Jupyter Notebook  
 🔗 [github.com/rasbt/llms-from-scratch](https://github.com/rasbt/llms-from-scratch)
 
@@ -2501,7 +2525,7 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 
 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up wit…
 
-⭐ Stars: 526.8k  
+⭐ Stars: 527.5k  
 💻 Language: Unknown  
 🔗 [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
@@ -2517,7 +2541,7 @@ Documentation that simply works
 
 An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
-⭐ Stars: 31.7k  
+⭐ Stars: 31.8k  
 💻 Language: Python  
 🔗 [github.com/stanford-oval/storm](https://github.com/stanford-oval/storm)
 
@@ -2564,7 +2588,7 @@ A smarter cd command. Supports all major shells.
 
 Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.
 
-⭐ Stars: 189  
+⭐ Stars: 214  
 💻 Language: Rust  
 🔗 [github.com/anomalyco/hokum](https://github.com/anomalyco/hokum)
 
@@ -2580,7 +2604,7 @@ A monitor of resources
 
 ✨ Making your shell magical
 
-⭐ Stars: 32.1k  
+⭐ Stars: 32.2k  
 💻 Language: Rust  
 🔗 [github.com/atuinsh/atuin](https://github.com/atuinsh/atuin)
 
@@ -2588,7 +2612,7 @@ A monitor of resources
 
 ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
-⭐ Stars: 69.5k  
+⭐ Stars: 69.6k  
 💻 Language: Rust  
 🔗 [github.com/burntsushi/ripgrep](https://github.com/burntsushi/ripgrep)
 
@@ -2596,7 +2620,7 @@ ripgrep recursively searches directories for a regex pattern while respecting yo
 
 A tool for glamorous shell scripts 🎀
 
-⭐ Stars: 24.5k  
+⭐ Stars: 24.6k  
 💻 Language: Go  
 🔗 [github.com/charmbracelet/gum](https://github.com/charmbracelet/gum)
 
@@ -2620,7 +2644,7 @@ A modern alternative to ls
 
 Mirror of https://git.ffmpeg.org/ffmpeg.git
 
-⭐ Stars: 66k  
+⭐ Stars: 66.1k  
 💻 Language: C  
 🔗 [github.com/ffmpeg/ffmpeg](https://github.com/ffmpeg/ffmpeg)
 
@@ -2628,7 +2652,7 @@ Mirror of https://git.ffmpeg.org/ffmpeg.git
 
 Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal qual…
 
-⭐ Stars: 344  
+⭐ Stars: 386  
 💻 Language: Rust  
 🔗 [github.com/heydeer/pngdeer](https://github.com/heydeer/pngdeer)
 
@@ -2644,7 +2668,7 @@ htop - an interactive process viewer
 
 A tool to generate normal maps from any sprite and animated sprite sheet.
 
-⭐ Stars: 703  
+⭐ Stars: 711  
 💻 Language: Rust  
 🔗 [github.com/hugo-dz/spritefusion-sprite-normals](https://github.com/hugo-dz/spritefusion-sprite-normals)
 
@@ -2656,7 +2680,15 @@ ImageMagick is a free, open-source software suite for creating, editing, convert
 💻 Language: C  
 🔗 [github.com/imagemagick/imagemagick](https://github.com/imagemagick/imagemagick)
 
-### 14. [jqlang/jq](https://github.com/jqlang/jq)
+### 14. [johncassil/dontallow](https://github.com/johncassil/dontallow)
+
+Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.
+
+⭐ Stars: 89  
+💻 Language: Swift  
+🔗 [github.com/johncassil/dontallow](https://github.com/johncassil/dontallow)
+
+### 15. [jqlang/jq](https://github.com/jqlang/jq)
 
 Command-line JSON processor
 
@@ -2664,7 +2696,7 @@ Command-line JSON processor
 💻 Language: C  
 🔗 [github.com/jqlang/jq](https://github.com/jqlang/jq)
 
-### 15. [junegunn/fzf](https://github.com/junegunn/fzf)
+### 16. [junegunn/fzf](https://github.com/junegunn/fzf)
 
 :cherry\_blossom: A command-line fuzzy finder
 
@@ -2672,7 +2704,7 @@ Command-line JSON processor
 💻 Language: Go  
 🔗 [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 
-### 16. [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
+### 17. [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 
 ShellCheck, a static analysis tool for shell scripts
 
@@ -2680,7 +2712,15 @@ ShellCheck, a static analysis tool for shell scripts
 💻 Language: Haskell  
 🔗 [github.com/koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 
-### 17. [mikefarah/yq](https://github.com/mikefarah/yq)
+### 18. [lonthq/overtone-captions](https://github.com/lonthq/overtone-captions)
+
+Captions cut for every screen shape, from one file. A caption format, a video.js plugin, and a CLI that turns audio into word-timed capti…
+
+⭐ Stars: 46  
+💻 Language: TypeScript  
+🔗 [github.com/lonthq/overtone-captions](https://github.com/lonthq/overtone-captions)
+
+### 19. [mikefarah/yq](https://github.com/mikefarah/yq)
 
 yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor
 
@@ -2688,7 +2728,7 @@ yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties pro
 💻 Language: Go  
 🔗 [github.com/mikefarah/yq](https://github.com/mikefarah/yq)
 
-### 18. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+### 20. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
@@ -2696,7 +2736,7 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 💻 Language: C  
 🔗 [github.com/obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-### 19. [sharkdp/bat](https://github.com/sharkdp/bat)
+### 21. [sharkdp/bat](https://github.com/sharkdp/bat)
 
 A cat(1) clone with wings.
 
@@ -2704,7 +2744,7 @@ A cat(1) clone with wings.
 💻 Language: Rust  
 🔗 [github.com/sharkdp/bat](https://github.com/sharkdp/bat)
 
-### 20. [sharkdp/fd](https://github.com/sharkdp/fd)
+### 22. [sharkdp/fd](https://github.com/sharkdp/fd)
 
 A simple, fast and user-friendly alternative to 'find'
 
@@ -2712,7 +2752,7 @@ A simple, fast and user-friendly alternative to 'find'
 💻 Language: Rust  
 🔗 [github.com/sharkdp/fd](https://github.com/sharkdp/fd)
 
-### 21. [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+### 23. [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
 A command-line benchmarking tool
 
@@ -2720,7 +2760,7 @@ A command-line benchmarking tool
 💻 Language: Rust  
 🔗 [github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
-### 22. [starship/starship](https://github.com/starship/starship)
+### 24. [starship/starship](https://github.com/starship/starship)
 
 ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -2728,7 +2768,7 @@ A command-line benchmarking tool
 💻 Language: Rust  
 🔗 [github.com/starship/starship](https://github.com/starship/starship)
 
-### 23. [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)
+### 25. [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)
 
 A very fast implementation of tldr in Rust.
 
@@ -2736,7 +2776,7 @@ A very fast implementation of tldr in Rust.
 💻 Language: Rust  
 🔗 [github.com/tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)
 
-### 24. [tmux/tmux](https://github.com/tmux/tmux)
+### 26. [tmux/tmux](https://github.com/tmux/tmux)
 
 tmux source code
 
@@ -2744,7 +2784,7 @@ tmux source code
 💻 Language: C  
 🔗 [github.com/tmux/tmux](https://github.com/tmux/tmux)
 
-### 25. [xampprocky/tokei](https://github.com/xampprocky/tokei)
+### 27. [xampprocky/tokei](https://github.com/xampprocky/tokei)
 
 Count your code, quickly.
 
@@ -2752,15 +2792,15 @@ Count your code, quickly.
 💻 Language: Rust  
 🔗 [github.com/xampprocky/tokei](https://github.com/xampprocky/tokei)
 
-### 26. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+### 28. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 A feature-rich command-line audio/video downloader
 
-⭐ Stars: 203.7k  
+⭐ Stars: 204k  
 💻 Language: Python  
 🔗 [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-### 27. [zellij-org/zellij](https://github.com/zellij-org/zellij)
+### 29. [zellij-org/zellij](https://github.com/zellij-org/zellij)
 
 A terminal workspace with batteries included
 
@@ -2819,7 +2859,7 @@ Ely Office: offline-first desktop apps in Rust and GPUI
 
 💚 End-to-end encrypted cloud for everything.
 
-⭐ Stars: 29.7k  
+⭐ Stars: 29.8k  
 💻 Language: Dart  
 🔗 [github.com/ente/ente](https://github.com/ente/ente)
 
@@ -2827,7 +2867,7 @@ Ely Office: offline-first desktop apps in Rust and GPUI
 
 Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 
-⭐ Stars: 974  
+⭐ Stars: 976  
 💻 Language: C++  
 🔗 [github.com/kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
 
@@ -2843,7 +2883,7 @@ The official source code repository for the calibre ebook manager
 
 Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
-⭐ Stars: 56.9k  
+⭐ Stars: 57k  
 💻 Language: TypeScript  
 🔗 [github.com/laurent22/joplin](https://github.com/laurent22/joplin)
 
@@ -2867,7 +2907,7 @@ Your self-hosted, globally interconnected microblogging community
 
 A Windows your apps recognize.
 
-⭐ Stars: 545  
+⭐ Stars: 565  
 💻 Language: C++  
 🔗 [github.com/mirkobrombin/raven](https://github.com/mirkobrombin/raven)
 
@@ -2907,7 +2947,7 @@ A private messenger for Android.
 
 A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 
-⭐ Stars: 5.4k  
+⭐ Stars: 5.5k  
 💻 Language: Java  
 🔗 [github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
 

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-30T05:44:20+05:30",
+ "metadata_refreshed": "2026-10-31T05:48:03+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
  "repo_count": 22,
@@ -15,7 +15,7 @@
    "description": "Network-wide ads & trackers blocking DNS server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37900,
+   "stars": 38000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
    "description_source": "github",
    "language": "Go",
-   "stars": 78500,
+   "stars": 78600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A free, self-hostable news aggregator…",
    "description_source": "github",
    "language": "PHP",
-   "stars": 16400,
+   "stars": 16500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 117600,
+   "stars": 117700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "☁️ Nextcloud server, a safe home for all your data",
    "description_source": "github",
    "language": "PHP",
-   "stars": 37300,
+   "stars": 37400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
    "description_source": "github",
    "language": "C",
-   "stars": 191,
+   "stars": 210,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
    "description_source": "github",
    "language": "Python",
-   "stars": 47300,
+   "stars": 47400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Making Docker and Kubernetes management easy.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38700,
+   "stars": 38800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 146,
+   "stars": 147,
    "archived": false,
    "metadata_status": "live"
   },
