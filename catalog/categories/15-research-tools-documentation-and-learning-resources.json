@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-10-31T05:48:03+05:30",
+ "metadata_refreshed": "2026-11-01T05:42:59+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
- "repo_count": 22,
+ "repo_count": 23,
  "repositories": [
   {
    "name": "archivebox/archivebox",
@@ -39,7 +39,19 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 146,
+   "stars": 153,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "dbreunig/nesformer",
+   "url": "https://github.com/dbreunig/nesformer",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 241,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 376300,
+   "stars": 376400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 458200,
+   "stars": 458300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 244,
+   "stars": 246,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 210500,
+   "stars": 210600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +183,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 493600,
+   "stars": 493800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 527500,
+   "stars": 528000,
    "archived": false,
    "metadata_status": "live"
   },
