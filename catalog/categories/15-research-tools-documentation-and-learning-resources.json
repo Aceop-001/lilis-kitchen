@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
- "repo_count": 23,
+ "repo_count": 24,
  "repositories": [
   {
    "name": "archivebox/archivebox",
@@ -39,7 +39,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 153,
+   "stars": 154,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
    "description_source": "github",
    "language": "Python",
-   "stars": 241,
+   "stars": 263,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 458300,
+   "stars": 458400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -152,6 +152,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "lexifina/global-law",
+   "url": "https://github.com/lexifina/global-law",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+   "description_source": "github",
+   "language": "HTML",
+   "stars": 1600,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "mkdocs/mkdocs",
    "url": "https://github.com/mkdocs/mkdocs",
    "category": "🎓 Research tools, documentation, and learning resources",
@@ -183,7 +195,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 493800,
+   "stars": 494600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 107600,
+   "stars": 107700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 528000,
+   "stars": 528700,
    "archived": false,
    "metadata_status": "live"
   },

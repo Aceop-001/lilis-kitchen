@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 22,
@@ -27,7 +27,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 91600,
+   "stars": 91700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
    "description_source": "github",
    "language": "Python",
-   "stars": 104400,
+   "stars": 104500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
    "description_source": "github",
    "language": "Dart",
-   "stars": 180800,
+   "stars": 181000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 499,
+   "stars": 532,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Ruby on Rails",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 58900,
+   "stars": 58800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 251900,
+   "stars": 252100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "A utility-first CSS framework for rapid UI development.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98100,
+   "stars": 98300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "The React Framework",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 143300,
+   "stars": 143500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Next generation frontend tooling. It's fast!",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 83600,
+   "stars": 83700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 54900,
+   "stars": 55000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2500,
+   "stars": 2600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 439,
+   "stars": 441,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "The web framework for content-driven websites.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 63600,
+   "stars": 63700,
    "archived": false,
    "metadata_status": "live"
   }

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 30,
@@ -27,7 +27,7 @@
    "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 221,
+   "stars": 230,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Install Linux next to Windows without a USB stick",
    "description_source": "github",
    "language": "PowerShell",
-   "stars": 711,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 410,
+   "stars": 415,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 722,
+   "stars": 740,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 78700,
+   "stars": 78800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60500,
+   "stars": 60600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +351,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 204200,
+   "stars": 204500,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 38,
+ "repo_count": 39,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -39,7 +39,7 @@
    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
    "description_source": "github",
    "language": "C#",
-   "stars": 20500,
+   "stars": 20600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70000,
+   "stars": 70100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "description_source": "github",
    "language": "C++",
-   "stars": 1200,
+   "stars": 2000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
    "description_source": "github",
    "language": "Go",
-   "stars": 24100,
+   "stars": 24200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 309,
+   "stars": 400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 548,
+   "stars": 560,
    "archived": false,
    "metadata_status": "live"
   },
@@ -156,10 +156,10 @@
    "url": "https://github.com/interplains/zero-breach-toolkit",
    "category": "🔐 Security, privacy, and reverse engineering",
    "category_id": "09-security-privacy-and-reverse-engineering",
-   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+   "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
    "description_source": "github",
    "language": "Python",
-   "stars": 4000,
+   "stars": 4100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 45200,
+   "stars": 45300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 966,
+   "stars": 968,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
    "description_source": "github",
    "language": "C++",
-   "stars": 29600,
+   "stars": 29700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 96500,
+   "stars": 96800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "General purpose TLS and crypto library",
    "description_source": "github",
    "language": "C",
-   "stars": 31100,
+   "stars": 31200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 680,
+   "stars": 772,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 289,
+   "stars": 297,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +375,19 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
    "description_source": "github",
    "language": "C++",
-   "stars": 303,
+   "stars": 326,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +399,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 38400,
+   "stars": 38500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +411,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 187,
+   "stars": 189,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +435,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 2600,
+   "stars": 3200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +447,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 219,
+   "stars": 239,
    "archived": false,
    "metadata_status": "live"
   },

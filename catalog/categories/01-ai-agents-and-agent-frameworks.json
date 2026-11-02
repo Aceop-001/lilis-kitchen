@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
- "repo_count": 22,
+ "repo_count": 23,
  "repositories": [
   {
    "name": "agno-agi/agno",
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 119700,
+   "stars": 119800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 2300,
+   "stars": 7200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -80,6 +80,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "jackwener/dsh-android",
+   "url": "https://github.com/jackwener/dsh-android",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+   "description_source": "github",
+   "language": "Kotlin",
+   "stars": 697,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "langchain-ai/langgraph",
    "url": "https://github.com/langchain-ai/langgraph",
    "category": "🤖 AI agents and agent frameworks",
@@ -87,7 +99,7 @@
    "description": "Build resilient agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 44200,
+   "stars": 44300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +123,7 @@
    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 29200,
+   "stars": 29300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 208,
+   "stars": 211,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "A Tiny biped duck robot 🦆",
    "description_source": "github",
    "language": "Rust",
-   "stars": 13200,
+   "stars": 13300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -252,10 +264,10 @@
    "url": "https://github.com/wangzan101/mika",
    "category": "🤖 AI agents and agent frameworks",
    "category_id": "01-ai-agents-and-agent-frameworks",
-   "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 2700,
+   "stars": 3800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 254,
+   "stars": 255,
    "archived": false,
    "metadata_status": "live"
   }

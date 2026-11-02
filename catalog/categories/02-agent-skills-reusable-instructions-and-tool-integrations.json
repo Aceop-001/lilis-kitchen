@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "🧩 Agent skills, reusable instructions, and tool integrations",
  "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
  "repo_count": 12,
@@ -15,7 +15,7 @@
    "description": "AGENTS.md — a simple, open format for guiding coding agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 25200,
+   "stars": 25300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 154100,
+   "stars": 154200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 185900,
+   "stars": 186400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 78400,
+   "stars": 78500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 108600,
+   "stars": 108700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 310100,
+   "stars": 310600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 132500,
+   "stars": 132700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "description_source": "github",
    "language": "Shell",
-   "stars": 26200,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },

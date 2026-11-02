@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-01T05:42:59+05:30",
+ "metadata_refreshed": "2026-11-02T05:47:20+05:30",
  "category": "⚡ Automation, workflows, and scripting",
  "category_id": "06-automation-workflows-and-scripting",
  "repo_count": 14,
@@ -87,7 +87,7 @@
    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50200,
+   "stars": 50300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 99000,
+   "stars": 99100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 209200,
+   "stars": 209300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 18300,
+   "stars": 18400,
    "archived": false,
    "metadata_status": "live"
   }
