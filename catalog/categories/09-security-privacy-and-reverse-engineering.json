@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-02T05:47:20+05:30",
+ "metadata_refreshed": "2026-11-03T05:42:36+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 39,
+ "repo_count": 41,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -63,7 +63,7 @@
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "description_source": "github",
    "language": "C++",
-   "stars": 2000,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -104,6 +104,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "gezine/civswitch",
+   "url": "https://github.com/gezine/civswitch",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 470,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "gitleaks/gitleaks",
    "url": "https://github.com/gitleaks/gitleaks",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -123,7 +135,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 400,
+   "stars": 439,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 560,
+   "stars": 567,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
    "description_source": "github",
    "language": "Python",
-   "stars": 4100,
+   "stars": 4300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46500,
+   "stars": 46600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 96800,
+   "stars": 97200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 772,
+   "stars": 776,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +339,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 297,
+   "stars": 311,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,7 @@
    "description": "UNIX-like reverse engineering framework and command-line toolset",
    "description_source": "github",
    "language": "C",
-   "stars": 25200,
+   "stars": 25300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
    "description_source": "github",
    "language": "C++",
-   "stars": 326,
+   "stars": 350,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +399,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1000,
+   "stars": 4100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -411,7 +423,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 189,
+   "stars": 191,
    "archived": false,
    "metadata_status": "live"
   },
@@ -432,10 +444,22 @@
    "url": "https://github.com/valentderah/totk-pc-recomp",
    "category": "🔐 Security, privacy, and reverse engineering",
    "category_id": "09-security-privacy-and-reverse-engineering",
-   "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+   "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 3200,
+   "stars": 4000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "verlintas/noir",
+   "url": "https://github.com/verlintas/noir",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+   "description_source": "github",
+   "language": "Kotlin",
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +471,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 239,
+   "stars": 254,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +495,7 @@
    "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
    "description_source": "github",
    "language": "C++",
-   "stars": 50100,
+   "stars": 50200,
    "archived": false,
    "metadata_status": "live"
   }

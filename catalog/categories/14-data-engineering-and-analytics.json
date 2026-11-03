@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-02T05:47:20+05:30",
+ "metadata_refreshed": "2026-11-03T05:42:36+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 19,
@@ -147,7 +147,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "Python",
-   "stars": 289,
+   "stars": 294,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Extremely fast Query Engine for DataFrames, written in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 40200,
+   "stars": 40300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 795,
+   "stars": 801,
    "archived": false,
    "metadata_status": "live"
   }

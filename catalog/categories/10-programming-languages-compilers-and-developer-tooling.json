@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-02T05:47:20+05:30",
+ "metadata_refreshed": "2026-11-03T05:42:36+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 91400,
+   "stars": 91500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,19 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139700,
+   "stars": 139500,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "ivankovic/omnidiff",
+   "url": "https://github.com/ivankovic/omnidiff",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Fast, robust, accurate diffing",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 848,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35600,
+   "stars": 35700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 238,
+   "stars": 243,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 279,
+   "stars": 289,
    "archived": false,
    "metadata_status": "live"
   },

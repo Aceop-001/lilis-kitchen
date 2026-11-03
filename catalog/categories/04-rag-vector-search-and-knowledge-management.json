@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-02T05:47:20+05:30",
+ "metadata_refreshed": "2026-11-03T05:42:36+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -27,7 +27,7 @@
    "description": "Convert PDF to markdown + JSON quickly with high accuracy",
    "description_source": "github",
    "language": "Python",
-   "stars": 40700,
+   "stars": 40800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A library for efficient similarity search and clustering of dense vectors.",
    "description_source": "github",
    "language": "C++",
-   "stars": 41200,
+   "stars": 41300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -84,10 +84,10 @@
    "url": "https://github.com/infiniflow/ragflow",
    "category": "📖 RAG, vector search, and knowledge management",
    "category_id": "04-rag-vector-search-and-knowledge-management",
-   "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+   "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
    "description_source": "github",
    "language": "Go",
-   "stars": 93300,
+   "stars": 93400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 148800,
+   "stars": 148900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 45400,
+   "stars": 45500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 59700,
+   "stars": 59800,
    "archived": false,
    "metadata_status": "live"
   },
