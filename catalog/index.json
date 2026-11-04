@@ -2,15 +2,15 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-03T05:42:36+05:30",
- "repo_count": 363,
+ "metadata_refreshed": "2026-11-04T05:48:42+05:30",
+ "repo_count": 368,
  "category_count": 17,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
    "title": "🤖 AI agents and agent frameworks",
    "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
-   "count": 23,
+   "count": 24,
    "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
   },
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 21,
+   "count": 22,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 30,
+   "count": 33,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

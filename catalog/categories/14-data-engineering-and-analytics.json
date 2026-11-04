@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-03T05:42:36+05:30",
+ "metadata_refreshed": "2026-11-04T05:48:42+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 19,
@@ -111,7 +111,7 @@
    "description": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
    "description_source": "github",
    "language": "Python",
-   "stars": 6000,
+   "stars": 6100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "Python",
-   "stars": 294,
+   "stars": 303,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 801,
+   "stars": 802,
    "archived": false,
    "metadata_status": "live"
   }

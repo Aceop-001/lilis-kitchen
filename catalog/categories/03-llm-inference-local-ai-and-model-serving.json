@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-03T05:42:36+05:30",
+ "metadata_refreshed": "2026-11-04T05:48:42+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
- "repo_count": 21,
+ "repo_count": 22,
  "repositories": [
   {
    "name": "berriai/litellm",
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 144700,
+   "stars": 144900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 133200,
+   "stars": 133300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -116,6 +116,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "justvugg/colibri",
+   "url": "https://github.com/justvugg/colibri",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "description_source": "github",
+   "language": "C",
+   "stars": 47200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "ml-explore/mlx",
    "url": "https://github.com/ml-explore/mlx",
    "category": "🧠 LLM inference, local AI, and model serving",
@@ -147,7 +159,7 @@
    "description": "Distribute and run LLMs with a single file.",
    "description_source": "github",
    "language": "C++",
-   "stars": 26500,
+   "stars": 26600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 751,
+   "stars": 760,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 185700,
+   "stars": 185800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -194,8 +206,8 @@
    "category_id": "03-llm-inference-local-ai-and-model-serving",
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
-   "language": "Python",
-   "stars": 157600,
+   "language": "Svelte",
+   "stars": 157700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "Fast, accurate OCR with correctness assessment.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 769,
+   "stars": 792,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Faster Whisper transcription with CTranslate2",
    "description_source": "github",
    "language": "Python",
-   "stars": 26400,
+   "stars": 26500,
    "archived": false,
    "metadata_status": "live"
   },
