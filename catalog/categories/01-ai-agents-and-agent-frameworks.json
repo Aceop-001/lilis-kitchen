@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-04T05:48:42+05:30",
+ "metadata_refreshed": "2026-11-05T05:45:28+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
- "repo_count": 24,
+ "repo_count": 27,
  "repositories": [
   {
    "name": "agno-agi/agno",
@@ -15,7 +15,7 @@
    "description": "The self-driving agent platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 43000,
+   "stars": 43100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 16700,
+   "stars": 18500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -64,6 +64,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 22100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "govijr/terminal-mac",
+   "url": "https://github.com/govijr/terminal-mac",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "Entire MacOS running in your terminal.",
+   "description_source": "github",
+   "language": "Swift",
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +99,19 @@
    "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 782,
+   "stars": 819,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "kkkkhazix/agent-autoloop",
+   "url": "https://github.com/kkkkhazix/agent-autoloop",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +123,7 @@
    "description": "Build resilient agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 44400,
+   "stars": 44500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +135,7 @@
    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
    "description_source": "github",
    "language": null,
-   "stars": 25300,
+   "stars": 25400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +159,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 68300,
+   "stars": 68400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +195,7 @@
    "description": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
    "description_source": "github",
    "language": "Go",
-   "stars": 3300,
+   "stars": 3400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +219,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 92600,
+   "stars": 92700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +231,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 214,
+   "stars": 215,
    "archived": false,
    "metadata_status": "live"
   },
@@ -232,6 +256,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 21000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "rerun-build/rerun",
+   "url": "https://github.com/rerun-build/rerun",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 674,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +303,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 12700,
+   "stars": 15000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +315,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 6000,
+   "stars": 6600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +327,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 330,
+   "stars": 342,
    "archived": false,
    "metadata_status": "live"
   }

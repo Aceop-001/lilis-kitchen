@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-04T05:48:42+05:30",
+ "metadata_refreshed": "2026-11-05T05:45:28+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 23,
@@ -87,7 +87,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 986,
+   "stars": 988,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The official source code repository for the calibre ebook manager",
    "description_source": "github",
    "language": "Python",
-   "stars": 26300,
+   "stars": 26400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C",
-   "stars": 844,
+   "stars": 861,
    "archived": false,
    "metadata_status": "live"
   },
@@ -168,7 +168,7 @@
    "url": "https://github.com/organicmaps/organicmaps",
    "category": "🗽 Digital independence and long-term personal infrastructure",
    "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
-   "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+   "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
    "description_source": "github",
    "language": "C++",
    "stars": 15900,
@@ -207,7 +207,7 @@
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 5800,
+   "stars": 5900,
    "archived": false,
    "metadata_status": "live"
   },

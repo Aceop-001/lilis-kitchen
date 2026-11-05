@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-04T05:48:42+05:30",
+ "metadata_refreshed": "2026-11-05T05:45:28+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -87,7 +87,7 @@
    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
    "description_source": "github",
    "language": "Go",
-   "stars": 93400,
+   "stars": 93500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
    "description_source": "github",
    "language": "Python",
-   "stars": 36500,
+   "stars": 36600,
    "archived": false,
    "metadata_status": "live"
   },
