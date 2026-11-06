@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 18,
@@ -39,7 +39,7 @@
    "description": "ClickHouse® is a real-time analytics database management system",
    "description_source": "github",
    "language": "C++",
-   "stars": 50700,
+   "stars": 50800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 42800,
+   "stars": 42900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 904,
+   "stars": 949,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 114500,
+   "stars": 114600,
    "archived": false,
    "metadata_status": "live"
   },

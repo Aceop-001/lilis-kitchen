@@ -2,15 +2,15 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
- "repo_count": 372,
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
+ "repo_count": 377,
  "category_count": 17,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
    "title": "🤖 AI agents and agent frameworks",
    "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
-   "count": 27,
+   "count": 28,
    "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
   },
   {
@@ -66,7 +66,7 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 42,
+   "count": 44,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
@@ -87,7 +87,7 @@
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 22,
+   "count": 23,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
@@ -122,7 +122,7 @@
    "id": "17-digital-independence-and-long-term-personal-infrastructure",
    "title": "🗽 Digital independence and long-term personal infrastructure",
    "description": "Projects for digital independence and long-term personal infrastructure.",
-   "count": 23,
+   "count": 24,
    "file": "catalog/categories/17-digital-independence-and-long-term-personal-infrastructure.json"
   }
  ]

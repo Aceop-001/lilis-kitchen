@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
  "category": "🧩 Agent skills, reusable instructions, and tool integrations",
  "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
  "repo_count": 13,
@@ -27,7 +27,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 154600,
+   "stars": 154700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 187400,
+   "stars": 187800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1700,
+   "stars": 1900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 78700,
+   "stars": 78900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 312400,
+   "stars": 313000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 133200,
+   "stars": 133300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "description_source": "github",
    "language": "Shell",
-   "stars": 26300,
+   "stars": 26400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -156,7 +156,7 @@
    "url": "https://github.com/wshobson/agents",
    "category": "🧩 Agent skills, reusable instructions, and tool integrations",
    "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
-   "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+   "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
    "description_source": "github",
    "language": "Python",
    "stars": 42200,

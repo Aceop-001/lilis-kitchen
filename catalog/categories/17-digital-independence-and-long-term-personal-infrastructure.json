@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
- "repo_count": 23,
+ "repo_count": 24,
  "repositories": [
   {
    "name": "anonaddy/anonaddy",
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 78200,
+   "stars": 78300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 57000,
+   "stars": 57100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C",
-   "stars": 861,
+   "stars": 877,
    "archived": false,
    "metadata_status": "live"
   },
@@ -184,6 +184,18 @@
    "description_source": "github",
    "language": "Java",
    "stars": 6100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "s1dashu/quiet-md",
+   "url": "https://github.com/s1dashu/quiet-md",
+   "category": "🗽 Digital independence and long-term personal infrastructure",
+   "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
+   "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 74200,
+   "stars": 74300,
    "archived": false,
    "metadata_status": "live"
   },

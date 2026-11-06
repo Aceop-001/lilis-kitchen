@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
  "repo_count": 21,
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 50400,
+   "stars": 50500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 91500,
+   "stars": 91600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Fast, robust, accurate diffing",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1000,
+   "stars": 1100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
    "description_source": "github",
    "language": "Go",
-   "stars": 111700,
+   "stars": 111800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123200,
+   "stars": 123300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
    "description_source": "github",
    "language": "Rust",
-   "stars": 96500,
+   "stars": 96600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 265,
+   "stars": 274,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 306,
+   "stars": 313,
    "archived": false,
    "metadata_status": "live"
   },

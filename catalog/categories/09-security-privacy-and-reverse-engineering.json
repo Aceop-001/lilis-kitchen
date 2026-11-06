@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-05T05:45:28+05:30",
+ "metadata_refreshed": "2026-11-06T05:48:05+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 42,
+ "repo_count": 44,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -16,6 +16,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 1200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "aggib/stroq",
+   "url": "https://github.com/aggib/stroq",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 96,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +63,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70200,
+   "stars": 70300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +75,7 @@
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "description_source": "github",
    "language": "C++",
-   "stars": 3700,
+   "stars": 4400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +99,7 @@
    "description": "Real time event intelligence, fraud and risk decisioning for financial behavior.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 206,
+   "stars": 223,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 581,
+   "stars": 611,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 485,
+   "stars": 496,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +183,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 577,
+   "stars": 579,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
    "description_source": "github",
    "language": "Python",
-   "stars": 4400,
+   "stars": 4500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -200,6 +212,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "juneyaooo/rea-video",
+   "url": "https://github.com/juneyaooo/rea-video",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 2000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "katrielmoses/voidaccess",
    "url": "https://github.com/katrielmoses/voidaccess",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -207,7 +231,7 @@
    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
    "description_source": "github",
    "language": "Python",
-   "stars": 973,
+   "stars": 987,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +255,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46600,
+   "stars": 46700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +267,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 97800,
+   "stars": 98100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +339,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 758,
+   "stars": 756,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +375,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 332,
+   "stars": 346,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +423,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
    "description_source": "github",
    "language": "C++",
-   "stars": 380,
+   "stars": 393,
    "archived": false,
    "metadata_status": "live"
   },
@@ -411,7 +435,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 11700,
+   "stars": 15000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +447,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 38600,
+   "stars": 38700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +459,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 196,
+   "stars": 198,
    "archived": false,
    "metadata_status": "live"
   },
@@ -459,7 +483,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 4900,
+   "stars": 5200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +495,7 @@
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 2000,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -483,7 +507,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 280,
+   "stars": 287,
    "archived": false,
    "metadata_status": "live"
   },
@@ -495,7 +519,7 @@
    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.",
    "description_source": "github",
    "language": "C",
-   "stars": 10100,
+   "stars": 10200,
    "archived": false,
    "metadata_status": "live"
   },
