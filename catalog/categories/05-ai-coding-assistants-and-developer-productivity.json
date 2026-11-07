@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-06T05:48:05+05:30",
+ "metadata_refreshed": "2026-11-07T05:40:41+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "aider-ai/aider",
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 224800,
+   "stars": 225100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
    "description_source": "github",
    "language": "Go",
-   "stars": 608,
+   "stars": 251,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 706,
+   "stars": 708,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 3000,
+   "stars": 3100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "A post-modern modal text editor.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 46800,
+   "stars": 46900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -132,10 +132,10 @@
    "url": "https://github.com/jetbrains/thinkrail",
    "category": "💻 AI coding assistants and developer productivity",
    "category_id": "05-ai-coding-assistants-and-developer-productivity",
-   "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+   "description": "ThinkRail is the agentic IDE that gets better every time you use it",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 7800,
+   "stars": 7900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 194800,
+   "stars": 195000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Vim-fork focused on extensibility and usability",
    "description_source": "github",
    "language": "Vim Script",
-   "stars": 103400,
+   "stars": 103500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,19 @@
    "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 297,
+   "stars": 310,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "sandflow-ai/sand3d",
+   "url": "https://github.com/sandflow-ai/sand3d",
+   "category": "💻 AI coding assistants and developer productivity",
+   "category_id": "05-ai-coding-assistants-and-developer-productivity",
+   "description": "3D modeling in Python, built for LLMs.",
+   "description_source": "github",
+   "language": "HTML",
+   "stars": 785,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92900,
+   "stars": 93600,
    "archived": false,
    "metadata_status": "live"
   }

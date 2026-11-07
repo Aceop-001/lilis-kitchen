@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-06T05:48:05+05:30",
+ "metadata_refreshed": "2026-11-07T05:40:41+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
- "repo_count": 23,
+ "repo_count": 24,
  "repositories": [
   {
    "name": "adguardteam/adguardhome",
@@ -75,7 +75,7 @@
    "description": "The authentication glue you need.",
    "description_source": "github",
    "language": "Python",
-   "stars": 26200,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 118300,
+   "stars": 118400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The Free Software Media System - Server Backend & API",
    "description_source": "github",
    "language": "C#",
-   "stars": 59000,
+   "stars": 59100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Production-Grade Container Scheduling and Management",
    "description_source": "github",
    "language": "Go",
-   "stars": 128700,
+   "stars": 128900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
    "description_source": "github",
    "language": "C",
-   "stars": 280,
+   "stars": 284,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "The open-source Amazon SES replacement. Built in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 104,
+   "stars": 114,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
    "description_source": "github",
    "language": "Python",
-   "stars": 47700,
+   "stars": 47800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -268,6 +268,18 @@
    "description_source": "github",
    "language": "Swift",
    "stars": 152,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "sqlpxc/airhand",
+   "url": "https://github.com/sqlpxc/airhand",
+   "category": "🏠 Self-hosted applications and infrastructure",
+   "category_id": "12-self-hosted-applications-and-infrastructure",
+   "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 627,
    "archived": false,
    "metadata_status": "live"
   },
