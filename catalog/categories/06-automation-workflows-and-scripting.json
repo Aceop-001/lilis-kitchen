@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "⚡ Automation, workflows, and scripting",
  "category_id": "06-automation-workflows-and-scripting",
  "repo_count": 14,
@@ -75,7 +75,7 @@
    "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 92000,
+   "stars": 92100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50300,
+   "stars": 50400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 209700,
+   "stars": 209800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Temporal service",
    "description_source": "github",
    "language": "Go",
-   "stars": 24200,
+   "stars": 24300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 18400,
+   "stars": 18500,
    "archived": false,
    "metadata_status": "live"
   }

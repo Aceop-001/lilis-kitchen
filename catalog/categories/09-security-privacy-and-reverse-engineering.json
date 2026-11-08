@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 44,
+ "repo_count": 45,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -27,7 +27,7 @@
    "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 183,
+   "stars": 203,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70300,
+   "stars": 70400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "description_source": "github",
    "language": "C++",
-   "stars": 4900,
+   "stars": 5200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Real time event intelligence, fraud and risk decisioning for financial behavior.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 241,
+   "stars": 255,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 631,
+   "stars": 644,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 30700,
+   "stars": 30800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 508,
+   "stars": 513,
    "archived": false,
    "metadata_status": "live"
   },
@@ -176,6 +176,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "hedgerow-dev/coldframe",
+   "url": "https://github.com/hedgerow-dev/coldframe",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Low-interaction honeypot for supermarket refrigeration controllers (Danfoss AK-SM 800A, Dixell XWEB 500)",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 31,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "hevnsnt/cvengine",
    "url": "https://github.com/hevnsnt/cvengine",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -183,7 +195,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 621,
+   "stars": 678,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
    "description_source": "github",
    "language": "Python",
-   "stars": 4500,
+   "stars": 4600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 45400,
+   "stars": 45500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
    "description_source": "github",
    "language": "Python",
-   "stars": 3000,
+   "stars": 3700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 98400,
+   "stars": 98600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +339,7 @@
    "description": "General purpose TLS and crypto library",
    "description_source": "github",
    "language": "C",
-   "stars": 31300,
+   "stars": 31400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 429,
+   "stars": 430,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +363,7 @@
    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
    "description_source": "github",
    "language": "Go",
-   "stars": 32600,
+   "stars": 32700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 364,
+   "stars": 450,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +399,7 @@
    "description": "UNIX-like reverse engineering framework and command-line toolset",
    "description_source": "github",
    "language": "C",
-   "stars": 25300,
+   "stars": 25400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +435,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
    "description_source": "github",
    "language": "C++",
-   "stars": 404,
+   "stars": 424,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +447,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 18000,
+   "stars": 20600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +459,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 38700,
+   "stars": 38800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -483,7 +495,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 5400,
+   "stars": 5700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -495,7 +507,7 @@
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 2700,
+   "stars": 2900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -507,7 +519,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 292,
+   "stars": 297,
    "archived": false,
    "metadata_status": "live"
   },

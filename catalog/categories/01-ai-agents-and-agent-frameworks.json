@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
  "repo_count": 29,
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 120200,
+   "stars": 120300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 20200,
+   "stars": 20800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Entire MacOS running in your terminal.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2100,
+   "stars": 2200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "🤗 smolagents: a barebones library for agents that think in code.",
    "description_source": "github",
    "language": "Python",
-   "stars": 30200,
+   "stars": 30300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 851,
+   "stars": 867,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 409,
+   "stars": 502,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 3700,
+   "stars": 4000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 68500,
+   "stars": 68600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 92800,
+   "stars": 92900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A Tiny biped duck robot 🦆",
    "description_source": "github",
    "language": "Rust",
-   "stars": 13500,
+   "stars": 13600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 802,
+   "stars": 838,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]",
    "description_source": "github",
    "language": "Python",
-   "stars": 20700,
+   "stars": 20800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 18100,
+   "stars": 18900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +339,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 7400,
+   "stars": 7600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +351,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 355,
+   "stars": 362,
    "archived": false,
    "metadata_status": "live"
   }

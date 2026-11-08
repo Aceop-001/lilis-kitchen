@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
- "repo_count": 19,
+ "repo_count": 20,
  "repositories": [
   {
    "name": "arize-ai/phoenix",
@@ -39,7 +39,7 @@
    "description": "The LLM Evaluation Framework",
    "description_source": "github",
    "language": "Python",
-   "stars": 19300,
+   "stars": 19400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 77700,
+   "stars": 77800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 67200,
+   "stars": 67400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -184,6 +184,18 @@
    "description_source": "github",
    "language": "C++",
    "stars": 10700,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "shanselman/gputaskman",
+   "url": "https://github.com/shanselman/gputaskman",
+   "category": "🔍 Observability, testing, and debugging",
+   "category_id": "13-observability-testing-and-debugging",
+   "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 515,
    "archived": false,
    "metadata_status": "live"
   },

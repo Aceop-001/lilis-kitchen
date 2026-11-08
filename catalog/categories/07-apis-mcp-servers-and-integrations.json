@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 14,
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 120,
+   "stars": 124,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Deterministic testing tools for MCP servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 11200,
+   "stars": 11300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Model Context Protocol Reference Servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91800,
+   "stars": 91900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 48200,
+   "stars": 48300,
    "archived": false,
    "metadata_status": "live"
   }

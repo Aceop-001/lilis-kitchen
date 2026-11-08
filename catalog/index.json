@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
- "repo_count": 382,
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "repo_count": 387,
  "category_count": 17,
  "categories": [
   {
@@ -66,14 +66,14 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 44,
+   "count": 45,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 22,
+   "count": 23,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -87,21 +87,21 @@
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 24,
+   "count": 25,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
    "id": "13-observability-testing-and-debugging",
    "title": "🔍 Observability, testing, and debugging",
    "description": "Observability, testing, and debugging tools.",
-   "count": 19,
+   "count": 20,
    "file": "catalog/categories/13-observability-testing-and-debugging.json"
   },
   {
    "id": "14-data-engineering-and-analytics",
    "title": "📊 Data engineering and analytics",
    "description": "Data engineering, pipelines, and analytics.",
-   "count": 19,
+   "count": 20,
    "file": "catalog/categories/14-data-engineering-and-analytics.json"
   },
   {

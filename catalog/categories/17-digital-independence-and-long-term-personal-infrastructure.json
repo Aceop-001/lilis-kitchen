@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 24,
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 78300,
+   "stars": 78400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "💚 End-to-end encrypted cloud for everything.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 29900,
+   "stars": 30000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 989,
+   "stars": 990,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C",
-   "stars": 885,
+   "stars": 921,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
- "repo_count": 19,
+ "repo_count": 20,
  "repositories": [
   {
    "name": "airbytehq/airbyte",
@@ -63,7 +63,19 @@
    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 75400,
+   "stars": 75500,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "birkskyum/manby",
+   "url": "https://github.com/birkskyum/manby",
+   "category": "📊 Data engineering and analytics",
+   "category_id": "14-data-engineering-and-analytics",
+   "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 41,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "Python",
-   "stars": 298,
+   "stars": 300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Streamlit — A faster way to build and share data apps.",
    "description_source": "github",
    "language": "Python",
-   "stars": 46200,
+   "stars": 46300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 815,
+   "stars": 816,
    "archived": false,
    "metadata_status": "live"
   }

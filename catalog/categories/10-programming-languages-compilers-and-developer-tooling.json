@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-07T05:40:41+05:30",
+ "metadata_refreshed": "2026-11-08T05:43:04+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 22,
+ "repo_count": 23,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 50700,
+   "stars": 51000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 75,
+   "stars": 83,
    "archived": false,
    "metadata_status": "live"
   },
@@ -128,6 +128,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "libracoder/kiri",
+   "url": "https://github.com/libracoder/kiri",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "A small, fast container runtime for macOS, Windows and Linux",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 827,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "llvm/llvm-project",
    "url": "https://github.com/llvm/llvm-project",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -147,7 +159,7 @@
    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
    "description_source": "github",
    "language": "Go",
-   "stars": 111800,
+   "stars": 111900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 121400,
+   "stars": 121600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 277,
+   "stars": 279,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 319,
+   "stars": 322,
    "archived": false,
    "metadata_status": "live"
   },
