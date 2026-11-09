@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 33,
@@ -27,7 +27,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 5700,
+   "stars": 5800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 250,
+   "stars": 251,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 66700,
+   "stars": 66800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 508,
+   "stars": 513,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 781,
+   "stars": 785,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 96,
+   "stars": 97,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
    "description_source": "github",
    "language": "Zig",
-   "stars": 387,
+   "stars": 390,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Reliable transcription, with captions cut for every screen shape from one file. An open caption format, a video.js plugin with style packs, and a CLI that recuts, burns in and exports word-timed captions.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 59,
+   "stars": 60,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 79100,
+   "stars": 79200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60600,
+   "stars": 60700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +363,7 @@
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1600,
+   "stars": 1900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +387,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 206000,
+   "stars": 206200,
    "archived": false,
    "metadata_status": "live"
   },

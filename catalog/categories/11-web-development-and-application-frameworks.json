@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 23,
@@ -87,7 +87,7 @@
    "description": "Web framework built on Web Standards",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32800,
+   "stars": 32900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 643,
+   "stars": 649,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1200,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 127600,
+   "stars": 127700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A utility-first CSS framework for rapid UI development.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98500,
+   "stars": 98600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2800,
+   "stars": 2900,
    "archived": false,
    "metadata_status": "live"
   },

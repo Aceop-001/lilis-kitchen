@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 23,
+ "repo_count": 24,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 51000,
+   "stars": 51100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 91700,
+   "stars": 91800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -80,6 +80,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "devvmhq/devvm",
+   "url": "https://github.com/devvmhq/devvm",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+   "description_source": "github",
+   "language": "Go",
+   "stars": 410,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "firenook-dev/firenook",
    "url": "https://github.com/firenook-dev/firenook",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -87,7 +99,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 83,
+   "stars": 91,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +123,7 @@
    "description": "Fast, robust, accurate diffing",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 827,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +183,7 @@
    "description": "Nix Packages collection & NixOS",
    "description_source": "github",
    "language": "Nix",
-   "stars": 26700,
+   "stars": 26800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 121600,
+   "stars": 121700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 279,
+   "stars": 280,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 322,
+   "stars": 353,
    "archived": false,
    "metadata_status": "live"
   },

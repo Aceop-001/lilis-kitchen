@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 24,
@@ -27,7 +27,7 @@
    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
    "description_source": "github",
    "language": "Python",
-   "stars": 30500,
+   "stars": 30600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
    "description_source": "github",
    "language": "Python",
-   "stars": 290,
+   "stars": 291,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 377300,
+   "stars": 377400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 458700,
+   "stars": 458800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Universal markup converter",
    "description_source": "github",
    "language": "Haskell",
-   "stars": 46800,
+   "stars": 46900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
    "description_source": "github",
    "language": "Python",
-   "stars": 64500,
+   "stars": 64600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 210900,
+   "stars": 211000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 497000,
+   "stars": 497300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 533200,
+   "stars": 533900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "A markup-based typesetting system that is powerful and easy to learn.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 57000,
+   "stars": 57100,
    "archived": false,
    "metadata_status": "live"
   },

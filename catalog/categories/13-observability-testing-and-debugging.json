@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 20,
@@ -123,7 +123,7 @@
    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37100,
+   "stars": 37200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 67400,
+   "stars": 67600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 26900,
+   "stars": 27000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
    "description_source": "github",
    "language": "Python",
-   "stars": 515,
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Next generation testing framework powered by Vite.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 17300,
+   "stars": 17400,
    "archived": false,
    "metadata_status": "live"
   },

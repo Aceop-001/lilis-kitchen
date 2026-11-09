@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 14,
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 124,
+   "stars": 126,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "description_source": "github",
    "language": "Python",
-   "stars": 28300,
+   "stars": 28400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 97400,
+   "stars": 97500,
    "archived": false,
    "metadata_status": "live"
   },

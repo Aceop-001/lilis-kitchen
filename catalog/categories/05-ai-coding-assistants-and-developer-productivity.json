@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
  "repo_count": 21,
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 225300,
+   "stars": 225500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
    "description_source": "github",
    "language": "Go",
-   "stars": 256,
+   "stars": 257,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 710,
+   "stars": 711,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "ThinkRail is the agentic IDE that gets better every time you use it",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 7900,
+   "stars": 8000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 195100,
+   "stars": 195200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 322,
+   "stars": 324,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "3D modeling in Python, built for LLMs.",
    "description_source": "github",
    "language": "HTML",
-   "stars": 1000,
+   "stars": 1400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 94300,
+   "stars": 94500,
    "archived": false,
    "metadata_status": "live"
   }

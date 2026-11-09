@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
- "repo_count": 22,
+ "repo_count": 23,
  "repositories": [
   {
    "name": "berriai/litellm",
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 145600,
+   "stars": 145800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Run frontier AI locally.",
    "description_source": "github",
    "language": "Python",
-   "stars": 48200,
+   "stars": 48300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 133700,
+   "stars": 133800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
    "description_source": "github",
    "language": "Python",
-   "stars": 168600,
+   "stars": 168700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
    "description_source": "github",
    "language": "C",
-   "stars": 48700,
+   "stars": 49100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 785,
+   "stars": 792,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 186300,
+   "stars": 186400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Svelte",
-   "stars": 158000,
+   "stars": 158100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Fast, accurate OCR with correctness assessment.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 846,
+   "stars": 851,
    "archived": false,
    "metadata_status": "live"
   },
@@ -260,6 +260,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "video-rebirth/hyperflow-h3-flash",
+   "url": "https://github.com/video-rebirth/hyperflow-h3-flash",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "HyperFlow H3 Flash: Video Rebirth's 13.7B, 4- to 8-step compressed MiniMax-H3 for joint video and audio generation (INT8 and GGUF)",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 138,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "category": "🧠 LLM inference, local AI, and model serving",
@@ -267,7 +279,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 96500,
+   "stars": 96600,
    "archived": false,
    "metadata_status": "live"
   }

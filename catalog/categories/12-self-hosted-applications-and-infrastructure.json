@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-08T05:43:04+05:30",
+ "metadata_refreshed": "2026-11-09T05:44:42+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
  "repo_count": 25,
@@ -15,7 +15,7 @@
    "description": "Network-wide ads & trackers blocking DNS server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38200,
+   "stars": 38300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 118500,
+   "stars": 118600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Open Source Identity and Access Management For Modern Applications and Services",
    "description_source": "github",
    "language": "Java",
-   "stars": 37700,
+   "stars": 37800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "☁️ Nextcloud server, a safe home for all your data",
    "description_source": "github",
    "language": "PHP",
-   "stars": 37400,
+   "stars": 37500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
    "description_source": "github",
    "language": "C",
-   "stars": 286,
+   "stars": 287,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "The open-source Amazon SES replacement. Built in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 118,
+   "stars": 120,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
    "description_source": "github",
    "language": "Python",
-   "stars": 47800,
+   "stars": 47900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 79,
+   "stars": 84,
    "archived": false,
    "metadata_status": "live"
   },
@@ -288,10 +288,10 @@
    "url": "https://github.com/sqlpxc/airhand",
    "category": "🏠 Self-hosted applications and infrastructure",
    "category_id": "12-self-hosted-applications-and-infrastructure",
-   "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+   "description": "High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · browser",
    "description_source": "github",
    "language": "Rust",
-   "stars": 742,
+   "stars": 890,
    "archived": false,
    "metadata_status": "live"
   },
