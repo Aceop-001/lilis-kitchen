@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-09T05:44:42+05:30",
+ "metadata_refreshed": "2026-11-10T05:45:49+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 24,
+ "repo_count": 25,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -63,7 +63,7 @@
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1500,
+   "stars": 1600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,19 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 410,
+   "stars": 484,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "egoist/mygo",
+   "url": "https://github.com/egoist/mygo",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Develop desktop apps with native UI or web frontend in Go",
+   "description_source": "github",
+   "language": "Go",
+   "stars": 5700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 91,
+   "stars": 96,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35900,
+   "stars": 36000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123400,
+   "stars": 123500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 280,
+   "stars": 284,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 353,
+   "stars": 361,
    "archived": false,
    "metadata_status": "live"
   },

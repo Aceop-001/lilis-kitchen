@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-09T05:44:42+05:30",
+ "metadata_refreshed": "2026-11-10T05:45:49+05:30",
  "category": "🧩 Agent skills, reusable instructions, and tool integrations",
  "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
- "repo_count": 13,
+ "repo_count": 14,
  "repositories": [
   {
    "name": "agentsmd/agents.md",
@@ -27,7 +27,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 155000,
+   "stars": 155100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 189600,
+   "stars": 190900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 2100,
+   "stars": 2200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -68,6 +68,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "gokayfem/image-to-sculpt",
+   "url": "https://github.com/gokayfem/image-to-sculpt",
+   "category": "🧩 Agent skills, reusable instructions, and tool integrations",
+   "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
+   "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 191,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "google-gemini/gemini-cli",
    "url": "https://github.com/google-gemini/gemini-cli",
    "category": "🧩 Agent skills, reusable instructions, and tool integrations",
@@ -75,7 +87,7 @@
    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 108800,
+   "stars": 108700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +99,7 @@
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "description_source": "github",
    "language": "Python",
-   "stars": 57500,
+   "stars": 57600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 314600,
+   "stars": 315100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +123,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 133800,
+   "stars": 134400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
    "description_source": "github",
    "language": null,
-   "stars": 15700,
+   "stars": 15800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "description_source": "github",
    "language": "Shell",
-   "stars": 26400,
+   "stars": 26500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
    "description_source": "github",
    "language": "Python",
-   "stars": 42300,
+   "stars": 42400,
    "archived": false,
    "metadata_status": "live"
   }

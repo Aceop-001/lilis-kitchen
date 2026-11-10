@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-09T05:44:42+05:30",
+ "metadata_refreshed": "2026-11-10T05:45:49+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
- "repo_count": 18,
+ "repo_count": 19,
  "repositories": [
   {
    "name": "benbjohnson/litestream",
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 991,
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
    "description_source": "github",
    "language": "C",
-   "stars": 22700,
+   "stars": 22800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -164,6 +164,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "shayanabbas1/dbdelve",
+   "url": "https://github.com/shayanabbas1/dbdelve",
+   "category": "💾 Databases, storage, backups, and synchronization",
+   "category_id": "08-databases-storage-backups-and-synchronization",
+   "description": "Fast and lightweight DB Client made in Rust and GPUI.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 854,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "sqlite/sqlite",
    "url": "https://github.com/sqlite/sqlite",
    "category": "💾 Databases, storage, backups, and synchronization",
@@ -171,7 +183,7 @@
    "description": "Official Git mirror of the SQLite source tree",
    "description_source": "github",
    "language": "C",
-   "stars": 10900,
+   "stars": 11000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Open Source Continuous File Synchronization",
    "description_source": "github",
    "language": "Go",
-   "stars": 90200,
+   "stars": 90300,
    "archived": false,
    "metadata_status": "live"
   },

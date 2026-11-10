@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-09T05:44:42+05:30",
+ "metadata_refreshed": "2026-11-10T05:45:49+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
- "repo_count": 24,
+ "repo_count": 25,
  "repositories": [
   {
    "name": "anonaddy/anonaddy",
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 78500,
+   "stars": 78600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
    "description_source": "github",
    "language": "C++",
-   "stars": 990,
+   "stars": 992,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C",
-   "stars": 930,
+   "stars": 959,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1300,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "description_source": "github",
    "language": "Java",
-   "stars": 6100,
+   "stars": 6200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 74300,
+   "stars": 74400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -292,6 +292,18 @@
    "description_source": "github",
    "language": "Kotlin",
    "stars": 1600,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "yetone/rewind-for-x",
+   "url": "https://github.com/yetone/rewind-for-x",
+   "category": "🗽 Digital independence and long-term personal infrastructure",
+   "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
+   "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 233,
    "archived": false,
    "metadata_status": "live"
   }
