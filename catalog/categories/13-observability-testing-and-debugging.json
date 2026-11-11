@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-10T05:45:49+05:30",
+ "metadata_refreshed": "2026-11-11T05:42:25+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 20,
@@ -62,7 +62,7 @@
    "category_id": "13-observability-testing-and-debugging",
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
-   "language": "Go",
+   "language": "TypeScript",
    "stars": 77800,
    "archived": false,
    "metadata_status": "live"
@@ -75,7 +75,7 @@
    "description": "A modern load testing tool, using Go and JavaScript",
    "description_source": "github",
    "language": "Go",
-   "stars": 32200,
+   "stars": 32300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37200,
+   "stars": 37300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "OpenTelemetry Collector",
    "description_source": "github",
    "language": "Go",
-   "stars": 7700,
+   "stars": 7800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
    "description_source": "github",
    "language": "Python",
-   "stars": 1500,
+   "stars": 1700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 176,
+   "stars": 177,
    "archived": false,
    "metadata_status": "live"
   }

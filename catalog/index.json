@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-10T05:45:49+05:30",
- "repo_count": 396,
+ "metadata_refreshed": "2026-11-11T05:42:25+05:30",
+ "repo_count": 399,
  "category_count": 17,
  "categories": [
   {
@@ -17,7 +17,7 @@
    "id": "02-agent-skills-reusable-instructions-and-tool-integrations",
    "title": "🧩 Agent skills, reusable instructions, and tool integrations",
    "description": "Reusable agent skills, instruction sets, and tool integrations that extend what agents can do.",
-   "count": 14,
+   "count": 15,
    "file": "catalog/categories/02-agent-skills-reusable-instructions-and-tool-integrations.json"
   },
   {
@@ -87,7 +87,7 @@
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 25,
+   "count": 26,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 33,
+   "count": 34,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

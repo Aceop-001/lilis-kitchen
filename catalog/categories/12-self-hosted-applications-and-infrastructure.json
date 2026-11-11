@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-10T05:45:49+05:30",
+ "metadata_refreshed": "2026-11-11T05:42:25+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
- "repo_count": 25,
+ "repo_count": 26,
  "repositories": [
   {
    "name": "adguardteam/adguardhome",
@@ -27,7 +27,7 @@
    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
    "description_source": "github",
    "language": "Go",
-   "stars": 78900,
+   "stars": 79000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A free, self-hostable news aggregator…",
    "description_source": "github",
    "language": "PHP",
-   "stars": 16500,
+   "stars": 16600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -80,6 +80,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "holyarrs/holyarrs",
+   "url": "https://github.com/holyarrs/holyarrs",
+   "category": "🏠 Self-hosted applications and infrastructure",
+   "category_id": "12-self-hosted-applications-and-infrastructure",
+   "description": "One self-hosted app for your shows, movies and music.",
+   "description_source": "github",
+   "language": "Go",
+   "stars": 571,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "immich-app/immich",
    "url": "https://github.com/immich-app/immich",
    "category": "🏠 Self-hosted applications and infrastructure",
@@ -87,7 +99,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 118600,
+   "stars": 118700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "A fancy self-hosted monitoring tool",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 93400,
+   "stars": 93500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "A black hole for Internet advertisements",
    "description_source": "github",
    "language": "Shell",
-   "stars": 61700,
+   "stars": 61800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 98,
+   "stars": 116,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 153,
+   "stars": 154,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · browser",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1000,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
