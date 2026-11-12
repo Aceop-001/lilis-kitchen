@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-11T05:42:25+05:30",
+ "metadata_refreshed": "2026-11-12T05:44:33+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
- "repo_count": 24,
+ "repo_count": 26,
  "repositories": [
   {
    "name": "archivebox/archivebox",
@@ -87,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 458900,
+   "stars": 459000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -104,6 +104,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "hybridrobotics/supermimic",
+   "url": "https://github.com/hybridrobotics/supermimic",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 1000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "ivarvong/lantern",
    "url": "https://github.com/ivarvong/lantern",
    "category": "🎓 Research tools, documentation, and learning resources",
@@ -111,7 +123,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 248,
+   "stars": 250,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "A complete computer science study plan to become a software engineer.",
    "description_source": "github",
    "language": null,
-   "stars": 364200,
+   "stars": 364300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 211100,
+   "stars": 211000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 497900,
+   "stars": 498200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 108200,
+   "stars": 108300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,19 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 534900,
+   "stars": 535300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "skild-ai/steel",
+   "url": "https://github.com/skild-ai/steel",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "A lightweight, scaleable rigid-body physics solver",
+   "description_source": "github",
+   "language": null,
+   "stars": 180,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-11T05:42:25+05:30",
+ "metadata_refreshed": "2026-11-12T05:44:33+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -27,7 +27,7 @@
    "description": "Convert PDF to markdown + JSON quickly with high accuracy",
    "description_source": "github",
    "language": "Python",
-   "stars": 40800,
+   "stars": 40900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Get your documents ready for gen AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 70400,
+   "stars": 70500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A library for efficient similarity search and clustering of dense vectors.",
    "description_source": "github",
    "language": "C++",
-   "stars": 41400,
+   "stars": 41500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
    "description_source": "github",
    "language": "Python",
-   "stars": 40600,
+   "stars": 40700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 149300,
+   "stars": 149400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 45500,
+   "stars": 45600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Open-source vector similarity search for Postgres",
    "description_source": "github",
    "language": "C",
-   "stars": 23600,
+   "stars": 23700,
    "archived": false,
    "metadata_status": "live"
   },
