@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-13T05:44:25+05:30",
+ "metadata_refreshed": "2026-11-14T05:48:27+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 14,
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 145,
+   "stars": 146,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "The official Python SDK for Model Context Protocol servers and clients",
    "description_source": "github",
    "language": "Python",
-   "stars": 24800,
+   "stars": 24900,
    "archived": false,
    "metadata_status": "live"
   },

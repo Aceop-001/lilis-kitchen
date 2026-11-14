@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-13T05:44:25+05:30",
+ "metadata_refreshed": "2026-11-14T05:48:27+05:30",
  "category": "🧠 LLM inference, local AI, and model serving",
  "category_id": "03-llm-inference-local-ai-and-model-serving",
- "repo_count": 24,
+ "repo_count": 26,
  "repositories": [
   {
    "name": "berriai/litellm",
@@ -27,7 +27,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 146500,
+   "stars": 146700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -48,10 +48,10 @@
    "url": "https://github.com/frigadehq/yogurt",
    "category": "🧠 LLM inference, local AI, and model serving",
    "category_id": "03-llm-inference-local-ai-and-model-serving",
-   "description": "Private AI meeting notes. Free and open source.",
+   "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 937,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 134500,
+   "stars": 134900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,19 @@
    "description": "Port of OpenAI's Whisper model in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 55100,
+   "stars": 55200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "higurashi-ai/haru",
+   "url": "https://github.com/higurashi-ai/haru",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 213,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
    "description_source": "github",
    "language": "Python",
-   "stars": 168900,
+   "stars": 169000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -112,6 +124,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 19700,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "hyperionaidev/smolmaxxing",
+   "url": "https://github.com/hyperionaidev/smolmaxxing",
+   "category": "🧠 LLM inference, local AI, and model serving",
+   "category_id": "03-llm-inference-local-ai-and-model-serving",
+   "description": "maxxing the ability to run different LLMs on the smallest devices possible",
+   "description_source": "github",
+   "language": "C",
+   "stars": 635,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +159,7 @@
    "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
    "description_source": "github",
    "language": "C",
-   "stars": 50400,
+   "stars": 50900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +183,7 @@
    "description": "Run LLMs with MLX",
    "description_source": "github",
    "language": "Python",
-   "stars": 7600,
+   "stars": 7700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +207,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 802,
+   "stars": 803,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +231,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 186800,
+   "stars": 186900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +243,7 @@
    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "description_source": "github",
    "language": "Svelte",
-   "stars": 158500,
+   "stars": 158600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +255,7 @@
    "description": "Fast, accurate OCR with correctness assessment.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 905,
+   "stars": 923,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +291,7 @@
    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
    "description_source": "github",
    "language": "Python",
-   "stars": 79400,
+   "stars": 79500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +303,7 @@
    "description": "HyperFlow H3 Flash: Video Rebirth's 13.7B, 4- to 8-step compressed MiniMax-H3 for joint video and audio generation (INT8 and GGUF)",
    "description_source": "github",
    "language": "Python",
-   "stars": 199,
+   "stars": 211,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +315,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 96800,
+   "stars": 96900,
    "archived": false,
    "metadata_status": "live"
   }

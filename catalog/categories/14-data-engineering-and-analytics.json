@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-13T05:44:25+05:30",
+ "metadata_refreshed": "2026-11-14T05:48:27+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 20,
@@ -75,7 +75,7 @@
    "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
    "description_source": "github",
    "language": "Rust",
-   "stars": 52,
+   "stars": 53,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
    "description_source": "github",
    "language": "Python",
-   "stars": 23600,
+   "stars": 23500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -228,7 +228,7 @@
    "url": "https://github.com/streamlit/streamlit",
    "category": "📊 Data engineering and analytics",
    "category_id": "14-data-engineering-and-analytics",
-   "description": "Streamlit — A faster way to build and share data apps.",
+   "description": "Streamlit — The agent-native framework for data apps and dashboards.",
    "description_source": "github",
    "language": "Python",
    "stars": 46300,
@@ -243,7 +243,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 831,
+   "stars": 835,
    "archived": false,
    "metadata_status": "live"
   }
