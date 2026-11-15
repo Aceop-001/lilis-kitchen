@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-14T05:48:27+05:30",
+ "metadata_refreshed": "2026-11-15T05:44:04+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
- "repo_count": 23,
+ "repo_count": 24,
  "repositories": [
   {
    "name": "bigskysoftware/htmx",
@@ -63,7 +63,7 @@
    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
    "description_source": "github",
    "language": "Dart",
-   "stars": 181200,
+   "stars": 181300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Web framework built on Web Standards",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32900,
+   "stars": 33000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 667,
+   "stars": 672,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,19 @@
    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1500,
+   "stars": 1600,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "opencoredev/islandcn",
+   "url": "https://github.com/opencoredev/islandcn",
+   "category": "🌐 Web development and application frameworks",
+   "category_id": "11-web-development-and-application-frameworks",
+   "description": "The open-source Dynamic Island for React, installed with shadcn.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 669,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 128100,
+   "stars": 128200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27900,
+   "stars": 28000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 448,
+   "stars": 450,
    "archived": false,
    "metadata_status": "live"
   },

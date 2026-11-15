@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-14T05:48:27+05:30",
+ "metadata_refreshed": "2026-11-15T05:44:04+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
- "repo_count": 26,
+ "repo_count": 27,
  "repositories": [
   {
    "name": "archivebox/archivebox",
@@ -39,7 +39,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 165,
+   "stars": 166,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 377800,
+   "stars": 377900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "description_source": "github",
    "language": "Python",
-   "stars": 1400,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
    "description_source": "github",
    "language": "Python",
-   "stars": 64700,
+   "stars": 64800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Project documentation with Markdown.",
    "description_source": "github",
    "language": "Python",
-   "stars": 22500,
+   "stars": 22600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 498800,
+   "stars": 499000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 536500,
+   "stars": 536900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 195,
+   "stars": 214,
    "archived": false,
    "metadata_status": "live"
   },
@@ -304,6 +304,18 @@
    "description_source": "github",
    "language": "Rust",
    "stars": 57200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "vaibhaav-tiwari/deepseek-v3-jax",
+   "url": "https://github.com/vaibhaav-tiwari/deepseek-v3-jax",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 90,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-14T05:48:27+05:30",
+ "metadata_refreshed": "2026-11-15T05:44:04+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
  "repo_count": 27,
@@ -87,7 +87,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 617,
+   "stars": 633,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 36100,
+   "stars": 36200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -156,10 +156,10 @@
    "url": "https://github.com/libracoder/kiri",
    "category": "🧰 Programming languages, compilers, and developer tooling",
    "category_id": "10-programming-languages-compilers-and-developer-tooling",
-   "description": "A small, fast container runtime for macOS, Windows and Linux",
+   "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 2200,
+   "stars": 3700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 479,
+   "stars": 542,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 432,
+   "stars": 550,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "An incremental parsing system for programming tools",
    "description_source": "github",
    "language": "Rust",
-   "stars": 27400,
+   "stars": 27500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 387,
+   "stars": 393,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-14T05:48:27+05:30",
+ "metadata_refreshed": "2026-11-15T05:44:04+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 19,
@@ -51,7 +51,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 43000,
+   "stars": 43100,
    "archived": false,
    "metadata_status": "live"
   },
