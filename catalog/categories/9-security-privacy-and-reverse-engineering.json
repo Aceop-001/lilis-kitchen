@@ -1,0 +1,23 @@
+{
+ "schema_version": 1,
+ "project": "Lili's Kitchen",
+ "source": "https://github.com/Aceop-001/lilis-kitchen",
+ "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "category": "📁 Security, privacy, and reverse engineering",
+ "category_id": "9-security-privacy-and-reverse-engineering",
+ "repo_count": 1,
+ "repositories": [
+  {
+   "name": "hikaku-io/hikaku-extension",
+   "url": "https://github.com/hikaku-io/hikaku-extension",
+   "category": "📁 Security, privacy, and reverse engineering",
+   "category_id": "9-security-privacy-and-reverse-engineering",
+   "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 396,
+   "archived": false,
+   "metadata_status": "live"
+  }
+ ]
+}

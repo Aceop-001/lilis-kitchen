@@ -2,9 +2,9 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-15T05:44:04+05:30",
- "repo_count": 414,
- "category_count": 17,
+ "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "repo_count": 417,
+ "category_count": 18,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
@@ -73,7 +73,7 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 27,
+   "count": 28,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -108,7 +108,7 @@
    "id": "15-research-tools-documentation-and-learning-resources",
    "title": "🎓 Research tools, documentation, and learning resources",
    "description": "Research tools, documentation, and learning resources.",
-   "count": 27,
+   "count": 28,
    "file": "catalog/categories/15-research-tools-documentation-and-learning-resources.json"
   },
   {
@@ -124,6 +124,13 @@
    "description": "Projects for digital independence and long-term personal infrastructure.",
    "count": 25,
    "file": "catalog/categories/17-digital-independence-and-long-term-personal-infrastructure.json"
+  },
+  {
+   "id": "9-security-privacy-and-reverse-engineering",
+   "title": "📁 Security, privacy, and reverse engineering",
+   "description": null,
+   "count": 1,
+   "file": "catalog/categories/9-security-privacy-and-reverse-engineering.json"
   }
  ]
 }
