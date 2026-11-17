@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 28,
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 378000,
+   "stars": 378100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 43,
+   "stars": 60,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "description_source": "github",
    "language": "Python",
-   "stars": 1600,
+   "stars": 1700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
    "description_source": "github",
    "language": "HTML",
-   "stars": 2000,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 211100,
+   "stars": 211200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 499300,
+   "stars": 499600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 537500,
+   "stars": 538000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 226,
+   "stars": 234,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
    "description_source": "github",
    "language": "Python",
-   "stars": 198,
+   "stars": 232,
    "archived": false,
    "metadata_status": "live"
   },

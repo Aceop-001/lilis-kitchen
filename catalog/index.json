@@ -2,15 +2,15 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
- "repo_count": 417,
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
+ "repo_count": 422,
  "category_count": 18,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
    "title": "🤖 AI agents and agent frameworks",
    "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
-   "count": 32,
+   "count": 33,
    "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
   },
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 27,
+   "count": 28,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -73,7 +73,7 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 28,
+   "count": 29,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -87,7 +87,7 @@
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 28,
+   "count": 29,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 35,
+   "count": 36,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

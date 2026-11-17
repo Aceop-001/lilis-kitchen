@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "⚡ Automation, workflows, and scripting",
  "category_id": "06-automation-workflows-and-scripting",
  "repo_count": 14,
@@ -15,7 +15,7 @@
    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 25500,
+   "stars": 25600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 210600,
+   "stars": 210700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Low-code programming for event-driven applications",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 23800,
+   "stars": 23900,
    "archived": false,
    "metadata_status": "live"
   },

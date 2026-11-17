@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 24,
@@ -99,7 +99,7 @@
    "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 672,
+   "stars": 675,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 733,
+   "stars": 775,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "web development for the rest of us",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 88800,
+   "stars": 89000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "A utility-first CSS framework for rapid UI development.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98600,
+   "stars": 98700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 113000,
+   "stars": 112900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "The React Framework",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 143500,
+   "stars": 143600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 450,
+   "stars": 451,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
  "repo_count": 21,
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 227100,
+   "stars": 227300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
    "description_source": "github",
    "language": "Go",
-   "stars": 267,
+   "stars": 270,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 4500,
+   "stars": 4600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 195400,
+   "stars": 195500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 337,
+   "stars": 338,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "3D modeling in Python, built for LLMs.",
    "description_source": "github",
    "language": "HTML",
-   "stars": 2000,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Happy helper for your terminal",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 204,
+   "stars": 206,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 95100,
+   "stars": 95200,
    "archived": false,
    "metadata_status": "live"
   }

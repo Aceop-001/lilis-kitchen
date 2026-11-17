@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 20,
@@ -219,7 +219,7 @@
    "description": "Extremely fast Query Engine for DataFrames, written in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 40300,
+   "stars": 40400,
    "archived": false,
    "metadata_status": "live"
   },

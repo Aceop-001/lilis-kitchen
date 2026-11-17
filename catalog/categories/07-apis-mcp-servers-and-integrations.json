@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 14,
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 157,
+   "stars": 158,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Playwright MCP server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 39700,
+   "stars": 39800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Model Context Protocol Reference Servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 92000,
+   "stars": 92100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "description_source": "github",
    "language": "Python",
-   "stars": 28500,
+   "stars": 28600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 97700,
+   "stars": 97800,
    "archived": false,
    "metadata_status": "live"
   },

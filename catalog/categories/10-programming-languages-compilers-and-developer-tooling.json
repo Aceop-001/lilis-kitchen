@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 28,
+ "repo_count": 29,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92100,
+   "stars": 92000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "A modern runtime for JavaScript and TypeScript.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 108900,
+   "stars": 109000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 645,
+   "stars": 668,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Develop desktop apps with native UI or web frontend in Go",
    "description_source": "github",
    "language": "Go",
-   "stars": 6300,
+   "stars": 6400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 106,
+   "stars": 107,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 139900,
+   "stars": 140000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 6300,
+   "stars": 8900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 560,
+   "stars": 578,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Every Python type declared, every covenant kept.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 41,
+   "stars": 43,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Nix Packages collection & NixOS",
    "description_source": "github",
    "language": "Nix",
-   "stars": 26800,
+   "stars": 26900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,19 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78200,
+   "stars": 78300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "rauchg/xeet",
+   "url": "https://github.com/rauchg/xeet",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 89,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 591,
+   "stars": 627,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122000,
+   "stars": 122100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +327,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 396,
+   "stars": 397,
    "archived": false,
    "metadata_status": "live"
   },

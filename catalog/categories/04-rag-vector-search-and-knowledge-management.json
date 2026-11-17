@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-16T05:39:27+05:30",
+ "metadata_refreshed": "2026-11-17T05:34:30+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -51,7 +51,7 @@
    "description": "Get your documents ready for gen AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 70600,
+   "stars": 70700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
    "description_source": "github",
    "language": "Go",
-   "stars": 94200,
+   "stars": 94300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 149600,
+   "stars": 149700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
    "description_source": "github",
    "language": "Python",
-   "stars": 36600,
+   "stars": 36700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
    "description_source": "github",
    "language": "Go",
-   "stars": 16900,
+   "stars": 17000,
    "archived": false,
    "metadata_status": "live"
   }
