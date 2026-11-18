@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-17T05:34:30+05:30",
+ "metadata_refreshed": "2026-11-18T05:38:19+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 29,
+ "repo_count": 30,
  "repositories": [
   {
    "name": "astral-sh/ruff",
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 51300,
+   "stars": 51400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92000,
+   "stars": 92200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -56,8 +56,8 @@
    "metadata_status": "live"
   },
   {
-   "name": "colinhacks/reylo",
-   "url": "https://github.com/colinhacks/reylo",
+   "name": "reylosql/reylo",
+   "url": "https://github.com/reylosql/reylo",
    "category": "🧰 Programming languages, compilers, and developer tooling",
    "category_id": "10-programming-languages-compilers-and-developer-tooling",
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -87,7 +87,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 668,
+   "stars": 690,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,19 @@
    "description": "Develop desktop apps with native UI or web frontend in Go",
    "description_source": "github",
    "language": "Go",
-   "stars": 6400,
+   "stars": 6500,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "erkamyaman/rust-anything",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +123,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 107,
+   "stars": 108,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 140000,
+   "stars": 140200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "dev tools, env vars, task runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 36200,
+   "stars": 36300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 8900,
+   "stars": 10100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 578,
+   "stars": 592,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Every Python type declared, every covenant kept.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 43,
+   "stars": 45,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123800,
+   "stars": 123900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78300,
+   "stars": 78500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 89,
+   "stars": 126,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 627,
+   "stars": 659,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122100,
+   "stars": 122300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +339,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 397,
+   "stars": 399,
    "archived": false,
    "metadata_status": "live"
   },

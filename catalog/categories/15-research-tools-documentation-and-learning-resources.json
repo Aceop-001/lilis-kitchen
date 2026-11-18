@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-17T05:34:30+05:30",
+ "metadata_refreshed": "2026-11-18T05:38:19+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 28,
@@ -15,7 +15,7 @@
    "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
    "description_source": "github",
    "language": "Python",
-   "stars": 29000,
+   "stars": 29100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
    "description_source": "github",
    "language": "Python",
-   "stars": 30700,
+   "stars": 30800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 378100,
+   "stars": 378300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Easy to maintain open source documentation websites.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 66700,
+   "stars": 66800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 459200,
+   "stars": 459300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 60,
+   "stars": 63,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Universal markup converter",
    "description_source": "github",
    "language": "Haskell",
-   "stars": 46900,
+   "stars": 47000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A complete computer science study plan to become a software engineer.",
    "description_source": "github",
    "language": null,
-   "stars": 364400,
+   "stars": 364500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
    "description_source": "github",
    "language": "Python",
-   "stars": 64800,
+   "stars": 64900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 499600,
+   "stars": 499900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 108500,
+   "stars": 108600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 538000,
+   "stars": 538500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 234,
+   "stars": 240,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "A markup-based typesetting system that is powerful and easy to learn.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 57200,
+   "stars": 57300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -324,10 +324,10 @@
    "url": "https://github.com/vaibhaav-tiwari/deepseek-v3-jax",
    "category": "🎓 Research tools, documentation, and learning resources",
    "category_id": "15-research-tools-documentation-and-learning-resources",
-   "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
+   "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
    "description_source": "github",
    "language": "Python",
-   "stars": 232,
+   "stars": 247,
    "archived": false,
    "metadata_status": "live"
   },

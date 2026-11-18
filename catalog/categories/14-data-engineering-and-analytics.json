@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-17T05:34:30+05:30",
+ "metadata_refreshed": "2026-11-18T05:38:19+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 20,
@@ -51,7 +51,7 @@
    "description": "Apache Spark - A unified analytics engine for large-scale data processing",
    "description_source": "github",
    "language": "Scala",
-   "stars": 44500,
+   "stars": 44600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "Python",
-   "stars": 319,
+   "stars": 321,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
    "description_source": "github",
    "language": "Python",
-   "stars": 50500,
+   "stars": 50600,
    "archived": false,
    "metadata_status": "live"
   },

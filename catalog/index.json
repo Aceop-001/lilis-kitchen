@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-17T05:34:30+05:30",
- "repo_count": 422,
+ "metadata_refreshed": "2026-11-18T05:38:19+05:30",
+ "repo_count": 426,
  "category_count": 18,
  "categories": [
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 28,
+   "count": 31,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -73,7 +73,7 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 29,
+   "count": 30,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
