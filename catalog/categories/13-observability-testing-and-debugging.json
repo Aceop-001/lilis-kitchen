@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-18T05:38:19+05:30",
+ "metadata_refreshed": "2026-11-19T05:40:25+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 20,
@@ -75,7 +75,7 @@
    "description": "A modern load testing tool, using Go and JavaScript",
    "description_source": "github",
    "language": "Go",
-   "stars": 32300,
+   "stars": 32400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 187,
+   "stars": 188,
    "archived": false,
    "metadata_status": "live"
   }

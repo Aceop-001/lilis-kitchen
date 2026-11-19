@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-18T05:38:19+05:30",
- "repo_count": 426,
+ "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "repo_count": 431,
  "category_count": 18,
  "repositories": [
   {
@@ -26,7 +26,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 121300,
+   "stars": 121400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -38,7 +38,7 @@
    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
    "description_source": "github",
    "language": "Python",
-   "stars": 61000,
+   "stars": 61100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -50,7 +50,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 23700,
+   "stars": 23800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -62,7 +62,7 @@
    "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
    "description_source": "github",
    "language": "Go",
-   "stars": 2400,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -86,7 +86,7 @@
    "description": "Entire MacOS running in your terminal.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2800,
+   "stars": 2900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -122,7 +122,7 @@
    "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 996,
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -146,7 +146,7 @@
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 5800,
+   "stars": 5900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -194,7 +194,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 69100,
+   "stars": 69200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -242,7 +242,7 @@
    "description": "A lightweight, powerful framework for multi-agent workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 30700,
+   "stars": 30800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -254,7 +254,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 93700,
+   "stars": 93800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -266,7 +266,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 241,
+   "stars": 243,
    "archived": false,
    "metadata_status": "live"
   },
@@ -290,7 +290,7 @@
    "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 267,
+   "stars": 272,
    "archived": false,
    "metadata_status": "live"
   },
@@ -362,7 +362,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 25000,
+   "stars": 25300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -374,7 +374,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 9000,
+   "stars": 9100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -398,7 +398,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 467,
+   "stars": 470,
    "archived": false,
    "metadata_status": "live"
   },
@@ -410,7 +410,7 @@
    "description": "AGENTS.md — a simple, open format for guiding coding agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 25500,
+   "stars": 25600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -422,7 +422,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 156000,
+   "stars": 156200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -434,7 +434,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 196700,
+   "stars": 197200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -458,7 +458,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 79700,
+   "stars": 79800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -470,7 +470,7 @@
    "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 296,
+   "stars": 298,
    "archived": false,
    "metadata_status": "live"
   },
@@ -494,7 +494,7 @@
    "description": "Keep your coding agent up to date with the latest web best practices",
    "description_source": "github",
    "language": null,
-   "stars": 22000,
+   "stars": 22800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -506,7 +506,7 @@
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "description_source": "github",
    "language": "Python",
-   "stars": 58200,
+   "stars": 58300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -518,7 +518,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 319300,
+   "stars": 321300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -530,7 +530,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 135700,
+   "stars": 135800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -566,7 +566,7 @@
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "description_source": "github",
    "language": "Shell",
-   "stars": 26600,
+   "stars": 26700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -578,7 +578,7 @@
    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
    "description_source": "github",
    "language": "Python",
-   "stars": 42600,
+   "stars": 42700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -590,7 +590,7 @@
    "description": "Live, multi-camera object tracking with SAM3, SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks.",
    "description_source": "github",
    "language": "Python",
-   "stars": 85,
+   "stars": 87,
    "archived": false,
    "metadata_status": "live"
   },
@@ -602,7 +602,7 @@
    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
    "description_source": "github",
    "language": "Python",
-   "stars": 63400,
+   "stars": 63500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -614,7 +614,7 @@
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "description_source": "github",
    "language": "Python",
-   "stars": 147400,
+   "stars": 147500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -638,7 +638,7 @@
    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 2000,
+   "stars": 2400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -662,7 +662,7 @@
    "description": "LLM inference in C/C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 135700,
+   "stars": 135600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -686,7 +686,7 @@
    "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
    "description_source": "github",
    "language": "Python",
-   "stars": 575,
+   "stars": 611,
    "archived": false,
    "metadata_status": "live"
   },
@@ -710,7 +710,7 @@
    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
    "description_source": "github",
    "language": "Python",
-   "stars": 169300,
+   "stars": 169200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -734,7 +734,7 @@
    "description": "maxxing the ability to run different LLMs on the smallest devices possible",
    "description_source": "github",
    "language": "C",
-   "stars": 968,
+   "stars": 1000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -758,7 +758,7 @@
    "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
    "description_source": "github",
    "language": "C",
-   "stars": 51800,
+   "stars": 52000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -770,7 +770,7 @@
    "description": "See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan).",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 96,
+   "stars": 105,
    "archived": false,
    "metadata_status": "live"
   },
@@ -818,7 +818,7 @@
    "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
    "description_source": "github",
    "language": "Python",
-   "stars": 694,
+   "stars": 745,
    "archived": false,
    "metadata_status": "live"
   },
@@ -830,7 +830,7 @@
    "description": "Local LLM inference server for NVIDIA SM120/SM121 GPUs (incl. DGX Spark) that compiles models with PyTorch at build time and serves them from a Rust runtime without Python.",
    "description_source": "vault_note",
    "language": "Python",
-   "stars": 816,
+   "stars": 821,
    "archived": false,
    "metadata_status": "live"
   },
@@ -854,7 +854,7 @@
    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
    "description_source": "github",
    "language": "Go",
-   "stars": 187400,
+   "stars": 187600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -878,7 +878,7 @@
    "description": "Fast, accurate OCR with correctness assessment.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 977,
+   "stars": 980,
    "archived": false,
    "metadata_status": "live"
   },
@@ -914,7 +914,7 @@
    "description": "Faster Whisper transcription with CTranslate2",
    "description_source": "github",
    "language": "Python",
-   "stars": 26800,
+   "stars": 26900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -938,7 +938,7 @@
    "description": "HyperFlow H3 Flash: Video Rebirth's 13.7B, 4- to 8-step compressed MiniMax-H3 for joint video and audio generation (INT8 and GGUF)",
    "description_source": "github",
    "language": "Python",
-   "stars": 234,
+   "stars": 237,
    "archived": false,
    "metadata_status": "live"
   },
@@ -950,7 +950,7 @@
    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "description_source": "github",
    "language": "Python",
-   "stars": 97100,
+   "stars": 97200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -998,7 +998,7 @@
    "description": "Get your documents ready for gen AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 70700,
+   "stars": 70800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1022,7 +1022,7 @@
    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
    "description_source": "github",
    "language": "Python",
-   "stars": 40700,
+   "stars": 40800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1034,7 +1034,7 @@
    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
    "description_source": "github",
    "language": "Go",
-   "stars": 94300,
+   "stars": 94400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1058,7 +1058,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 149800,
+   "stars": 149900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1070,7 +1070,7 @@
    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
    "description_source": "github",
    "language": "Clojure",
-   "stars": 45600,
+   "stars": 45700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1202,7 +1202,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 227600,
+   "stars": 227800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1226,7 +1226,7 @@
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 71700,
+   "stars": 71800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1250,7 +1250,7 @@
    "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
    "description_source": "github",
    "language": "Rust",
-   "stars": 32700,
+   "stars": 32800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1262,7 +1262,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 715,
+   "stars": 716,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1274,7 +1274,7 @@
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 4700,
+   "stars": 4800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1298,7 +1298,7 @@
    "description": "simple terminal UI for git commands",
    "description_source": "github",
    "language": "Go",
-   "stars": 83900,
+   "stars": 84000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1310,7 +1310,7 @@
    "description": "ThinkRail is the agentic IDE that gets better every time you use it",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 8300,
+   "stars": 8400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1322,7 +1322,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 195700,
+   "stars": 195600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1334,7 +1334,7 @@
    "description": "Vim-fork focused on extensibility and usability",
    "description_source": "github",
    "language": "Vim Script",
-   "stars": 103900,
+   "stars": 103800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1382,7 +1382,7 @@
    "description": "3D modeling in Python, built for LLMs.",
    "description_source": "github",
    "language": "HTML",
-   "stars": 2100,
+   "stars": 2200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1406,7 +1406,7 @@
    "description": "Happy helper for your terminal",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 206,
+   "stars": 208,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1430,7 +1430,7 @@
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 95200,
+   "stars": 95300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1454,7 +1454,7 @@
    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
    "description_source": "github",
    "language": "Python",
-   "stars": 71600,
+   "stars": 71500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1502,7 +1502,7 @@
    "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 92400,
+   "stars": 92300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1526,7 +1526,7 @@
    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 100400,
+   "stars": 100500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1538,7 +1538,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 210900,
+   "stars": 211100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1610,7 +1610,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 160,
+   "stars": 167,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1622,7 +1622,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 34500,
+   "stars": 34600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1658,7 +1658,7 @@
    "description": "Playwright MCP server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 39800,
+   "stars": 39900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1742,7 +1742,7 @@
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "description_source": "github",
    "language": "Python",
-   "stars": 28600,
+   "stars": 28700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1754,7 +1754,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 97800,
+   "stars": 98000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1814,7 +1814,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 43100,
+   "stars": 43200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1898,7 +1898,7 @@
    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
    "description_source": "github",
    "language": "C",
-   "stars": 77700,
+   "stars": 77500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1934,7 +1934,7 @@
    "description": "Fast and lightweight DB Client made in Rust and GPUI.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1500,
+   "stars": 1600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1958,7 +1958,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 115300,
+   "stars": 115100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -1970,7 +1970,7 @@
    "description": "Open Source Continuous File Synchronization",
    "description_source": "github",
    "language": "Go",
-   "stars": 90500,
+   "stars": 90600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2018,7 +2018,7 @@
    "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 253,
+   "stars": 255,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2054,7 +2054,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70900,
+   "stars": 71000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2114,7 +2114,7 @@
    "description": "Simple and flexible tool for managing secrets",
    "description_source": "github",
    "language": "Go",
-   "stars": 23700,
+   "stars": 23800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2126,7 +2126,7 @@
    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 755,
+   "stars": 758,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2138,7 +2138,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 31100,
+   "stars": 31200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2150,7 +2150,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 706,
+   "stars": 718,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2186,7 +2186,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 742,
+   "stars": 743,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2210,7 +2210,7 @@
    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
    "description_source": "github",
    "language": "C#",
-   "stars": 3500,
+   "stars": 3600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2222,7 +2222,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 45800,
+   "stars": 45900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2234,7 +2234,7 @@
    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
    "description_source": "github",
    "language": "Python",
-   "stars": 10300,
+   "stars": 10700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2258,7 +2258,7 @@
    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
    "description_source": "github",
    "language": "C++",
-   "stars": 30000,
+   "stars": 30100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2270,7 +2270,7 @@
    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 684,
+   "stars": 686,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2294,7 +2294,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 100500,
+   "stars": 100600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2402,7 +2402,7 @@
    "description": "An open-source reimplementation of the phone side of Android Auto",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 602,
+   "stars": 609,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2450,7 +2450,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
    "description_source": "github",
    "language": "C++",
-   "stars": 490,
+   "stars": 511,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2462,7 +2462,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 35700,
+   "stars": 37000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2474,7 +2474,7 @@
    "description": "The easiest, most secure way to use WireGuard and 2FA.",
    "description_source": "github",
    "language": "Go",
-   "stars": 39200,
+   "stars": 39300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2510,7 +2510,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 7600,
+   "stars": 7700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2534,7 +2534,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 401,
+   "stars": 406,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2563,6 +2563,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "apakottur/unref",
+   "url": "https://github.com/apakottur/unref",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "An extremely fast Python dead code finder, written in Rust.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 81,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "astral-sh/ruff",
    "url": "https://github.com/astral-sh/ruff",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -2570,7 +2582,7 @@
    "description": "An extremely fast Python linter and code formatter, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 51400,
+   "stars": 51300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2642,7 +2654,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 690,
+   "stars": 703,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2654,7 +2666,7 @@
    "description": "Develop desktop apps with native UI or web frontend in Go",
    "description_source": "github",
    "language": "Go",
-   "stars": 6500,
+   "stars": 6600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2666,7 +2678,7 @@
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1300,
+   "stars": 3300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2678,7 +2690,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 108,
+   "stars": 109,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2690,7 +2702,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 140200,
+   "stars": 140100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2726,7 +2738,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 10100,
+   "stars": 10800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2750,7 +2762,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 592,
+   "stars": 598,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2762,7 +2774,7 @@
    "description": "Every Python type declared, every covenant kept.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 45,
+   "stars": 47,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2798,7 +2810,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123900,
+   "stars": 123800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2822,7 +2834,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78500,
+   "stars": 78300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2834,7 +2846,7 @@
    "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 126,
+   "stars": 136,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2846,7 +2858,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 659,
+   "stars": 679,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2858,7 +2870,31 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122300,
+   "stars": 122200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "scarletkc/colab-playground",
+   "url": "https://github.com/scarletkc/colab-playground",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 273,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "springcraft-ai/springrep",
+   "url": "https://github.com/springcraft-ai/springrep",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "An exact B-rep geometry kernel in Rust",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 4,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2870,7 +2906,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 290,
+   "stars": 291,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2894,7 +2930,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 399,
+   "stars": 400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2942,7 +2978,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 92000,
+   "stars": 91800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2966,7 +3002,7 @@
    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
    "description_source": "github",
    "language": "Python",
-   "stars": 105000,
+   "stars": 104900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -2978,7 +3014,7 @@
    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
    "description_source": "github",
    "language": "Dart",
-   "stars": 181400,
+   "stars": 181300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3050,7 +3086,7 @@
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 795,
+   "stars": 810,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3062,7 +3098,7 @@
    "description": "Ruby on Rails",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 59200,
+   "stars": 59000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3074,7 +3110,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 252900,
+   "stars": 252700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3086,7 +3122,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 128400,
+   "stars": 128500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3110,7 +3146,7 @@
    "description": "A utility-first CSS framework for rapid UI development.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 98800,
+   "stars": 98700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3122,7 +3158,7 @@
    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 113100,
+   "stars": 113000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3158,7 +3194,7 @@
    "description": "Next generation frontend tooling. It's fast!",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 83900,
+   "stars": 84000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3170,7 +3206,7 @@
    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 55200,
+   "stars": 55000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3182,7 +3218,7 @@
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 3000,
+   "stars": 3100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3218,7 +3254,7 @@
    "description": "Network-wide ads & trackers blocking DNS server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38500,
+   "stars": 38600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3230,7 +3266,7 @@
    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
    "description_source": "github",
    "language": "Go",
-   "stars": 79100,
+   "stars": 79200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3266,7 +3302,7 @@
    "description": "self-host web analytics in a single binary",
    "description_source": "github",
    "language": "Go",
-   "stars": 237,
+   "stars": 238,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3302,7 +3338,7 @@
    "description": "One self-hosted app for your shows, movies and music.",
    "description_source": "github",
    "language": "Go",
-   "stars": 1400,
+   "stars": 2000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3314,7 +3350,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 119500,
+   "stars": 119600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3362,7 +3398,7 @@
    "description": "Production-Grade Container Scheduling and Management",
    "description_source": "github",
    "language": "Go",
-   "stars": 129400,
+   "stars": 129200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3374,7 +3410,7 @@
    "description": "XMPP with teeth 🐺",
    "description_source": "github",
    "language": "Rust",
-   "stars": 109,
+   "stars": 110,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3398,7 +3434,7 @@
    "description": "Minimalist and opinionated feed reader",
    "description_source": "github",
    "language": "Go",
-   "stars": 9900,
+   "stars": 10000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3410,7 +3446,7 @@
    "description": "☁️ Nextcloud server, a safe home for all your data",
    "description_source": "github",
    "language": "PHP",
-   "stars": 37500,
+   "stars": 37600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3422,7 +3458,7 @@
    "description": "The official NGINX Open Source repository.",
    "description_source": "github",
    "language": "C",
-   "stars": 32100,
+   "stars": 32200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3434,7 +3470,7 @@
    "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
    "description_source": "github",
    "language": "C",
-   "stars": 327,
+   "stars": 333,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3458,7 +3494,7 @@
    "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 528,
+   "stars": 560,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3482,7 +3518,7 @@
    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
    "description_source": "github",
    "language": "Python",
-   "stars": 48200,
+   "stars": 48300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3511,6 +3547,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "prusa3d/prusa-connect",
+   "url": "https://github.com/prusa3d/prusa-connect",
+   "category": "🏠 Self-hosted applications and infrastructure",
+   "category_id": "12-self-hosted-applications-and-infrastructure",
+   "description": "Prusa Connect: a local server for your printers",
+   "description_source": "github",
+   "language": "Go",
+   "stars": 215,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "reason-machines/aspen",
    "url": "https://github.com/reason-machines/aspen",
    "category": "🏠 Self-hosted applications and infrastructure",
@@ -3518,7 +3566,7 @@
    "description": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 134,
+   "stars": 135,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3530,7 +3578,7 @@
    "description": "Native macOS and Windows menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "C#",
-   "stars": 235,
+   "stars": 236,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3626,7 +3674,7 @@
    "description": "A modern load testing tool, using Go and JavaScript",
    "description_source": "github",
    "language": "Go",
-   "stars": 32300,
+   "stars": 32400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3794,7 +3842,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 187,
+   "stars": 188,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3854,7 +3902,7 @@
    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
    "description_source": "github",
    "language": "Python",
-   "stars": 75500,
+   "stars": 75600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -3866,7 +3914,7 @@
    "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
    "description_source": "github",
    "language": "Rust",
-   "stars": 55,
+   "stars": 56,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4034,7 +4082,7 @@
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 838,
+   "stars": 840,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4070,7 +4118,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 166,
+   "stars": 167,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4082,7 +4130,7 @@
    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
    "description_source": "github",
    "language": "Python",
-   "stars": 295,
+   "stars": 296,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4094,7 +4142,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 378300,
+   "stars": 378400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4130,7 +4178,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 63,
+   "stars": 64,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4142,7 +4190,7 @@
    "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 22900,
+   "stars": 23000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4154,7 +4202,7 @@
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "description_source": "github",
    "language": "Python",
-   "stars": 1700,
+   "stars": 1800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4238,7 +4286,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 211200,
+   "stars": 211300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4250,7 +4298,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 499900,
+   "stars": 500100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4286,7 +4334,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 538500,
+   "stars": 539000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4298,7 +4346,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 240,
+   "stars": 245,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4358,7 +4406,7 @@
    "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
    "description_source": "github",
    "language": "Python",
-   "stars": 247,
+   "stars": 257,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4394,7 +4442,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 7300,
+   "stars": 7500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4418,7 +4466,7 @@
    "description": "A monitor of resources",
    "description_source": "github",
    "language": "C++",
-   "stars": 35400,
+   "stars": 35500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4430,7 +4478,7 @@
    "description": "Install Linux next to Windows without a USB stick",
    "description_source": "github",
    "language": "PowerShell",
-   "stars": 1700,
+   "stars": 1800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4502,7 +4550,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 67600,
+   "stars": 67500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4514,7 +4562,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 566,
+   "stars": 567,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4538,7 +4586,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 836,
+   "stars": 839,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4586,7 +4634,7 @@
    "description": ":cherry_blossom: A command-line fuzzy finder",
    "description_source": "github",
    "language": "Go",
-   "stars": 84200,
+   "stars": 84300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4598,7 +4646,7 @@
    "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
    "description_source": "github",
    "language": "Zig",
-   "stars": 406,
+   "stars": 407,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4615,6 +4663,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "krisgfx9/wireless-device-battery-monitor",
+   "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+   "description_source": "github",
+   "language": "C++",
+   "stars": 3900,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "lishuangqiang/mixbar",
    "url": "https://github.com/lishuangqiang/mixbar",
    "category": "🐚 Useful command-line tools and small utilities",
@@ -4622,7 +4682,7 @@
    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 163,
+   "stars": 204,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4658,7 +4718,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 79800,
+   "stars": 79700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4706,7 +4766,7 @@
    "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 900,
+   "stars": 935,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4790,7 +4850,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 208700,
+   "stars": 209000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4826,7 +4886,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 79100,
+   "stars": 79200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4862,7 +4922,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1500,
+   "stars": 1600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4874,7 +4934,7 @@
    "description": "💚 End-to-end encrypted cloud for everything.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 30200,
+   "stars": 30300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4934,7 +4994,7 @@
    "description": "Your self-hosted, globally interconnected microblogging community",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 50700,
+   "stars": 50600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -4994,7 +5054,7 @@
    "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1900,
+   "stars": 2000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -5066,7 +5126,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 74600,
+   "stars": 74700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -5102,7 +5162,7 @@
    "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 419,
+   "stars": 420,
    "archived": false,
    "metadata_status": "live"
   },
@@ -5114,7 +5174,7 @@
    "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 406,
+   "stars": 411,
    "archived": false,
    "metadata_status": "live"
   }
