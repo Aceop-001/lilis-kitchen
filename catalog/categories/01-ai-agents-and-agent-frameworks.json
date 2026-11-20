@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
  "repo_count": 33,
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 121400,
+   "stars": 121500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 23800,
+   "stars": 24000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -132,10 +132,10 @@
    "url": "https://github.com/josssphzhou/poki",
    "category": "🤖 AI agents and agent frameworks",
    "category_id": "01-ai-agents-and-agent-frameworks",
-   "description": "Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.",
+   "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1600,
+   "stars": 1700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 5900,
+   "stars": 6000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Build resilient agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 45100,
+   "stars": 45200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 29600,
+   "stars": 29700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 93800,
+   "stars": 93900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 243,
+   "stars": 245,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 272,
+   "stars": 277,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +363,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 25300,
+   "stars": 25500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +375,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 9100,
+   "stars": 9200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +399,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 470,
+   "stars": 474,
    "archived": false,
    "metadata_status": "live"
   }

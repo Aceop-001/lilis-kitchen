@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 24,
@@ -27,7 +27,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 91800,
+   "stars": 91900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 679,
+   "stars": 680,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 810,
+   "stars": 820,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Ruby on Rails",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 59000,
+   "stars": 59100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 252700,
+   "stars": 252800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 128500,
+   "stars": 128600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "web development for the rest of us",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 89600,
+   "stars": 89800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "The React Framework",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 143700,
+   "stars": 143600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 55000,
+   "stars": 55100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 451,
+   "stars": 452,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "The web framework for content-driven websites.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 64000,
+   "stars": 64100,
    "archived": false,
    "metadata_status": "live"
   }

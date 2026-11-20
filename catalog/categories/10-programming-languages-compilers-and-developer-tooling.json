@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 33,
+ "repo_count": 34,
  "repositories": [
   {
    "name": "apakottur/unref",
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python dead code finder, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 81,
+   "stars": 119,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92200,
+   "stars": 92400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 26100,
+   "stars": 26200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "A modern runtime for JavaScript and TypeScript.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 109000,
+   "stars": 109100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 703,
+   "stars": 718,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 3300,
+   "stars": 5200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 10800,
+   "stars": 11200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 598,
+   "stars": 610,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
    "description_source": "github",
    "language": "Go",
-   "stars": 111800,
+   "stars": 111900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
    "description_source": "github",
    "language": "Rust",
-   "stars": 96700,
+   "stars": 96800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78300,
+   "stars": 78400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 136,
+   "stars": 142,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 679,
+   "stars": 688,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122200,
+   "stars": 122300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 273,
+   "stars": 296,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +339,19 @@
    "description": "An exact B-rep geometry kernel in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 4,
+   "stars": 31,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "staryone/motlab",
+   "url": "https://github.com/staryone/motlab",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 224,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 400,
+   "stars": 399,
    "archived": false,
    "metadata_status": "live"
   },

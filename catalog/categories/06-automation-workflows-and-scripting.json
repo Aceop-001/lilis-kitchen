@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "⚡ Automation, workflows, and scripting",
  "category_id": "06-automation-workflows-and-scripting",
  "repo_count": 14,
@@ -39,7 +39,7 @@
    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 47500,
+   "stars": 47600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "🤖 Just a command runner",
    "description_source": "github",
    "language": "Rust",
-   "stars": 36700,
+   "stars": 36800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 92300,
+   "stars": 92400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 100500,
+   "stars": 100600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 211100,
+   "stars": 211400,
    "archived": false,
    "metadata_status": "live"
   },

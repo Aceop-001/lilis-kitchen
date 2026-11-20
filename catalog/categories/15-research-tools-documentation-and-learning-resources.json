@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 28,
@@ -39,7 +39,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 167,
+   "stars": 168,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
    "description_source": "github",
    "language": "Python",
-   "stars": 296,
+   "stars": 298,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 378400,
+   "stars": 378500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 459300,
+   "stars": 459400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 64,
+   "stars": 66,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "description_source": "github",
    "language": "Python",
-   "stars": 1800,
+   "stars": 1900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 250,
+   "stars": 251,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A complete computer science study plan to become a software engineer.",
    "description_source": "github",
    "language": null,
-   "stars": 364500,
+   "stars": 364600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 500100,
+   "stars": 500300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 108600,
+   "stars": 108700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 539000,
+   "stars": 539500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 245,
+   "stars": 246,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Collaborative cheatsheets for console commands 📚.",
    "description_source": "github",
    "language": "Markdown",
-   "stars": 64200,
+   "stars": 64300,
    "archived": false,
    "metadata_status": "live"
   },

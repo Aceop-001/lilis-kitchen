@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
  "repo_count": 21,
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 227800,
+   "stars": 228000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
    "description_source": "github",
    "language": "Go",
-   "stars": 270,
+   "stars": 105,
    "archived": false,
    "metadata_status": "live"
   },
@@ -72,7 +72,7 @@
    "url": "https://github.com/dandavison/delta",
    "category": "💻 AI coding assistants and developer productivity",
    "category_id": "05-ai-coding-assistants-and-developer-productivity",
-   "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
+   "description": "A syntax-highlighting interface for git, diff, blame, and grep/ripgrep",
    "description_source": "github",
    "language": "Rust",
    "stars": 32800,
@@ -87,7 +87,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 716,
+   "stars": 718,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 4800,
+   "stars": 5000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 195600,
+   "stars": 195700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Vim-fork focused on extensibility and usability",
    "description_source": "github",
    "language": "Vim Script",
-   "stars": 103800,
+   "stars": 103900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 338,
+   "stars": 340,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Happy helper for your terminal",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 208,
+   "stars": 210,
    "archived": false,
    "metadata_status": "live"
   },

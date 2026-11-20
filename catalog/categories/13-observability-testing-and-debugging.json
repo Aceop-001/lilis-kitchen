@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
- "repo_count": 20,
+ "repo_count": 21,
  "repositories": [
   {
    "name": "arize-ai/phoenix",
@@ -15,7 +15,7 @@
    "description": "AI Observability & Evaluation",
    "description_source": "github",
    "language": "Python",
-   "stars": 12300,
+   "stars": 12400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "The LLM Evaluation Framework",
    "description_source": "github",
    "language": "Python",
-   "stars": 19500,
+   "stars": 19600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
    "description_source": "github",
    "language": "C",
-   "stars": 22700,
+   "stars": 22800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27400,
+   "stars": 27500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -172,6 +172,18 @@
    "description_source": "github",
    "language": "Python",
    "stars": 14700,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "replit/datacat",
+   "url": "https://github.com/replit/datacat",
+   "category": "🔍 Observability, testing, and debugging",
+   "category_id": "13-observability-testing-and-debugging",
+   "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 401,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs (plus Huawei Ascend on Linux).",
    "description_source": "github",
    "language": "Python",
-   "stars": 3500,
+   "stars": 3600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract breaks. TypeScript/React, Go, Python.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 188,
+   "stars": 189,
    "archived": false,
    "metadata_status": "live"
   }

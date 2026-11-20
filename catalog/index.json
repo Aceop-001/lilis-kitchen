@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
- "repo_count": 431,
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
+ "repo_count": 434,
  "category_count": 18,
  "categories": [
   {
@@ -73,7 +73,7 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 33,
+   "count": 34,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -94,7 +94,7 @@
    "id": "13-observability-testing-and-debugging",
    "title": "🔍 Observability, testing, and debugging",
    "description": "Observability, testing, and debugging tools.",
-   "count": 20,
+   "count": 21,
    "file": "catalog/categories/13-observability-testing-and-debugging.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 37,
+   "count": 38,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-19T05:40:25+05:30",
+ "metadata_refreshed": "2026-11-20T05:41:05+05:30",
  "category": "🧩 Agent skills, reusable instructions, and tool integrations",
  "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
  "repo_count": 15,
@@ -27,7 +27,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 156200,
+   "stars": 156300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 197200,
+   "stars": 197700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 2600,
+   "stars": 2700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 79800,
+   "stars": 79900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 298,
+   "stars": 303,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Keep your coding agent up to date with the latest web best practices",
    "description_source": "github",
    "language": null,
-   "stars": 22800,
+   "stars": 23400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "description_source": "github",
    "language": "Python",
-   "stars": 58300,
+   "stars": 58400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 321300,
+   "stars": 322100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 135800,
+   "stars": 135900,
    "archived": false,
    "metadata_status": "live"
   },
