@@ -2,22 +2,22 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-20T05:41:05+05:30",
- "repo_count": 434,
+ "metadata_refreshed": "2026-11-21T05:44:12+05:30",
+ "repo_count": 438,
  "category_count": 18,
  "categories": [
   {
    "id": "01-ai-agents-and-agent-frameworks",
    "title": "🤖 AI agents and agent frameworks",
    "description": "Frameworks and toolkits for building autonomous AI agents and multi-agent workflows.",
-   "count": 33,
+   "count": 34,
    "file": "catalog/categories/01-ai-agents-and-agent-frameworks.json"
   },
   {
    "id": "02-agent-skills-reusable-instructions-and-tool-integrations",
    "title": "🧩 Agent skills, reusable instructions, and tool integrations",
    "description": "Reusable agent skills, instruction sets, and tool integrations that extend what agents can do.",
-   "count": 15,
+   "count": 16,
    "file": "catalog/categories/02-agent-skills-reusable-instructions-and-tool-integrations.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 38,
+   "count": 40,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

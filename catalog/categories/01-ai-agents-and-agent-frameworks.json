@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-20T05:41:05+05:30",
+ "metadata_refreshed": "2026-11-21T05:44:12+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
- "repo_count": 33,
+ "repo_count": 34,
  "repositories": [
   {
    "name": "agno-agi/agno",
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 121500,
+   "stars": 121600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,19 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 24000,
+   "stars": 24100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "diggerhq/opencomputer",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "category": "🤖 AI agents and agent frameworks",
+   "category_id": "01-ai-agents-and-agent-frameworks",
+   "description": "An open-source, faster Devin alternative",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 727,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +75,7 @@
    "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
    "description_source": "github",
    "language": "Go",
-   "stars": 2500,
+   "stars": 2600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +111,7 @@
    "description": "Let agents control any remote computer, anytime, anywhere. Self-hosted AI agent remote assistance via MCP and terminal.",
    "description_source": "github",
    "language": "Go",
-   "stars": 105,
+   "stars": 106,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +123,7 @@
    "description": "🤗 smolagents: a barebones library for agents that think in code.",
    "description_source": "github",
    "language": "Python",
-   "stars": 30400,
+   "stars": 30500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -124,7 +136,7 @@
    "description_source": "github",
    "language": "Kotlin",
    "stars": 1000,
-   "archived": false,
+   "archived": true,
    "metadata_status": "live"
   },
   {
@@ -147,7 +159,7 @@
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 6000,
+   "stars": 6100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 69200,
+   "stars": 69300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,8 +219,8 @@
    "description": "A programming framework for agentic AI",
    "description_source": "github",
    "language": "Python",
-   "stars": 61900,
-   "archived": false,
+   "stars": 62000,
+   "archived": true,
    "metadata_status": "live"
   },
   {
@@ -291,7 +303,7 @@
    "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 277,
+   "stars": 283,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,7 @@
    "description": "DSPy: The framework for programming—not prompting—language models",
    "description_source": "github",
    "language": "Python",
-   "stars": 39100,
+   "stars": 39200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +375,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 25500,
+   "stars": 25800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 9200,
+   "stars": 9300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +411,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 474,
+   "stars": 478,
    "archived": false,
    "metadata_status": "live"
   }

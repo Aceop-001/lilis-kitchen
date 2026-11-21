@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-20T05:41:05+05:30",
+ "metadata_refreshed": "2026-11-21T05:44:12+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
- "repo_count": 38,
+ "repo_count": 40,
  "repositories": [
   {
    "name": "ajeetdsouza/zoxide",
@@ -27,7 +27,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 7600,
+   "stars": 7700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 573,
+   "stars": 578,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,19 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 841,
+   "stars": 844,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "iamajmeena/neonclipping",
+   "url": "https://github.com/iamajmeena/neonclipping",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
    "description_source": "github",
    "language": "Zig",
-   "stars": 407,
+   "stars": 409,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,19 @@
    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
    "description_source": "github",
    "language": "C++",
-   "stars": 4700,
+   "stars": 5300,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "lemxy/winrust",
+   "url": "https://github.com/lemxy/winrust",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 741,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +291,7 @@
    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 221,
+   "stars": 313,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +375,7 @@
    "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 973,
+   "stars": 993,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +423,7 @@
    "description": "tmux source code",
    "description_source": "github",
    "language": "C",
-   "stars": 50500,
+   "stars": 50600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +459,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 209200,
+   "stars": 209400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +471,7 @@
    "description": "A terminal workspace with batteries included",
    "description_source": "github",
    "language": "Rust",
-   "stars": 36100,
+   "stars": 36200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -459,7 +483,7 @@
    "description": "Feels great. Weighs nothing. The lightweight browser for Mac.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 330,
+   "stars": 341,
    "archived": false,
    "metadata_status": "live"
   }
