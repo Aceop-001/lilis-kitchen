@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-21T05:44:12+05:30",
- "repo_count": 438,
+ "metadata_refreshed": "2026-11-22T05:43:33+05:30",
+ "repo_count": 443,
  "category_count": 18,
  "categories": [
   {
@@ -52,7 +52,7 @@
    "id": "07-apis-mcp-servers-and-integrations",
    "title": "🔌 APIs, MCP servers, and integrations",
    "description": "API tooling, Model Context Protocol (MCP) servers, and service integrations.",
-   "count": 14,
+   "count": 15,
    "file": "catalog/categories/07-apis-mcp-servers-and-integrations.json"
   },
   {
@@ -80,14 +80,14 @@
    "id": "11-web-development-and-application-frameworks",
    "title": "🌐 Web development and application frameworks",
    "description": "Web development and application frameworks.",
-   "count": 24,
+   "count": 25,
    "file": "catalog/categories/11-web-development-and-application-frameworks.json"
   },
   {
    "id": "12-self-hosted-applications-and-infrastructure",
    "title": "🏠 Self-hosted applications and infrastructure",
    "description": "Self-hosted applications and infrastructure you can run yourself.",
-   "count": 30,
+   "count": 31,
    "file": "catalog/categories/12-self-hosted-applications-and-infrastructure.json"
   },
   {
@@ -115,14 +115,14 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 40,
+   "count": 41,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {
    "id": "17-digital-independence-and-long-term-personal-infrastructure",
    "title": "🗽 Digital independence and long-term personal infrastructure",
    "description": "Projects for digital independence and long-term personal infrastructure.",
-   "count": 25,
+   "count": 26,
    "file": "catalog/categories/17-digital-independence-and-long-term-personal-infrastructure.json"
   },
   {

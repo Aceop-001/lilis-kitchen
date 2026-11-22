@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-21T05:44:12+05:30",
+ "metadata_refreshed": "2026-11-22T05:43:33+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
- "repo_count": 14,
+ "repo_count": 15,
  "repositories": [
   {
    "name": "4yk5/ghostman",
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 177,
+   "stars": 180,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 34600,
+   "stars": 34700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -40,6 +40,18 @@
    "description_source": "github",
    "language": "TypeScript",
    "stars": 80900,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "hridaya423/phonedriver",
+   "url": "https://github.com/hridaya423/phonedriver",
+   "category": "🔌 APIs, MCP servers, and integrations",
+   "category_id": "07-apis-mcp-servers-and-integrations",
+   "description": "MCP server and CLI that lets AI agents (Claude Code, Codex, Cursor) see and control Android phones and iPhones. Reads the screen as text. Asks before it pays.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 340,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +75,7 @@
    "description": "Playwright MCP server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 39900,
+   "stars": 40000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "A collection of MCP servers.",
    "description_source": "github",
    "language": null,
-   "stars": 98300,
+   "stars": 98400,
    "archived": false,
    "metadata_status": "live"
   },

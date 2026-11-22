@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-21T05:44:12+05:30",
+ "metadata_refreshed": "2026-11-22T05:43:33+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
- "repo_count": 25,
+ "repo_count": 26,
  "repositories": [
   {
    "name": "anonaddy/anonaddy",
@@ -75,7 +75,19 @@
    "description": "💚 End-to-end encrypted cloud for everything.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 30300,
+   "stars": 30400,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "immortal-protocols/lastbook",
+   "url": "https://github.com/immortal-protocols/lastbook",
+   "category": "🗽 Digital independence and long-term personal infrastructure",
+   "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
+   "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 2900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "A Windows your apps recognize.",
    "description_source": "github",
    "language": "C",
-   "stars": 1100,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 2300,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 75800,
+   "stars": 76300,
    "archived": false,
    "metadata_status": "live"
   },
