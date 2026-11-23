@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-22T05:43:33+05:30",
+ "metadata_refreshed": "2026-11-23T05:35:14+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
  "repo_count": 41,
@@ -27,7 +27,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 8000,
+   "stars": 8100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A lightweight Calibre alternative",
    "description_source": "github",
    "language": "Go",
-   "stars": 404,
+   "stars": 413,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 67800,
+   "stars": 68000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 579,
+   "stars": 580,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 848,
+   "stars": 852,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "description_source": "github",
    "language": "Python",
-   "stars": 1700,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -276,12 +276,12 @@
    "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
    "category": "🐚 Useful command-line tools and small utilities",
    "category_id": "16-useful-command-line-tools-and-small-utilities",
-   "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-   "description_source": "github",
-   "language": "C++",
-   "stars": 5800,
-   "archived": false,
-   "metadata_status": "live"
+   "description": "Windows 10/11 tray app showing battery levels of wireless mice, headsets, keyboards and controllers without vendor software.",
+   "description_source": "vault_note",
+   "language": null,
+   "stars": null,
+   "archived": null,
+   "metadata_status": "unavailable"
   },
   {
    "name": "lemxy/winrust",
@@ -291,7 +291,7 @@
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 958,
+   "stars": 1200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 335,
+   "stars": 347,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +339,7 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 79900,
+   "stars": 80000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +399,7 @@
    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
    "description_source": "github",
    "language": "Rust",
-   "stars": 60800,
+   "stars": 60900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +447,7 @@
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2400,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +471,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 209700,
+   "stars": 210000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -495,7 +495,7 @@
    "description": "Feels great. Weighs nothing. The lightweight browser for Mac.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 346,
+   "stars": 352,
    "archived": false,
    "metadata_status": "live"
   }

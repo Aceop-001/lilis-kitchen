@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-22T05:43:33+05:30",
+ "metadata_refreshed": "2026-11-23T05:35:14+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 21,
@@ -27,7 +27,7 @@
    "description": "Stack trace visualizer",
    "description_source": "github",
    "language": "Perl",
-   "stars": 19800,
+   "stars": 19900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Developer-first error tracking and performance monitoring",
    "description_source": "github",
    "language": "Python",
-   "stars": 45800,
+   "stars": 45900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 67700,
+   "stars": 67800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27500,
+   "stars": 27600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 493,
+   "stars": 557,
    "archived": false,
    "metadata_status": "live"
   },

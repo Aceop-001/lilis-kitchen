@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-22T05:43:33+05:30",
+ "metadata_refreshed": "2026-11-23T05:35:14+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 19,
@@ -51,7 +51,7 @@
    "description": "DuckDB is a high-performance analytical database system",
    "description_source": "github",
    "language": "C++",
-   "stars": 43200,
+   "stars": 43300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
    "description_source": "github",
    "language": "C",
-   "stars": 77600,
+   "stars": 77700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Fast and lightweight DB Client made in Rust and GPUI.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1900,
+   "stars": 2000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 115200,
+   "stars": 115300,
    "archived": false,
    "metadata_status": "live"
   },

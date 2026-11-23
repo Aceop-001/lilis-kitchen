@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-22T05:43:33+05:30",
+ "metadata_refreshed": "2026-11-23T05:35:14+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 34,
+ "repo_count": 36,
  "repositories": [
   {
    "name": "apakottur/unref",
@@ -15,7 +15,7 @@
    "description": "An extremely fast Python dead code finder, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 133,
+   "stars": 136,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92500,
+   "stars": 92600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "A modern runtime for JavaScript and TypeScript.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 109000,
+   "stars": 109100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 738,
+   "stars": 753,
    "archived": false,
    "metadata_status": "live"
   },
@@ -116,6 +116,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 1900,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -123,7 +135,7 @@
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 7400,
+   "stars": 8000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 110,
+   "stars": 111,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "The Go programming language",
    "description_source": "github",
    "language": "Go",
-   "stars": 140100,
+   "stars": 140200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 12000,
+   "stars": 12300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
    "description_source": "github",
    "language": "LLVM",
-   "stars": 41500,
+   "stars": 41600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 626,
+   "stars": 631,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Every Python type declared, every covenant kept.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 47,
+   "stars": 48,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123800,
+   "stars": 123900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -272,6 +284,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "pithings/unkernel",
+   "url": "https://github.com/pithings/unkernel",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 1100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "python/cpython",
    "url": "https://github.com/python/cpython",
    "category": "🧰 Programming languages, compilers, and developer tooling",
@@ -279,7 +303,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78400,
+   "stars": 78500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +315,7 @@
    "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 145,
+   "stars": 147,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +327,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 700,
+   "stars": 706,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +339,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122300,
+   "stars": 122400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +351,7 @@
    "description": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 309,
+   "stars": 390,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +363,7 @@
    "description": "An exact B-rep geometry kernel in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 44,
+   "stars": 49,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +375,7 @@
    "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 348,
+   "stars": 394,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +387,7 @@
    "description": "Run a web page like a program",
    "description_source": "github",
    "language": "Go",
-   "stars": 291,
+   "stars": 292,
    "archived": false,
    "metadata_status": "live"
   },
