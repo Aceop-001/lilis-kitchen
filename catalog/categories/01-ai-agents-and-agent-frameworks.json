@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
  "repo_count": 35,
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 121800,
+   "stars": 121900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 24200,
+   "stars": 24400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "An open-source, faster Devin alternative",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1500,
+   "stars": 1700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -136,7 +136,7 @@
    "description_source": "github",
    "language": "Kotlin",
    "stars": 1000,
-   "archived": true,
+   "archived": false,
    "metadata_status": "live"
   },
   {
@@ -147,7 +147,7 @@
    "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 352,
+   "stars": 435,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1800,
+   "stars": 1900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 6300,
+   "stars": 6400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 29700,
+   "stars": 29800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 94100,
+   "stars": 94200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 247,
+   "stars": 248,
    "archived": false,
    "metadata_status": "live"
   },
@@ -300,7 +300,7 @@
    "url": "https://github.com/parcha-ai/agentrun",
    "category": "🤖 AI agents and agent frameworks",
    "category_id": "01-ai-agents-and-agent-frameworks",
-   "description": "AgentRun is an open-source platform that supercharges your agents. It adds self-improvement, durable execution and a control plane on top of your favorite agent harness. Your agents become smarter, more fault tolerant and use fewer tokens with every run.",
+   "description": "AgentRun is an open-source agent operating system that supercharges your agents. It adds self-improvement, durable execution and a control plane on top of your choice of agent harness, compute and models. Your agents become smarter, more fault-tolerant, and use fewer tokens with every run.",
    "description_source": "github",
    "language": "JavaScript",
    "stars": 1300,
@@ -315,7 +315,7 @@
    "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 284,
+   "stars": 288,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +339,7 @@
    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
    "description_source": "github",
    "language": "Python",
-   "stars": 21300,
+   "stars": 21400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +387,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 26100,
+   "stars": 26300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +399,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 9600,
+   "stars": 9800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +423,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 480,
+   "stars": 485,
    "archived": false,
    "metadata_status": "live"
   }

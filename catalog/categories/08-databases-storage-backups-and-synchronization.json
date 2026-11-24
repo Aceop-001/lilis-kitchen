@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 19,
@@ -63,7 +63,7 @@
    "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1300,
+   "stars": 1400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
    "description_source": "github",
    "language": "C",
-   "stars": 77700,
+   "stars": 77600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Fast and lightweight DB Client made in Rust and GPUI.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 2000,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Open Source Continuous File Synchronization",
    "description_source": "github",
    "language": "Go",
-   "stars": 90700,
+   "stars": 90800,
    "archived": false,
    "metadata_status": "live"
   },

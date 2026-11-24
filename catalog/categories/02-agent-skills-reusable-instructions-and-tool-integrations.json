@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🧩 Agent skills, reusable instructions, and tool integrations",
  "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
- "repo_count": 16,
+ "repo_count": 17,
  "repositories": [
   {
    "name": "agentsmd/agents.md",
@@ -27,7 +27,7 @@
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 156700,
+   "stars": 156800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Public repository for Agent Skills",
    "description_source": "github",
    "language": "Python",
-   "stars": 199000,
+   "stars": 199500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 2700,
+   "stars": 2800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "description_source": "github",
    "language": "Python",
-   "stars": 80100,
+   "stars": 80200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 306,
+   "stars": 309,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Keep your coding agent up to date with the latest web best practices",
    "description_source": "github",
    "language": null,
-   "stars": 25100,
+   "stars": 25500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
    "description_source": "github",
    "language": "Python",
-   "stars": 58600,
+   "stars": 58700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "An agentic skills framework & software development methodology that works.",
    "description_source": "github",
    "language": "Shell",
-   "stars": 324200,
+   "stars": 325000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Lightweight coding agent that runs in your terminal",
    "description_source": "github",
    "language": "Rust",
-   "stars": 136100,
+   "stars": 136200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,19 @@
    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
    "description_source": "github",
    "language": "Python",
-   "stars": 2000,
+   "stars": 2100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "category": "🧩 Agent skills, reusable instructions, and tool integrations",
+   "category_id": "02-agent-skills-reusable-instructions-and-tool-integrations",
+   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 515,
    "archived": false,
    "metadata_status": "live"
   },

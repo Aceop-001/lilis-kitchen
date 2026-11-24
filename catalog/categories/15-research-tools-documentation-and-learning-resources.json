@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 28,
@@ -39,7 +39,7 @@
    "description": "A Lean formalization of the Classification of Finite Simple Groups",
    "description_source": "github",
    "language": "Lean",
-   "stars": 174,
+   "stars": 177,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 378800,
+   "stars": 378900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "description_source": "github",
    "language": "Python",
-   "stars": 1900,
+   "stars": 2000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Universal markup converter",
    "description_source": "github",
    "language": "Haskell",
-   "stars": 47000,
+   "stars": 47100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A complete computer science study plan to become a software engineer.",
    "description_source": "github",
    "language": null,
-   "stars": 364800,
+   "stars": 364900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 211400,
+   "stars": 211500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 500900,
+   "stars": 501000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 108800,
+   "stars": 108900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 541100,
+   "stars": 541700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 267,
+   "stars": 272,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
    "description_source": "github",
    "language": "Python",
-   "stars": 260,
+   "stars": 261,
    "archived": false,
    "metadata_status": "live"
   },

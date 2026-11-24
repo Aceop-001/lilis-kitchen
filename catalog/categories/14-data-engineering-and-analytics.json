@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "📊 Data engineering and analytics",
  "category_id": "14-data-engineering-and-analytics",
  "repo_count": 20,
@@ -39,7 +39,7 @@
    "description": "Apache Iceberg",
    "description_source": "github",
    "language": "Java",
-   "stars": 9400,
+   "stars": 9500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "Builds vector tilesets from geographic features, like tippecanoe, several times faster",
    "description_source": "github",
    "language": "Rust",
-   "stars": 58,
+   "stars": 64,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "The data transformation tool the open-source community deserves.",
    "description_source": "github",
    "language": "Python",
-   "stars": 301,
+   "stars": 299,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Extremely fast Query Engine for DataFrames, written in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 40400,
+   "stars": 40500,
    "archived": false,
    "metadata_status": "live"
   },

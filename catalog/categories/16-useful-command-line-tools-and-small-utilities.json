@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
- "repo_count": 41,
+ "repo_count": 42,
  "repositories": [
   {
    "name": "ajeetdsouza/zoxide",
@@ -27,7 +27,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 8100,
+   "stars": 8300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70100,
+   "stars": 70200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "A tool for glamorous shell scripts 🎀",
    "description_source": "github",
    "language": "Go",
-   "stars": 24600,
+   "stars": 24700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Yet another cross-platform graphical process/system monitor.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 14200,
+   "stars": 14300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "A lightweight Calibre alternative",
    "description_source": "github",
    "language": "Go",
-   "stars": 413,
+   "stars": 418,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 580,
+   "stars": 581,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 852,
+   "stars": 858,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "description_source": "github",
    "language": "Python",
-   "stars": 2100,
+   "stars": 2300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": ":cherry_blossom: A command-line fuzzy finder",
    "description_source": "github",
    "language": "Go",
-   "stars": 84300,
+   "stars": 84400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1200,
+   "stars": 1400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 347,
+   "stars": 349,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +387,7 @@
    "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1000,
+   "stars": 1100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +447,7 @@
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2500,
+   "stars": 2600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +471,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 210000,
+   "stars": 210200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -488,6 +488,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "zhouxiaoka/autoclip",
+   "url": "https://github.com/zhouxiaoka/autoclip",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 14400,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "zigaowang/zigzag",
    "url": "https://github.com/zigaowang/zigzag",
    "category": "🐚 Useful command-line tools and small utilities",
@@ -495,7 +507,7 @@
    "description": "Feels great. Weighs nothing. The lightweight browser for Mac.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 352,
+   "stars": 361,
    "archived": false,
    "metadata_status": "live"
   }

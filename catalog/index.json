@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
- "repo_count": 448,
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
+ "repo_count": 452,
  "category_count": 18,
  "categories": [
   {
@@ -17,7 +17,7 @@
    "id": "02-agent-skills-reusable-instructions-and-tool-integrations",
    "title": "🧩 Agent skills, reusable instructions, and tool integrations",
    "description": "Reusable agent skills, instruction sets, and tool integrations that extend what agents can do.",
-   "count": 16,
+   "count": 17,
    "file": "catalog/categories/02-agent-skills-reusable-instructions-and-tool-integrations.json"
   },
   {
@@ -66,14 +66,14 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 49,
+   "count": 50,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 36,
+   "count": 37,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 41,
+   "count": 42,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

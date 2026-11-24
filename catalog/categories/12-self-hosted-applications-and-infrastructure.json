@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🏠 Self-hosted applications and infrastructure",
  "category_id": "12-self-hosted-applications-and-infrastructure",
  "repo_count": 31,
@@ -15,7 +15,7 @@
    "description": "Network-wide ads & trackers blocking DNS server",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 38700,
+   "stars": 38800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
    "description_source": "github",
    "language": "Go",
-   "stars": 79400,
+   "stars": 79500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "self-host web analytics in a single binary",
    "description_source": "github",
    "language": "Go",
-   "stars": 241,
+   "stars": 243,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "One self-hosted app for your shows, movies and music.",
    "description_source": "github",
    "language": "Go",
-   "stars": 2700,
+   "stars": 2800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "High performance self-hosted photo and video management solution.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 119900,
+   "stars": 120000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "The Free Software Media System - Server Backend & API",
    "description_source": "github",
    "language": "C#",
-   "stars": 59600,
+   "stars": 59700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Production-Grade Container Scheduling and Management",
    "description_source": "github",
    "language": "Go",
-   "stars": 129400,
+   "stars": 129300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "XMPP with teeth 🐺",
    "description_source": "github",
    "language": "Rust",
-   "stars": 123,
+   "stars": 124,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "The official NGINX Open Source repository.",
    "description_source": "github",
    "language": "C",
-   "stars": 32900,
+   "stars": 33000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "The open-source Amazon SES replacement. Built in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 125,
+   "stars": 126,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 674,
+   "stars": 696,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "Prusa Connect: a local server for your printers",
    "description_source": "github",
    "language": "Go",
-   "stars": 288,
+   "stars": 299,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +339,7 @@
    "description": "Native macOS and Windows menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
    "description_source": "github",
    "language": "C#",
-   "stars": 240,
+   "stars": 241,
    "archived": false,
    "metadata_status": "live"
   },

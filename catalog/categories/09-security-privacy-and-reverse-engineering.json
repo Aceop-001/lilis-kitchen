@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 49,
+ "repo_count": 50,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -27,7 +27,7 @@
    "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 255,
+   "stars": 256,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
    "description_source": "github",
    "language": "Go",
-   "stars": 39600,
+   "stars": 39700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -76,6 +76,18 @@
    "description_source": "github",
    "language": "C++",
    "stars": 6200,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "erkamyaman/safe-anything",
+   "url": "https://github.com/erkamyaman/safe-anything",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 488,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 772,
+   "stars": 776,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 750,
+   "stars": 755,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "Low-interaction honeypot for supermarket refrigeration controllers (Danfoss AK-SM 800A, Dixell XWEB 500)",
    "description_source": "github",
    "language": "Python",
-   "stars": 78,
+   "stars": 79,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
    "description_source": "github",
    "language": "C#",
-   "stars": 3800,
+   "stars": 3900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
    "description_source": "github",
    "language": "Python",
-   "stars": 12200,
+   "stars": 12700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 701,
+   "stars": 712,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
    "description_source": "github",
    "language": "Python",
-   "stars": 47100,
+   "stars": 47200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +315,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 101000,
+   "stars": 101100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +363,7 @@
    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
    "description_source": "github",
    "language": "Go",
-   "stars": 9100,
+   "stars": 9200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
    "description_source": "github",
    "language": "Java",
-   "stars": 182,
+   "stars": 185,
    "archived": false,
    "metadata_status": "live"
   },
@@ -411,7 +423,7 @@
    "description": "An open-source reimplementation of the phone side of Android Auto",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 636,
+   "stars": 641,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +447,7 @@
    "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
    "description_source": "github",
    "language": "C++",
-   "stars": 20200,
+   "stars": 20300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -459,7 +471,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
    "description_source": "github",
    "language": "C++",
-   "stars": 550,
+   "stars": 558,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +483,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 41200,
+   "stars": 42100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -495,7 +507,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 224,
+   "stars": 225,
    "archived": false,
    "metadata_status": "live"
   },
@@ -504,10 +516,10 @@
    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
    "category": "🔐 Security, privacy, and reverse engineering",
    "category_id": "09-security-privacy-and-reverse-engineering",
-   "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+   "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
    "description_source": "github",
    "language": "Python",
-   "stars": 385,
+   "stars": 561,
    "archived": false,
    "metadata_status": "live"
   },
@@ -531,7 +543,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 8000,
+   "stars": 8100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -555,7 +567,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 418,
+   "stars": 425,
    "archived": false,
    "metadata_status": "live"
   },
@@ -591,7 +603,7 @@
    "description": "揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 1000,
+   "stars": 1300,
    "archived": false,
    "metadata_status": "live"
   }

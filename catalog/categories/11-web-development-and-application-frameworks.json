@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🌐 Web development and application frameworks",
  "category_id": "11-web-development-and-application-frameworks",
  "repo_count": 25,
@@ -27,7 +27,7 @@
    "description": "The Web framework for perfectionists with deadlines.",
    "description_source": "github",
    "language": "Python",
-   "stars": 91900,
+   "stars": 91800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
    "description_source": "github",
    "language": "Python",
-   "stars": 105100,
+   "stars": 104900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
    "description_source": "github",
    "language": "Dart",
-   "stars": 181500,
+   "stars": 181400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -75,7 +75,7 @@
    "description": "The world’s fastest framework for building websites.",
    "description_source": "github",
    "language": "Go",
-   "stars": 90500,
+   "stars": 90600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Laravel is a web application framework with expressive, elegant syntax.",
    "description_source": "github",
    "language": "PHP",
-   "stars": 35000,
+   "stars": 35100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 672,
+   "stars": 695,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 842,
+   "stars": 850,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Ruby on Rails",
    "description_source": "github",
    "language": "Ruby",
-   "stars": 59200,
+   "stars": 59100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The library for web and native user interfaces.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 252900,
+   "stars": 252800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 128800,
+   "stars": 128900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "web development for the rest of us",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 89900,
+   "stars": 89800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 113200,
+   "stars": 113100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 28100,
+   "stars": 28200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "Next generation frontend tooling. It's fast!",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 84000,
+   "stars": 84100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "Fast and simple diagrams.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 453,
+   "stars": 454,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +303,7 @@
    "description": "The web framework for content-driven websites.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 64100,
+   "stars": 64200,
    "archived": false,
    "metadata_status": "live"
   }

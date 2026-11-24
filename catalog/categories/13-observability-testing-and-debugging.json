@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-23T05:35:14+05:30",
+ "metadata_refreshed": "2026-11-24T05:41:24+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 21,
@@ -63,7 +63,7 @@
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 78000,
+   "stars": 78100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37700,
+   "stars": 37800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 557,
+   "stars": 599,
    "archived": false,
    "metadata_status": "live"
   },
