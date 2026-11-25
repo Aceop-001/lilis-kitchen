@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-24T05:41:24+05:30",
- "repo_count": 452,
+ "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "repo_count": 456,
  "category_count": 18,
  "categories": [
   {
@@ -73,14 +73,14 @@
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 37,
+   "count": 38,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
    "id": "11-web-development-and-application-frameworks",
    "title": "🌐 Web development and application frameworks",
    "description": "Web development and application frameworks.",
-   "count": 25,
+   "count": 26,
    "file": "catalog/categories/11-web-development-and-application-frameworks.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 42,
+   "count": 44,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

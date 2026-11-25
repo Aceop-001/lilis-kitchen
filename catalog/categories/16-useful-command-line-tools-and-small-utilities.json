@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-24T05:41:24+05:30",
+ "metadata_refreshed": "2026-11-25T05:42:56+05:30",
  "category": "🐚 Useful command-line tools and small utilities",
  "category_id": "16-useful-command-line-tools-and-small-utilities",
- "repo_count": 42,
+ "repo_count": 44,
  "repositories": [
   {
    "name": "ajeetdsouza/zoxide",
@@ -27,7 +27,7 @@
    "description": "Local voice dictation for mac, windows and linux",
    "description_source": "github",
    "language": "Rust",
-   "stars": 8300,
+   "stars": 8600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 259,
+   "stars": 260,
    "archived": false,
    "metadata_status": "live"
   },
@@ -80,6 +80,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "avaneesh-inamdar/stream-tube-desktop",
+   "url": "https://github.com/avaneesh-inamdar/stream-tube-desktop",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 869,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "burntsushi/ripgrep",
    "url": "https://github.com/burntsushi/ripgrep",
    "category": "🐚 Useful command-line tools and small utilities",
@@ -87,7 +99,7 @@
    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
    "description_source": "github",
    "language": "Rust",
-   "stars": 70200,
+   "stars": 70300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "A lightweight Calibre alternative",
    "description_source": "github",
    "language": "Go",
-   "stars": 418,
+   "stars": 419,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +159,7 @@
    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
    "description_source": "github",
    "language": "C",
-   "stars": 68000,
+   "stars": 68100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +195,7 @@
    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 858,
+   "stars": 861,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +207,7 @@
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "description_source": "github",
    "language": "Python",
-   "stars": 2300,
+   "stars": 2500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Command-line JSON processor",
    "description_source": "github",
    "language": "C",
-   "stars": 36200,
+   "stars": 36300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
    "description_source": "github",
    "language": "Zig",
-   "stars": 408,
+   "stars": 407,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1400,
+   "stars": 1500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +315,7 @@
    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 349,
+   "stars": 353,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,19 @@
    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
    "description_source": "github",
    "language": "C",
-   "stars": 80000,
+   "stars": 80100,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "os6/nospeaker",
+   "url": "https://github.com/os6/nospeaker",
+   "category": "🐚 Useful command-line tools and small utilities",
+   "category_id": "16-useful-command-line-tools-and-small-utilities",
+   "description": "make your macbook's trackpad talk using its haptic motor",
+   "description_source": "github",
+   "language": "Swift",
+   "stars": 1800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +375,7 @@
    "description": "A cat(1) clone with wings.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 61400,
+   "stars": 61500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +399,7 @@
    "description": "A command-line benchmarking tool",
    "description_source": "github",
    "language": "Rust",
-   "stars": 29300,
+   "stars": 29400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -447,7 +471,7 @@
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2600,
+   "stars": 3200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +495,7 @@
    "description": "A feature-rich command-line audio/video downloader",
    "description_source": "github",
    "language": "Python",
-   "stars": 210200,
+   "stars": 210500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -495,7 +519,7 @@
    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "description_source": "github",
    "language": "Python",
-   "stars": 14400,
+   "stars": 15300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -507,7 +531,7 @@
    "description": "Feels great. Weighs nothing. The lightweight browser for Mac.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 361,
+   "stars": 368,
    "archived": false,
    "metadata_status": "live"
   }
