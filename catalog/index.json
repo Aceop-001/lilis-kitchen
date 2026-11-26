@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
- "repo_count": 456,
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
+ "repo_count": 459,
  "category_count": 18,
  "categories": [
   {
@@ -66,14 +66,14 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 50,
+   "count": 51,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
    "id": "10-programming-languages-compilers-and-developer-tooling",
    "title": "🧰 Programming languages, compilers, and developer tooling",
    "description": "Programming languages, compilers, and developer tooling.",
-   "count": 38,
+   "count": 39,
    "file": "catalog/categories/10-programming-languages-compilers-and-developer-tooling.json"
   },
   {
@@ -115,7 +115,7 @@
    "id": "16-useful-command-line-tools-and-small-utilities",
    "title": "🐚 Useful command-line tools and small utilities",
    "description": "Handy command-line tools and small utilities.",
-   "count": 44,
+   "count": 45,
    "file": "catalog/categories/16-useful-command-line-tools-and-small-utilities.json"
   },
   {

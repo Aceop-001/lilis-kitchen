@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
  "repo_count": 28,
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 379100,
+   "stars": 379200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 66,
+   "stars": 67,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "A complete computer science study plan to become a software engineer.",
    "description_source": "github",
    "language": null,
-   "stars": 365000,
+   "stars": 365100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
    "description_source": "github",
    "language": "Python",
-   "stars": 65000,
+   "stars": 65100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "🎓 Path to a free self-taught education in Computer Science!",
    "description_source": "github",
    "language": "HTML",
-   "stars": 211500,
+   "stars": 211600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 501200,
+   "stars": 501500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 109000,
+   "stars": 109100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 542300,
+   "stars": 542800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +267,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 273,
+   "stars": 278,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +291,7 @@
    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
    "description_source": "github",
    "language": "Python",
-   "stars": 31900,
+   "stars": 32000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
    "description_source": "github",
    "language": "Python",
-   "stars": 269,
+   "stars": 275,
    "archived": false,
    "metadata_status": "live"
   },

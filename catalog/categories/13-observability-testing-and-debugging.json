@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 21,
@@ -39,7 +39,7 @@
    "description": "The LLM Evaluation Framework",
    "description_source": "github",
    "language": "Python",
-   "stars": 19600,
+   "stars": 19700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -62,8 +62,8 @@
    "category_id": "13-observability-testing-and-debugging",
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
-   "language": "Go",
-   "stars": 78100,
+   "language": "TypeScript",
+   "stars": 78200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Like Prometheus, but for logs.",
    "description_source": "github",
    "language": "Go",
-   "stars": 29200,
+   "stars": 29300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 37800,
+   "stars": 37900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "The Prometheus monitoring system and time series database.",
    "description_source": "github",
    "language": "Go",
-   "stars": 67800,
+   "stars": 67900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27600,
+   "stars": 27700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 605,
+   "stars": 613,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "Next generation testing framework powered by Vite.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 17400,
+   "stars": 17500,
    "archived": false,
    "metadata_status": "live"
   },

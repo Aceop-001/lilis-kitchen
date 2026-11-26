@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🗽 Digital independence and long-term personal infrastructure",
  "category_id": "17-digital-independence-and-long-term-personal-infrastructure",
  "repo_count": 26,
@@ -27,7 +27,7 @@
    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
    "description_source": "github",
    "language": "Dart",
-   "stars": 79500,
+   "stars": 79600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "description_source": "github",
    "language": "Rust",
-   "stars": 1600,
+   "stars": 1700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 57300,
+   "stars": 57400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +207,7 @@
    "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 2700,
+   "stars": 2800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 78000,
+   "stars": 78500,
    "archived": false,
    "metadata_status": "live"
   },

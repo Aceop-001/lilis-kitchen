@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🧰 Programming languages, compilers, and developer tooling",
  "category_id": "10-programming-languages-compilers-and-developer-tooling",
- "repo_count": 38,
+ "repo_count": 39,
  "repositories": [
   {
    "name": "afk-surf/xnulinux",
@@ -14,8 +14,8 @@
    "category_id": "10-programming-languages-compilers-and-developer-tooling",
    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
    "description_source": "github",
-   "language": "Objective-C++",
-   "stars": 3300,
+   "language": "C",
+   "stars": 3900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "An extremely fast Python dead code finder, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 140,
+   "stars": 142,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "An extremely fast Python package and project manager, written in Rust.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 92600,
+   "stars": 92700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "Bring (back) sanity to your code",
    "description_source": "github",
    "language": "Rust",
-   "stars": 740,
+   "stars": 1100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
    "description_source": "github",
    "language": "Go",
-   "stars": 787,
+   "stars": 804,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Develop desktop apps with native UI or web frontend in Go",
    "description_source": "github",
    "language": "Go",
-   "stars": 6800,
+   "stars": 6900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,19 @@
    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 3600,
+   "stars": 4000,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "el4cteo/shrink-anything",
+   "url": "https://github.com/el4cteo/shrink-anything",
+   "category": "🧰 Programming languages, compilers, and developer tooling",
+   "category_id": "10-programming-languages-compilers-and-developer-tooling",
+   "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+   "description_source": "github",
+   "language": "Rust",
+   "stars": 279,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 9200,
+   "stars": 9600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +231,7 @@
    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "description_source": "github",
    "language": "Rust",
-   "stars": 13000,
+   "stars": 13400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "Relax Rust JIT",
    "description_source": "github",
    "language": "Rust",
-   "stars": 639,
+   "stars": 644,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "Nix Packages collection & NixOS",
    "description_source": "github",
    "language": "Nix",
-   "stars": 26900,
+   "stars": 27000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 123900,
+   "stars": 124000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -303,7 +315,7 @@
    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
    "description_source": "github",
    "language": "Rust",
-   "stars": 96900,
+   "stars": 97000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +327,7 @@
    "description": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1600,
+   "stars": 1800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +339,7 @@
    "description": "The Python programming language",
    "description_source": "github",
    "language": "Python",
-   "stars": 78400,
+   "stars": 78500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -339,7 +351,7 @@
    "description": "X posts rendered to PNG without a browser, in safe Rust and WebAssembly.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 149,
+   "stars": 150,
    "archived": false,
    "metadata_status": "live"
   },
@@ -351,7 +363,7 @@
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 863,
+   "stars": 873,
    "archived": false,
    "metadata_status": "live"
   },
@@ -363,7 +375,7 @@
    "description": "Empowering everyone to build reliable and efficient software.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 122400,
+   "stars": 122500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -375,7 +387,7 @@
    "description": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 531,
+   "stars": 540,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +399,7 @@
    "description": "An exact B-rep geometry kernel in Rust",
    "description_source": "github",
    "language": "Rust",
-   "stars": 74,
+   "stars": 81,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +411,7 @@
    "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 464,
+   "stars": 485,
    "archived": false,
    "metadata_status": "live"
   },
@@ -435,7 +447,7 @@
    "description": "Voxel sandbox engine in Rust and Vulkan where the base game is itself a mod built only on the public SDK.",
    "description_source": "vault_note",
    "language": "Rust",
-   "stars": 401,
+   "stars": 402,
    "archived": false,
    "metadata_status": "live"
   },

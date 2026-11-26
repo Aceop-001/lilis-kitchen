@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🤖 AI agents and agent frameworks",
  "category_id": "01-ai-agents-and-agent-frameworks",
  "repo_count": 35,
@@ -27,7 +27,7 @@
    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
    "description_source": "github",
    "language": "Python",
-   "stars": 121900,
+   "stars": 122100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -39,7 +39,7 @@
    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
    "description_source": "github",
    "language": "Python",
-   "stars": 61200,
+   "stars": 61300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "Towards a More Autonomous Agent System",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 24500,
+   "stars": 24600,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "An open-source, faster Devin alternative",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 1700,
+   "stars": 1800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
    "description_source": "github",
    "language": "Python",
-   "stars": 22300,
+   "stars": 22400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "Entire MacOS running in your terminal.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 2900,
+   "stars": 3000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 1000,
+   "stars": 1100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 470,
+   "stars": 546,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 1900,
+   "stars": 2100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -219,7 +219,7 @@
    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
    "description_source": "github",
    "language": "Python",
-   "stars": 69400,
+   "stars": 69500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +255,7 @@
    "description": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
    "description_source": "github",
    "language": "Go",
-   "stars": 3400,
+   "stars": 3500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +279,7 @@
    "description": "🙌 OpenHands: AI-Driven Development",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 94200,
+   "stars": 94300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +315,7 @@
    "description": "A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
    "description_source": "github",
    "language": "Swift",
-   "stars": 289,
+   "stars": 293,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +327,7 @@
    "description": "A Tiny biped duck robot 🦆",
    "description_source": "github",
    "language": "Rust",
-   "stars": 14000,
+   "stars": 14100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -387,7 +387,7 @@
    "description": "Computer use CLI for AI agents",
    "description_source": "github",
    "language": "Rust",
-   "stars": 26500,
+   "stars": 26700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -399,7 +399,7 @@
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 9900,
+   "stars": 10000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +423,7 @@
    "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
    "description_source": "github",
    "language": "Python",
-   "stars": 485,
+   "stars": 484,
    "archived": false,
    "metadata_status": "live"
   }

@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "💻 AI coding assistants and developer productivity",
  "category_id": "05-ai-coding-assistants-and-developer-productivity",
  "repo_count": 21,
@@ -15,7 +15,7 @@
    "description": "aider is AI pair programming in your terminal",
    "description_source": "github",
    "language": "Python",
-   "stars": 50200,
+   "stars": 50300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "The open source coding agent.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 229000,
+   "stars": 229200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -87,7 +87,7 @@
    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 722,
+   "stars": 723,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 6700,
+   "stars": 6900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -147,7 +147,7 @@
    "description": "Visual Studio Code",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 195700,
+   "stars": 195800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "Happy helper for your terminal",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 214,
+   "stars": 215,
    "archived": false,
    "metadata_status": "live"
   },

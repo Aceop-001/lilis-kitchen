@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🔐 Security, privacy, and reverse engineering",
  "category_id": "09-security-privacy-and-reverse-engineering",
- "repo_count": 50,
+ "repo_count": 51,
  "repositories": [
   {
    "name": "Snapintosh/Snapintosh",
@@ -27,7 +27,7 @@
    "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 257,
+   "stars": 256,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
    "description_source": "github",
    "language": "Rust",
-   "stars": 71300,
+   "stars": 71400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -80,6 +80,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "erkamyaman/rea-games",
+   "url": "https://github.com/erkamyaman/rea-games",
+   "category": "🔐 Security, privacy, and reverse engineering",
+   "category_id": "09-security-privacy-and-reverse-engineering",
+   "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+   "description_source": "github",
+   "language": "JavaScript",
+   "stars": 191,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "erkamyaman/safe-anything",
    "url": "https://github.com/erkamyaman/safe-anything",
    "category": "🔐 Security, privacy, and reverse engineering",
@@ -87,7 +99,7 @@
    "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 624,
+   "stars": 704,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +135,7 @@
    "description": "Main repo for hosting release binaries",
    "description_source": "github",
    "language": "Meson",
-   "stars": 22900,
+   "stars": 23000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +147,7 @@
    "description": "Simple and flexible tool for managing secrets",
    "description_source": "github",
    "language": "Go",
-   "stars": 23800,
+   "stars": 23900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +171,7 @@
    "description": "Find secrets with Gitleaks 🔑",
    "description_source": "github",
    "language": "Go",
-   "stars": 31300,
+   "stars": 31400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +183,7 @@
    "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
    "description_source": "github",
    "language": "C++",
-   "stars": 761,
+   "stars": 766,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
    "description_source": "github",
    "language": "Python",
-   "stars": 754,
+   "stars": 784,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +255,7 @@
    "description": "An open source, self-hosted implementation of the Tailscale control server",
    "description_source": "github",
    "language": "Go",
-   "stars": 46000,
+   "stars": 46100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
    "description_source": "github",
    "language": "Python",
-   "stars": 13000,
+   "stars": 13400,
    "archived": false,
    "metadata_status": "live"
   },
@@ -279,7 +291,7 @@
    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
    "description_source": "github",
    "language": "C++",
-   "stars": 30100,
+   "stars": 30200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -291,7 +303,7 @@
    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
    "description_source": "github",
    "language": "Python",
-   "stars": 716,
+   "stars": 717,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +327,7 @@
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "description_source": "github",
    "language": "Java",
-   "stars": 101200,
+   "stars": 101300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -423,7 +435,7 @@
    "description": "An open-source reimplementation of the phone side of Android Auto",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 650,
+   "stars": 664,
    "archived": false,
    "metadata_status": "live"
   },
@@ -471,7 +483,7 @@
    "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
    "description_source": "github",
    "language": "C++",
-   "stars": 563,
+   "stars": 577,
    "archived": false,
    "metadata_status": "live"
   },
@@ -483,7 +495,7 @@
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 42800,
+   "stars": 43500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -507,7 +519,7 @@
    "description": "Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them",
    "description_source": "github",
    "language": "Rocq Prover",
-   "stars": 225,
+   "stars": 226,
    "archived": false,
    "metadata_status": "live"
   },
@@ -519,7 +531,7 @@
    "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
    "description_source": "github",
    "language": "Python",
-   "stars": 625,
+   "stars": 693,
    "archived": false,
    "metadata_status": "live"
   },
@@ -531,7 +543,7 @@
    "description": "Find, verify, and analyze leaked credentials",
    "description_source": "github",
    "language": "Go",
-   "stars": 29600,
+   "stars": 29700,
    "archived": false,
    "metadata_status": "live"
   },
@@ -543,7 +555,7 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "description_source": "github",
    "language": "C",
-   "stars": 8200,
+   "stars": 8300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -567,7 +579,7 @@
    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
    "description_source": "github",
    "language": "C++",
-   "stars": 431,
+   "stars": 439,
    "archived": false,
    "metadata_status": "live"
   },
@@ -603,7 +615,7 @@
    "description": "揪咪 Jiumi：开源安卓应用行为监测与管理 App，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
    "description_source": "github",
    "language": "Kotlin",
-   "stars": 1400,
+   "stars": 1600,
    "archived": false,
    "metadata_status": "live"
   }

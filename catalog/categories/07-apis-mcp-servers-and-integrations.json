@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-25T05:42:56+05:30",
+ "metadata_refreshed": "2026-11-26T05:41:41+05:30",
  "category": "🔌 APIs, MCP servers, and integrations",
  "category_id": "07-apis-mcp-servers-and-integrations",
  "repo_count": 15,
@@ -15,7 +15,7 @@
    "description": "A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electron, 100% local-first.",
    "description_source": "github",
    "language": "Python",
-   "stars": 185,
+   "stars": 186,
    "archived": false,
    "metadata_status": "live"
   },
@@ -27,7 +27,7 @@
    "description": "GitHub's official MCP Server",
    "description_source": "github",
    "language": "Go",
-   "stars": 34700,
+   "stars": 34800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -51,7 +51,7 @@
    "description": "MCP server and CLI that lets AI agents (Claude Code, Codex, Cursor) see and control Android phones and iPhones. Reads the screen as text. Asks before it pays.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 366,
+   "stars": 375,
    "archived": false,
    "metadata_status": "live"
   },
@@ -123,7 +123,7 @@
    "description": "Model Context Protocol Reference Servers",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 92200,
+   "stars": 92300,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "description_source": "github",
    "language": "Python",
-   "stars": 28700,
+   "stars": 28800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 48500,
+   "stars": 48600,
    "archived": false,
    "metadata_status": "live"
   }
