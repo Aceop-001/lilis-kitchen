@@ -63,7 +63,7 @@ Matches span categories: 🤖 AI agents and agent frameworks (2); 📖 RAG, vect
 
 **459 unique repositories** across **18 categories**.
 
-**Last metadata refresh:** 2026-11-26 05:41 IST
+**Last metadata refresh:** 2026-11-26 05:42 IST
 
 **Main project areas:** 🤖 AI agents and agent frameworks · 🧩 Agent skills, reusable instructions, and tool integrations · 🧠 LLM inference, local AI, and model serving · 📖 RAG, vector search, and knowledge management · 💻 AI coding assistants and developer productivity · ⚡ Automation, workflows, and scripting · 🔌 APIs, MCP servers, and integrations · 💾 Databases, storage, backups, and synchronization · 🔐 Security, privacy, and reverse engineering · 🧰 Programming languages, compilers, and developer tooling · 🌐 Web development and application frameworks · 🏠 Self-hosted applications and infrastructure · 🔍 Observability, testing, and debugging · 📊 Data engineering and analytics · 🎓 Research tools, documentation, and learning resources · 🐚 Useful command-line tools and small utilities · 🗽 Digital independence and long-term personal infrastructure · 📁 Security, privacy, and reverse engineering
 
