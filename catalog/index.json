@@ -2,8 +2,8 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-26T05:42:02+05:30",
- "repo_count": 459,
+ "metadata_refreshed": "2026-11-27T05:38:20+05:30",
+ "repo_count": 463,
  "category_count": 18,
  "categories": [
   {
@@ -24,7 +24,7 @@
    "id": "03-llm-inference-local-ai-and-model-serving",
    "title": "🧠 LLM inference, local AI, and model serving",
    "description": "Tools for running, serving, and optimizing AI models locally or on your own infrastructure.",
-   "count": 31,
+   "count": 32,
    "file": "catalog/categories/03-llm-inference-local-ai-and-model-serving.json"
   },
   {
@@ -66,7 +66,7 @@
    "id": "09-security-privacy-and-reverse-engineering",
    "title": "🔐 Security, privacy, and reverse engineering",
    "description": "Security, privacy, and reverse-engineering tools.",
-   "count": 51,
+   "count": 52,
    "file": "catalog/categories/09-security-privacy-and-reverse-engineering.json"
   },
   {
@@ -94,7 +94,7 @@
    "id": "13-observability-testing-and-debugging",
    "title": "🔍 Observability, testing, and debugging",
    "description": "Observability, testing, and debugging tools.",
-   "count": 21,
+   "count": 23,
    "file": "catalog/categories/13-observability-testing-and-debugging.json"
   },
   {

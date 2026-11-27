@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-26T05:42:02+05:30",
+ "metadata_refreshed": "2026-11-27T05:38:20+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
- "repo_count": 21,
+ "repo_count": 23,
  "repositories": [
   {
    "name": "arize-ai/phoenix",
@@ -62,7 +62,7 @@
    "category_id": "13-observability-testing-and-debugging",
    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
    "description_source": "github",
-   "language": "TypeScript",
+   "language": "Go",
    "stars": 78200,
    "archived": false,
    "metadata_status": "live"
@@ -128,6 +128,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "michidk/sidebyside",
+   "url": "https://github.com/michidk/sidebyside",
+   "category": "🔍 Observability, testing, and debugging",
+   "category_id": "13-observability-testing-and-debugging",
+   "description": "Open one URL in Firefox, Chromium, Epiphany and more side by side, each a real browser in its own Linux VM running in WebAssembly in your tab. A static page, no server.",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 48,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "open-telemetry/opentelemetry-collector",
    "url": "https://github.com/open-telemetry/opentelemetry-collector",
    "category": "🔍 Observability, testing, and debugging",
@@ -183,7 +195,7 @@
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 613,
+   "stars": 614,
    "archived": false,
    "metadata_status": "live"
   },
@@ -207,7 +219,7 @@
    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs (plus Huawei Ascend on Linux).",
    "description_source": "github",
    "language": "Python",
-   "stars": 3800,
+   "stars": 3900,
    "archived": false,
    "metadata_status": "live"
   },
@@ -220,6 +232,18 @@
    "description_source": "github",
    "language": "TypeScript",
    "stars": 32700,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
+   "name": "tracer-cloud/opensre",
+   "url": "https://github.com/tracer-cloud/opensre",
+   "category": "🔍 Observability, testing, and debugging",
+   "category_id": "13-observability-testing-and-debugging",
+   "description": "The open-source agent for CI/CD reliability.",
+   "description_source": "github",
+   "language": "Python",
+   "stars": 15800,
    "archived": false,
    "metadata_status": "live"
   },
