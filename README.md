@@ -1620,7 +1620,7 @@ Main repo for hosting release binaries
 
 fck\_data\_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.
 
-⭐ Stars: 358  
+⭐ Stars: 359  
 💻 Language: Python  
 🔗 [github.com/gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)
 

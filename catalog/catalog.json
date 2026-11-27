@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:20+05:30",
+ "metadata_refreshed": "2026-11-27T05:38:53+05:30",
  "repo_count": 463,
  "category_count": 18,
  "repositories": [
@@ -2210,7 +2210,7 @@
    "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
    "description_source": "github",
    "language": "Python",
-   "stars": 358,
+   "stars": 359,
    "archived": false,
    "metadata_status": "live"
   },
