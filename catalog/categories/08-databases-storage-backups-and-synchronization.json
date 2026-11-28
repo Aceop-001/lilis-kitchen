@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:53+05:30",
+ "metadata_refreshed": "2026-11-28T05:43:26+05:30",
  "category": "💾 Databases, storage, backups, and synchronization",
  "category_id": "08-databases-storage-backups-and-synchronization",
  "repo_count": 19,
@@ -87,7 +87,7 @@
    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
    "description_source": "github",
    "language": "Go",
-   "stars": 61200,
+   "stars": 61300,
    "archived": true,
    "metadata_status": "live"
   },
@@ -183,7 +183,7 @@
    "description": "Official Git mirror of the SQLite source tree",
    "description_source": "github",
    "language": "C",
-   "stars": 11100,
+   "stars": 11200,
    "archived": false,
    "metadata_status": "live"
   },

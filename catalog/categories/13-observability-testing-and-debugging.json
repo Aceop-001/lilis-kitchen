@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:53+05:30",
+ "metadata_refreshed": "2026-11-28T05:43:26+05:30",
  "category": "🔍 Observability, testing, and debugging",
  "category_id": "13-observability-testing-and-debugging",
  "repo_count": 23,
@@ -15,7 +15,7 @@
    "description": "AI Observability & Evaluation",
    "description_source": "github",
    "language": "Python",
-   "stars": 12400,
+   "stars": 12500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "CNCF Jaeger, a Distributed Tracing Platform",
    "description_source": "github",
    "language": "Go",
-   "stars": 23400,
+   "stars": 23500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Open one URL in Firefox, Chromium, Epiphany and more side by side, each a real browser in its own Linux VM running in WebAssembly in your tab. A static page, no server.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 48,
+   "stars": 85,
    "archived": false,
    "metadata_status": "live"
   },
@@ -171,7 +171,7 @@
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 27700,
+   "stars": 27800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -195,7 +195,7 @@
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 614,
+   "stars": 621,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +231,7 @@
    "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 32700,
+   "stars": 32800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -243,7 +243,7 @@
    "description": "The open-source agent for CI/CD reliability.",
    "description_source": "github",
    "language": "Python",
-   "stars": 15800,
+   "stars": 16100,
    "archived": false,
    "metadata_status": "live"
   },

@@ -2,10 +2,10 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:53+05:30",
+ "metadata_refreshed": "2026-11-28T05:43:26+05:30",
  "category": "🎓 Research tools, documentation, and learning resources",
  "category_id": "15-research-tools-documentation-and-learning-resources",
- "repo_count": 28,
+ "repo_count": 29,
  "repositories": [
   {
    "name": "archivebox/archivebox",
@@ -27,7 +27,7 @@
    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
    "description_source": "github",
    "language": "Python",
-   "stars": 30900,
+   "stars": 31000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -63,7 +63,7 @@
    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
    "description_source": "github",
    "language": "Python",
-   "stars": 379400,
+   "stars": 379500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -99,7 +99,7 @@
    "description": "64-bit out-of-order superscalar RISC-V processor (RV64IMAFDV + Zba/Zbb) in SystemVerilog. Boots Linux 6.6.50 + BusyBox under Sv39 virtual memory and meets 500 MHz timing in Nangate 45nm.",
    "description_source": "github",
    "language": "C++",
-   "stars": 67,
+   "stars": 68,
    "archived": false,
    "metadata_status": "live"
   },
@@ -135,7 +135,7 @@
    "description": "Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.",
    "description_source": "github",
    "language": "TypeScript",
-   "stars": 251,
+   "stars": 252,
    "archived": false,
    "metadata_status": "live"
   },
@@ -188,6 +188,18 @@
    "metadata_status": "live"
   },
   {
+   "name": "linjiejim/ohmwork",
+   "url": "https://github.com/linjiejim/ohmwork",
+   "category": "🎓 Research tools, documentation, and learning resources",
+   "category_id": "15-research-tools-documentation-and-learning-resources",
+   "description": "交互式电子电路学堂：用可以动手拨弄的仿真学电路",
+   "description_source": "github",
+   "language": "TypeScript",
+   "stars": 520,
+   "archived": false,
+   "metadata_status": "live"
+  },
+  {
    "name": "mkdocs/mkdocs",
    "url": "https://github.com/mkdocs/mkdocs",
    "category": "🎓 Research tools, documentation, and learning resources",
@@ -219,7 +231,7 @@
    "description": "A collective list of free APIs",
    "description_source": "github",
    "language": "Python",
-   "stars": 501700,
+   "stars": 501800,
    "archived": false,
    "metadata_status": "live"
   },
@@ -231,7 +243,7 @@
    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
    "description_source": "github",
    "language": "Jupyter Notebook",
-   "stars": 109100,
+   "stars": 109200,
    "archived": false,
    "metadata_status": "live"
   },
@@ -255,7 +267,7 @@
    "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
    "description_source": "github",
    "language": null,
-   "stars": 543400,
+   "stars": 544000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -267,7 +279,7 @@
    "description": "A lightweight, scaleable rigid-body physics solver",
    "description_source": "github",
    "language": "Python",
-   "stars": 282,
+   "stars": 284,
    "archived": false,
    "metadata_status": "live"
   },
@@ -315,7 +327,7 @@
    "description": "A markup-based typesetting system that is powerful and easy to learn.",
    "description_source": "github",
    "language": "Rust",
-   "stars": 57400,
+   "stars": 57500,
    "archived": false,
    "metadata_status": "live"
   },
@@ -327,7 +339,7 @@
    "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
    "description_source": "github",
    "language": "Python",
-   "stars": 279,
+   "stars": 281,
    "archived": false,
    "metadata_status": "live"
   },

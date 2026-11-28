@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:53+05:30",
+ "metadata_refreshed": "2026-11-28T05:43:26+05:30",
  "category": "📖 RAG, vector search, and knowledge management",
  "category_id": "04-rag-vector-search-and-knowledge-management",
  "repo_count": 19,
@@ -63,7 +63,7 @@
    "description": "A library for efficient similarity search and clustering of dense vectors.",
    "description_source": "github",
    "language": "C++",
-   "stars": 41900,
+   "stars": 42000,
    "archived": false,
    "metadata_status": "live"
   },
@@ -111,7 +111,7 @@
    "description": "The agent engineering platform.",
    "description_source": "github",
    "language": "Python",
-   "stars": 150000,
+   "stars": 150100,
    "archived": false,
    "metadata_status": "live"
   },
@@ -159,7 +159,7 @@
    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
    "description_source": "github",
    "language": "Go",
-   "stars": 46700,
+   "stars": 46800,
    "archived": false,
    "metadata_status": "live"
   },

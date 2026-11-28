@@ -2,7 +2,7 @@
  "schema_version": 1,
  "project": "Lili's Kitchen",
  "source": "https://github.com/Aceop-001/lilis-kitchen",
- "metadata_refreshed": "2026-11-27T05:38:53+05:30",
+ "metadata_refreshed": "2026-11-28T05:43:26+05:30",
  "category": "📁 Security, privacy, and reverse engineering",
  "category_id": "9-security-privacy-and-reverse-engineering",
  "repo_count": 1,
@@ -15,7 +15,7 @@
    "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
    "description_source": "github",
    "language": "JavaScript",
-   "stars": 411,
+   "stars": 409,
    "archived": false,
    "metadata_status": "live"
   }
